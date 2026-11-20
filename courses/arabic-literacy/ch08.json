@@ -1,0 +1,2000 @@
+{
+  "chapter": 8,
+  "title": "Quranic Codex",
+  "bookPages": "137-142",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 08",
+    "title": "Quranic script, decoded.",
+    "subtitle": "A visual guide to the Uthmani marks that change how a Quranic word is read · Book pp. 137-140",
+    "coreIdea": "The Quran uses the **same letters** in a **special spelling** (Uthmani script). Its small marks tell you what to **add**, **skip** or **hold** -- read the marks, not the bare spelling.",
+    "coreIdeaNote": "Same sound, special spelling: ٱلصَّلَوٰةَ is the regular اَلصَّلَاةَ, read ʔaṣ ṣa laah (book p. 137).",
+    "sections": [
+      {
+        "heading": "The symbol table",
+        "bookPages": "138-140",
+        "note": "Book pp. 138-140 · two readings = waṣl / waqf",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Mark (on a letter)",
+              "What it means",
+              "Regular script",
+              "Example",
+              "Read"
+            ],
+            "rows": [
+              [
+                "ذَٰ",
+                "**Dagger alif**: say long aa",
+                "ـَا",
+                "ذَٰلِكَ",
+                "dhaa li ka"
+              ],
+              [
+                "هُۥ",
+                "**Small waaw**: long uu",
+                "ـُو",
+                "يَرَهُۥ",
+                "ya ra huu / ya rah"
+              ],
+              [
+                "هِۦ",
+                "**Small yaaʔ**: long ii",
+                "ـِي",
+                "بِهِۦ",
+                "bi hii / bih"
+              ],
+              [
+                "لۡ",
+                "**Quranic sukuun**: no vowel",
+                "لْ",
+                "قُلۡ",
+                "qul"
+              ],
+              [
+                "ن",
+                "**Bare letter**: sukuun too",
+                "نْ",
+                "عَن",
+                "ʿan"
+              ],
+              [
+                "ا۟",
+                "**Silent letter**: skip it",
+                "written, not read",
+                "يَفۡرَحُوا۟",
+                "yaf ra ḥuu"
+              ],
+              [
+                "ٱ",
+                "**Alif waṣl**: said only at a start",
+                "ا",
+                "وَٱلۡعَصۡرِ",
+                "wal ʿaṣr"
+              ],
+              [
+                "مَآ",
+                "**Madd**: hold twice as long",
+                "--",
+                "وَٱلسَّمَآءِ",
+                "was sa maaaa ʔ"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Small waaw and small yaaʔ",
+        "bookPages": "138",
+        "note": "Where is the small letter?",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "INSIDE THE WORD",
+                "kicker": "always pronounced",
+                "rows": [
+                  {
+                    "label": "small waaw = uu",
+                    "ar": "دَاوُۥدُ",
+                    "translit": "daa wuud"
+                  },
+                  {
+                    "label": "small yaaʔ = ii",
+                    "ar": "ٱلنَّبِيِّـۧنَ",
+                    "translit": "ʔan na biy yiin"
+                  }
+                ]
+              },
+              {
+                "title": "AFTER THE WORD",
+                "kicker": "waṣl: say it · waqf: drop it",
+                "rows": [
+                  {
+                    "label": "waṣl / waqf",
+                    "ar": "يَرَهُۥ",
+                    "translit": "ya ra huu / ya rah"
+                  },
+                  {
+                    "label": "waṣl / waqf",
+                    "ar": "مِّثۡلِهِۦ",
+                    "translit": "mith li hii / mith lih"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Two zeros: do not mix them up",
+        "bookPages": "139",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "QURANIC SUKUUN",
+                "kicker": "no vowel",
+                "ar": "قُلۡ",
+                "translit": "qul",
+                "caption": "No mark at all = sukuun too: عَن = ʿan"
+              },
+              {
+                "title": "SILENT LETTER",
+                "kicker": "skip the letter",
+                "ar": "أُو۟لُوا۟",
+                "translit": "ʔu luu",
+                "caption": "Read without the marked letters: مِا۟ئَةَ = mi ʔah"
+              }
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Avoid this mistake:",
+            "text": "The round sukuun of regular Arabic (لْ) does **not** mean sukuun in the Quran. There the round mark (ا۟) means a **silent letter**."
+          }
+        ]
+      }
+    ],
+    "exercisePages": "141-142",
+    "exerciseTitle": "Use it on the drills.",
+    "exerciseIntro": "The book has one drill: read Quranic phrases aloud (pp. 141-142). Split here into six passes, one per mark. Readings end in waqf.",
+    "exerciseGuide": [
+      {
+        "exercise": 1,
+        "pages": "141",
+        "task": "Read alif waṣl ٱ at the start and in the middle",
+        "method": "First word of the phrase: pronounce ٱ (ʔa, or ʔi as in ٱِعۡتَمَرَ). Anything before it: drop ٱ and link the previous vowel to the next sound.",
+        "example": {
+          "ar": "بِٱسۡمِ رَبِّكَ",
+          "translit": "bis mi rab bik",
+          "note": "ٱ dropped after بِ"
+        },
+        "contrast": {
+          "ar": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+          "translit": "ʔar raḥ maa nir ra ḥiim",
+          "note": "1st ٱ said, 2nd dropped"
+        }
+      },
+      {
+        "exercise": 2,
+        "pages": "141",
+        "task": "Decide whether the laam after ٱ is said",
+        "method": "لۡ (sukuun mark) = moon laam, say it. Bare laam + shaddah on the next letter = sun laam: skip the laam, double the next letter (Chapter 6).",
+        "example": {
+          "ar": "وَٱلۡقَمَرِ",
+          "translit": "wal qa mar",
+          "note": "لۡ -> said"
+        },
+        "contrast": {
+          "ar": "وَٱلشَّمۡسِ",
+          "translit": "wash shams",
+          "note": "bare laam -> silent"
+        }
+      },
+      {
+        "exercise": 3,
+        "pages": "141-142",
+        "task": "Turn every dagger alif into a long aa",
+        "method": "Small vertical alif = long aa. In ٱلۡحَيَوٰةِ, وٰ replaces a regular alif: read ḥa yaa, without a w sound. In زَكَّىٰهَا, ىٰ gives long aa. A waaw with fatḥah plus dagger alif, as in ٱلسَّمَٰوَٰتِ, is pronounced waa.",
+        "example": {
+          "ar": "ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+          "translit": "ʔal ḥa yaa tid dun yaa",
+          "note": "وٰ = aa, not w"
+        },
+        "contrast": {
+          "ar": "زَكَّىٰهَا",
+          "translit": "zak kaa haa",
+          "note": "ىٰ = aa"
+        }
+      },
+      {
+        "exercise": 4,
+        "pages": "141-142",
+        "task": "Say or drop the small waaw and small yaaʔ",
+        "method": "Inside a word: always say uu / ii. At the end of a word: say it when you keep reading (waṣl), drop it when you stop (waqf).",
+        "example": {
+          "ar": "عَنۡ عِبَادِهِۦ وَيَأۡخُذُ",
+          "translit": "ʿan ʿi baa di hii wa yaʔ khudh",
+          "note": "waṣl -> hii"
+        },
+        "contrast": {
+          "ar": "فَلۡيَدۡعُ نَادِيَهُۥ",
+          "translit": "fal yad ʿu naa di yah",
+          "note": "waqf -> dropped"
+        }
+      },
+      {
+        "exercise": 5,
+        "pages": "141",
+        "task": "Read sukuun: the head-shaped mark and bare letters",
+        "method": "A letter with the head-shaped mark, or with no mark at all, has no vowel: close the syllable. A bare ا / و / ي after its matching vowel is a long vowel.",
+        "example": {
+          "ar": "ٱلۡمَنفُوشِ",
+          "translit": "ʔal man fuush",
+          "note": "bare ن = sukuun"
+        },
+        "contrast": {
+          "ar": "وَٱلۡفَجۡرِ",
+          "translit": "wal fajr",
+          "note": "sukuun on laam and jiim"
+        }
+      },
+      {
+        "exercise": 6,
+        "pages": "142",
+        "task": "Skip silent letters, hold the madd",
+        "method": "A letter with the round zero is not read at all. A long vowel with the wavy madd sign is held about twice as long.",
+        "example": {
+          "ar": "ءَامَنُوا۟",
+          "translit": "ʔaa ma nuu",
+          "note": "final ا۟ silent"
+        },
+        "contrast": {
+          "ar": "أَوۡلِيَآءَ",
+          "translit": "ʔaw li yaaaa ʔ",
+          "note": "يَآ -> hold aa"
+        }
+      }
+    ],
+    "exerciseFooter": "**Pause signs:** the small letters above the line in ٱلۡأَرۡضِۚ or يَشَآءُۗ (p. 142) are not letters. The book does not teach them here: do not pronounce them."
+  },
+  "cards": [
+    {
+      "id": "ch08-c001",
+      "front": {
+        "ar": "ـٰ",
+        "en": "Quranic mark: what does it mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Dagger (superscript) alif = **pronounce alif**: always say long aa. Regular script: fatḥah + alif."
+      },
+      "translit": "",
+      "tags": [
+        "dagger-alif",
+        "symbol"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c002",
+      "front": {
+        "ar": "ذَٰلِكَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "dhaa li ka -- dagger alif on ذَٰ = long aa"
+      },
+      "translit": "dhaa li ka",
+      "tags": [
+        "dagger-alif"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c003",
+      "front": {
+        "ar": "ٱلۡكِتَٰبُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal ki taab (waqf) -- dagger alif on تَٰ = long aa"
+      },
+      "translit": "ʔal ki taab",
+      "tags": [
+        "dagger-alif"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c004",
+      "front": {
+        "ar": "ٱلصَّلَوٰةَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaṣ ṣa laah -- the waaw is not pronounced; the dagger alif on it means say aa"
+      },
+      "translit": "ʔaṣ ṣa laah",
+      "tags": [
+        "dagger-alif"
+      ],
+      "source": "pp. 137-138"
+    },
+    {
+      "id": "ch08-c005",
+      "front": {
+        "ar": "ٱلسَّمَٰوَٰتِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔas sa maa waat (waqf) -- two dagger alifs, two long aa"
+      },
+      "translit": "ʔas sa maa waat",
+      "tags": [
+        "dagger-alif"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c006",
+      "front": {
+        "ar": "ٱلزَّكَوٰةَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaz za kaah -- وٰ = aa, like ٱلصَّلَوٰةَ"
+      },
+      "translit": "ʔaz za kaah",
+      "tags": [
+        "dagger-alif"
+      ],
+      "source": "p. 137"
+    },
+    {
+      "id": "ch08-c007",
+      "front": {
+        "ar": "ٱلصَّلَوٰةَ",
+        "en": "Write it in regular Arabic"
+      },
+      "back": {
+        "ar": "اَلصَّلَاةَ",
+        "en": "Regular spelling: اَلصَّلَاةَ -- same pronunciation"
+      },
+      "translit": "ʔaṣ ṣa laah",
+      "tags": [
+        "uthmani-vs-regular"
+      ],
+      "source": "p. 137"
+    },
+    {
+      "id": "ch08-c008",
+      "front": {
+        "ar": "ٱلسَّمَٰوَٰتِ",
+        "en": "Write it in regular Arabic"
+      },
+      "back": {
+        "ar": "اَلسَّمَاوَاتِ",
+        "en": "Regular spelling: اَلسَّمَاوَاتِ -- each dagger alif becomes a written alif"
+      },
+      "translit": "ʔas sa maa waat",
+      "tags": [
+        "uthmani-vs-regular"
+      ],
+      "source": "p. 137"
+    },
+    {
+      "id": "ch08-c009",
+      "front": {
+        "ar": "إِۦلَٰفِهِمۡ",
+        "en": "Write it in regular Arabic"
+      },
+      "back": {
+        "ar": "إِيلَافِهِمْ",
+        "en": "Regular spelling: إِيلَافِهِمْ -- small yaaʔ (إِۦ) = ي, dagger alif (لَٰ) = ا"
+      },
+      "translit": "ʔii laa fi him",
+      "tags": [
+        "uthmani-vs-regular"
+      ],
+      "source": "pp. 137-138"
+    },
+    {
+      "id": "ch08-c010",
+      "front": {
+        "ar": "هُۥ",
+        "en": "Quranic mark: what does the small waaw after هُ mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Small waaw = **pronounce waaw**: long uu. Inside a word always said; at the end of a word only in waṣl."
+      },
+      "translit": "",
+      "tags": [
+        "small-waaw",
+        "symbol"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c011",
+      "front": {
+        "ar": "هِۦ",
+        "en": "Quranic mark: what does the small yaaʔ after هِ mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Small yaaʔ = **pronounce yaaʔ**: long ii. Inside a word always said; at the end of a word only in waṣl."
+      },
+      "translit": "",
+      "tags": [
+        "small-yaa",
+        "symbol"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c012",
+      "front": {
+        "ar": "دَاوُۥدُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "daa wuud -- small waaw inside the word: said in waqf and waṣl"
+      },
+      "translit": "daa wuud",
+      "tags": [
+        "small-waaw"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c013",
+      "front": {
+        "ar": "يَلۡوُۥنَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yal wuun (waqf) -- small waaw inside the word: always said"
+      },
+      "translit": "yal wuun",
+      "tags": [
+        "small-waaw"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c014",
+      "front": {
+        "ar": "يَرَهُۥ",
+        "en": "Read it in waṣl and in waqf"
+      },
+      "back": {
+        "ar": "",
+        "en": "waṣl: ya ra huu · waqf: ya rah -- final small waaw is dropped at a stop"
+      },
+      "translit": "ya ra huu / ya rah",
+      "tags": [
+        "small-waaw",
+        "waqf-wasl"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c015",
+      "front": {
+        "ar": "حَوۡلَهُۥ",
+        "en": "Read it in waṣl and in waqf"
+      },
+      "back": {
+        "ar": "",
+        "en": "waṣl: ḥaw la huu · waqf: ḥaw lah"
+      },
+      "translit": "ḥaw la huu / ḥaw lah",
+      "tags": [
+        "small-waaw",
+        "waqf-wasl"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c016",
+      "front": {
+        "ar": "بِهِۦ",
+        "en": "Read it in waṣl and in waqf"
+      },
+      "back": {
+        "ar": "",
+        "en": "waṣl: bi hii · waqf: bih -- final small yaaʔ is dropped at a stop. (The book's box on p. 138 shows the two labels the other way round; the rule in the text is as given here.)"
+      },
+      "translit": "bi hii / bih",
+      "tags": [
+        "small-yaa",
+        "waqf-wasl"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c017",
+      "front": {
+        "ar": "مِّثۡلِهِۦ",
+        "en": "Read it in waṣl and in waqf"
+      },
+      "back": {
+        "ar": "",
+        "en": "waṣl: mith li hii · waqf: mith lih"
+      },
+      "translit": "mith li hii / mith lih",
+      "tags": [
+        "small-yaa",
+        "waqf-wasl"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c018",
+      "front": {
+        "ar": "ٱلنَّبِيِّـۧنَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔan na biy yiin -- small yaaʔ inside the word: always said"
+      },
+      "translit": "ʔan na biy yiin",
+      "tags": [
+        "small-yaa"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c019",
+      "front": {
+        "ar": "ـۡ",
+        "en": "Quranic mark: what does it mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Quranic **sukuun**: the letter has no vowel (regular script: ـْ)."
+      },
+      "translit": "",
+      "tags": [
+        "sukuun",
+        "symbol"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c020",
+      "front": {
+        "ar": "قُلۡ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "qul -- لۡ = sukuun"
+      },
+      "translit": "qul",
+      "tags": [
+        "sukuun"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c021",
+      "front": {
+        "ar": "فَسَبِّحۡ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fa sab biḥ -- حۡ = sukuun"
+      },
+      "translit": "fa sab biḥ",
+      "tags": [
+        "sukuun"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c022",
+      "front": {
+        "ar": "نَصۡرُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "naṣr (waqf) -- صۡ = sukuun"
+      },
+      "translit": "naṣr",
+      "tags": [
+        "sukuun"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c023",
+      "front": {
+        "ar": "ٱلۡعُقَدِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal ʿu qad (waqf) -- the sukuun mark on the laam (لۡ): moon laam, said"
+      },
+      "translit": "ʔal ʿu qad",
+      "tags": [
+        "sukuun",
+        "laam"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c024",
+      "front": {
+        "ar": "عَن",
+        "en": "Why does ن have no mark?"
+      },
+      "back": {
+        "ar": "",
+        "en": "A letter completely free of marks also has **sukuun**: ʿan"
+      },
+      "translit": "ʿan",
+      "tags": [
+        "sukuun",
+        "bare-letter"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c025",
+      "front": {
+        "ar": "ٱلۡإِنسَٰنَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal ʔin saan (waqf) -- bare ن = sukuun; dagger alif on س = aa"
+      },
+      "translit": "ʔal ʔin saan",
+      "tags": [
+        "sukuun",
+        "bare-letter"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c026",
+      "front": {
+        "ar": "ٱلۡمَاعُونَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal maa ʿuun (waqf) -- the bare alif carries no mark: it is the long aa"
+      },
+      "translit": "ʔal maa ʿuun",
+      "tags": [
+        "sukuun",
+        "bare-letter"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c027",
+      "front": {
+        "ar": "ـ۟",
+        "en": "Quranic mark: what does it mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "**Silent letter**: ignore the letter completely, in waṣl and waqf. It is NOT sukuun, even though regular Arabic uses this round shape for sukuun."
+      },
+      "translit": "",
+      "tags": [
+        "silent",
+        "symbol"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c028",
+      "front": {
+        "ar": "يَفۡرَحُوا۟",
+        "en": "Which letter is silent?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The final alif -- read yaf ra ḥuu, as if written يَفۡرَحُو"
+      },
+      "translit": "yaf ra ḥuu",
+      "tags": [
+        "silent"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c029",
+      "front": {
+        "ar": "أُو۟لُوا۟",
+        "en": "Which letters are silent?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The first waaw and the final alif -- ʔu luu"
+      },
+      "translit": "ʔu luu",
+      "tags": [
+        "silent"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c030",
+      "front": {
+        "ar": "أُو۟لِى",
+        "en": "Which letter is silent?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The waaw after أُ -- ʔu lii"
+      },
+      "translit": "ʔu lii",
+      "tags": [
+        "silent"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c031",
+      "front": {
+        "ar": "مِا۟ئَةَ",
+        "en": "Which letter is silent?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The alif after مِ -- mi ʔah"
+      },
+      "translit": "mi ʔah",
+      "tags": [
+        "silent"
+      ],
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-c032",
+      "front": {
+        "ar": "ٱ",
+        "en": "Quranic mark: what is this alif?"
+      },
+      "back": {
+        "ar": "",
+        "en": "**Alif waṣl**: pronounced only when you start reading with it; dropped when anything comes before it."
+      },
+      "translit": "",
+      "tags": [
+        "alif-wasl",
+        "symbol"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c033",
+      "front": {
+        "ar": "ٱلۡبَيۡتَ",
+        "en": "Read it alone, then after حَجَّ"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal bayt · حَجَّ ٱلۡبَيۡتَ = ḥaj jal bayt (ٱ dropped)"
+      },
+      "translit": "ʔal bayt / ḥaj jal bayt",
+      "tags": [
+        "alif-wasl"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c034",
+      "front": {
+        "ar": "ٱِعۡتَمَرَ",
+        "en": "Starting with this word"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔiʿ ta mar -- you start with ٱ, so it is pronounced (here with kasrah: ʔi)"
+      },
+      "translit": "ʔiʿ ta mar",
+      "tags": [
+        "alif-wasl"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c035",
+      "front": {
+        "ar": "أَوِ ٱعۡتَمَرَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔa wiʿ ta mar -- ٱ dropped; the kasrah of أَوِ links straight to ع"
+      },
+      "translit": "ʔa wiʿ ta mar",
+      "tags": [
+        "alif-wasl"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c036",
+      "front": {
+        "ar": "وَٱلۡعَصۡرِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "wal ʿaṣr (waqf) -- ٱ dropped after وَ"
+      },
+      "translit": "wal ʿaṣr",
+      "tags": [
+        "alif-wasl"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c037",
+      "front": {
+        "ar": "ـٓ",
+        "en": "Quranic mark: what does it mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "**Madd** (elongate): appears only on long vowels; hold the long vowel about twice as long."
+      },
+      "translit": "",
+      "tags": [
+        "madd",
+        "symbol"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c038",
+      "front": {
+        "ar": "وَٱلسَّمَآءِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "was sa maaaa ʔ (waqf) -- madd on the alif: hold aa"
+      },
+      "translit": "was sa maaaa ʔ",
+      "tags": [
+        "madd"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c039",
+      "front": {
+        "ar": "ٱلضَّآلِّينَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaḍ ḍaaaal liin (waqf) -- madd on the alif: hold aa"
+      },
+      "translit": "ʔaḍ ḍaaaal liin",
+      "tags": [
+        "madd"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c040",
+      "front": {
+        "ar": "ٱلسُّوٓءِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔas suuuu ʔ (waqf) -- madd on the waaw: hold uu"
+      },
+      "translit": "ʔas suuuu ʔ",
+      "tags": [
+        "madd"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c041",
+      "front": {
+        "ar": "مَآ أَغۡنَىٰ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "maaaa ʔagh naa -- madd on مَآ: hold aa about twice as long; ىٰ at the end = long aa"
+      },
+      "translit": "maaaa ʔagh naa",
+      "tags": [
+        "madd",
+        "dagger-alif"
+      ],
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-c042",
+      "front": {
+        "ar": "ٱلصَّلَوٰةَ",
+        "en": "Sun laam or moon laam?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Sun laam: the laam has no mark and ص has shaddah, so the laam is not said -- ʔaṣ ṣa laah. Moon laam carries the sukuun mark: ٱلۡكِتَٰبُ = ʔal ki taab."
+      },
+      "translit": "ʔaṣ ṣa laah",
+      "tags": [
+        "laam"
+      ],
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-c043",
+      "front": {
+        "ar": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔar raḥ maa nir ra ḥiim -- first ٱ said (start), second dropped; the dagger alif = aa"
+      },
+      "translit": "ʔar raḥ maa nir ra ḥiim",
+      "tags": [
+        "drill"
+      ],
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-c044",
+      "front": {
+        "ar": "بِٱسۡمِ رَبِّكَ",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "bis mi rab bik -- ٱ dropped after بِ"
+      },
+      "translit": "bis mi rab bik",
+      "tags": [
+        "drill",
+        "alif-wasl"
+      ],
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-c045",
+      "front": {
+        "ar": "وَٱلشَّمۡسِ وَضُحَىٰهَا",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "wash sham si wa ḍu ḥaa haa -- sun laam; ىٰ = aa"
+      },
+      "translit": "wash sham si wa ḍu ḥaa haa",
+      "tags": [
+        "drill"
+      ],
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-c046",
+      "front": {
+        "ar": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "wa ha day naa hun naj dayn -- the dagger alif = aa; ٱ dropped"
+      },
+      "translit": "wa ha day naa hun naj dayn",
+      "tags": [
+        "drill"
+      ],
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-c047",
+      "front": {
+        "ar": "ٱلۡمَنفُوشِ",
+        "en": "Read the drill word"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal man fuush -- bare ن = sukuun"
+      },
+      "translit": "ʔal man fuush",
+      "tags": [
+        "drill",
+        "bare-letter"
+      ],
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-c048",
+      "front": {
+        "ar": "ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal ḥa yaa tid dun yaa -- وٰ = aa"
+      },
+      "translit": "ʔal ḥa yaa tid dun yaa",
+      "tags": [
+        "drill",
+        "dagger-alif"
+      ],
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-c049",
+      "front": {
+        "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "yaaaa ʔay yu hal la dhiin -- dagger alif + madd on يَ: hold aa"
+      },
+      "translit": "yaaaa ʔay yu hal la dhiin",
+      "tags": [
+        "drill",
+        "madd"
+      ],
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-c050",
+      "front": {
+        "ar": "يُحۡىِۦ وَيُمِيتُۚ",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "yuḥ yii wa yu miit -- small yaaʔ said in waṣl; the small ج-shaped sign above تُ is a pause sign, not read"
+      },
+      "translit": "yuḥ yii wa yu miit",
+      "tags": [
+        "drill",
+        "small-yaa"
+      ],
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-c051",
+      "front": {
+        "ar": "ءَاتَيۡنَٰهُمۡ",
+        "en": "Read the drill word"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaa tay naa hum -- نَٰ = naa; هُمۡ = hum"
+      },
+      "translit": "ʔaa tay naa hum",
+      "tags": [
+        "drill"
+      ],
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-c052",
+      "front": {
+        "ar": "وَٱلسَّٰبِقُونَ ٱلۡأَوَّلُونَ",
+        "en": "Read the drill phrase"
+      },
+      "back": {
+        "ar": "",
+        "en": "was saa bi quu nal ʔaw wa luun -- سَٰ = saa"
+      },
+      "translit": "was saa bi quu nal ʔaw wa luun",
+      "tags": [
+        "drill"
+      ],
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-c053",
+      "front": {
+        "ar": "ءَامَنُوا۟",
+        "en": "Which letter is silent?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The final alif -- ʔaa ma nuu"
+      },
+      "translit": "ʔaa ma nuu",
+      "tags": [
+        "drill",
+        "silent"
+      ],
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-c054",
+      "front": {
+        "ar": "ٱلۡأَرۡضِۚ",
+        "en": "What is the small mark above the last letter?"
+      },
+      "back": {
+        "ar": "",
+        "en": "A pause sign, not a letter -- do not pronounce it. The book prints such signs in the drills but does not explain them. Read: ʔal ʔarḍ"
+      },
+      "translit": "ʔal ʔarḍ",
+      "tags": [
+        "drill",
+        "pause-sign"
+      ],
+      "source": "p. 142"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch08-q001",
+      "prompt": {
+        "en": "What does the small vertical alif mean in this word?",
+        "ar": "ذَٰلِكَ"
+      },
+      "options": [
+        {
+          "en": "Pronounce a long aa"
+        },
+        {
+          "en": "A short a only"
+        },
+        {
+          "en": "Sukuun: no vowel"
+        },
+        {
+          "en": "A silent letter"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The dagger alif always means long aa: dhaa li ka.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q002",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "ذَٰلِكَ"
+      },
+      "options": [
+        {
+          "en": "dha li ka"
+        },
+        {
+          "en": "dhaa li ka"
+        },
+        {
+          "en": "dhaw li ka"
+        },
+        {
+          "en": "dhii li ka"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ذَٰ = long aa: dhaa li ka.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q003",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "ٱلصَّلَوٰةَ"
+      },
+      "options": [
+        {
+          "en": "ʔaṣ ṣa la wah"
+        },
+        {
+          "en": "ʔal ṣa laah"
+        },
+        {
+          "en": "ʔaṣ ṣa laah"
+        },
+        {
+          "en": "ʔaṣ ṣa luuh"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The waaw is not pronounced; the dagger alif on it means aa. Bare laam + shaddah on ص = sun laam.",
+      "source": "p. 137"
+    },
+    {
+      "id": "ch08-q004",
+      "prompt": {
+        "en": "Which is the regular spelling of this word?",
+        "ar": "ٱلسَّمَٰوَٰتِ"
+      },
+      "options": [
+        {
+          "ar": "اَلسَّمَوَاتِ"
+        },
+        {
+          "ar": "اَلسَّمَاوَتِ"
+        },
+        {
+          "ar": "اَلسَّمَاوَاتِ"
+        },
+        {
+          "ar": "اَلسَّمْوَاتِ"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Each dagger alif becomes a written alif: اَلسَّمَاوَاتِ.",
+      "source": "p. 137"
+    },
+    {
+      "id": "ch08-q005",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "ٱلزَّكَوٰةَ"
+      },
+      "options": [
+        {
+          "en": "ʔaz za kaah"
+        },
+        {
+          "en": "ʔaz za ka wah"
+        },
+        {
+          "en": "ʔaz zak wah"
+        },
+        {
+          "en": "ʔal za kaah"
+        }
+      ],
+      "correct": 0,
+      "explanation": "وٰ = long aa, like ٱلصَّلَوٰةَ; the laam is a sun laam.",
+      "source": "p. 137"
+    },
+    {
+      "id": "ch08-q006",
+      "prompt": {
+        "en": "How is this read (waqf)?",
+        "ar": "ٱلۡكِتَٰبُ"
+      },
+      "options": [
+        {
+          "en": "ʔal ki tab"
+        },
+        {
+          "en": "ʔak ki taab"
+        },
+        {
+          "en": "ʔal ki taab"
+        },
+        {
+          "en": "ʔal kit taab"
+        }
+      ],
+      "correct": 2,
+      "explanation": "the sukuun mark on the laam (لۡ) = moon laam, said; تَٰ = long aa.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q007",
+      "prompt": {
+        "en": "How does this word start?",
+        "ar": "ٱلسَّمَٰوَٰتِ"
+      },
+      "options": [
+        {
+          "en": "ʔas sa maa waat"
+        },
+        {
+          "en": "ʔal sa maa waat"
+        },
+        {
+          "en": "ʔas sa ma wat"
+        },
+        {
+          "en": "ʔal sam waat"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Bare laam + shaddah on س = sun laam, not said. Both dagger alifs = aa.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q008",
+      "prompt": {
+        "en": "What does the small waaw ۥ mean?",
+        "ar": "يَرَهُۥ"
+      },
+      "options": [
+        {
+          "en": "Long uu"
+        },
+        {
+          "en": "Short u only"
+        },
+        {
+          "en": "A silent waaw"
+        },
+        {
+          "en": "A pause sign"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Small waaw = pronounce waaw, a long uu.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q009",
+      "prompt": {
+        "en": "You stop on this word (waqf). How is it read?",
+        "ar": "يَرَهُۥ"
+      },
+      "options": [
+        {
+          "en": "ya ra huu"
+        },
+        {
+          "en": "ya rah"
+        },
+        {
+          "en": "ya ra hu"
+        },
+        {
+          "en": "ya ruuh"
+        }
+      ],
+      "correct": 1,
+      "explanation": "A small waaw after the word is pronounced only in waṣl. In waqf: ya rah.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q010",
+      "prompt": {
+        "en": "You keep reading after this word (waṣl). How is it read?",
+        "ar": "حَوۡلَهُۥ"
+      },
+      "options": [
+        {
+          "en": "ḥaw lah"
+        },
+        {
+          "en": "ḥaw la hu"
+        },
+        {
+          "en": "ḥaw la huu"
+        },
+        {
+          "en": "ḥuu la huu"
+        }
+      ],
+      "correct": 2,
+      "explanation": "In waṣl the final small waaw is said: ḥaw la huu.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q011",
+      "prompt": {
+        "en": "How is this read (waqf)?",
+        "ar": "دَاوُۥدُ"
+      },
+      "options": [
+        {
+          "en": "daa wud"
+        },
+        {
+          "en": "daa wuud"
+        },
+        {
+          "en": "da wid"
+        },
+        {
+          "en": "daa wuu du"
+        }
+      ],
+      "correct": 1,
+      "explanation": "A small waaw inside the word is always pronounced: daa wuud.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q012",
+      "prompt": {
+        "en": "When is a small waaw or small yaaʔ INSIDE a word pronounced?",
+        "ar": "يَلۡوُۥنَ"
+      },
+      "options": [
+        {
+          "en": "Only in waṣl"
+        },
+        {
+          "en": "Only in waqf"
+        },
+        {
+          "en": "Always"
+        },
+        {
+          "en": "Never"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Inside the word it is always pronounced; only at the end of a word does waqf/waṣl matter.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q013",
+      "prompt": {
+        "en": "You keep reading after this word (waṣl). How is it read?",
+        "ar": "بِهِۦ"
+      },
+      "options": [
+        {
+          "en": "bih"
+        },
+        {
+          "en": "bi hi"
+        },
+        {
+          "en": "bi huu"
+        },
+        {
+          "en": "bi hii"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Small yaaʔ = long ii, said in waṣl: bi hii. In waqf: bih.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q014",
+      "prompt": {
+        "en": "You stop on this word (waqf). How is it read?",
+        "ar": "مِّثۡلِهِۦ"
+      },
+      "options": [
+        {
+          "en": "mith lih"
+        },
+        {
+          "en": "mith li hii"
+        },
+        {
+          "en": "mith li hi"
+        },
+        {
+          "en": "mi thi lih"
+        }
+      ],
+      "correct": 0,
+      "explanation": "A final small yaaʔ is dropped in waqf: mith lih.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q015",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "ٱلنَّبِيِّـۧنَ"
+      },
+      "options": [
+        {
+          "en": "ʔan na biy yin"
+        },
+        {
+          "en": "ʔan na biy yiin"
+        },
+        {
+          "en": "ʔal na biy yiin"
+        },
+        {
+          "en": "ʔan na bii yin"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Small yaaʔ inside the word = long ii, always said; bare laam + shaddah on ن = sun laam.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q016",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "إِۦلَٰفِهِمۡ"
+      },
+      "options": [
+        {
+          "en": "ʔi la fi him"
+        },
+        {
+          "en": "ʔii la fi him"
+        },
+        {
+          "en": "ʔii laa fi him"
+        },
+        {
+          "en": "ʔi laa fi him"
+        }
+      ],
+      "correct": 2,
+      "explanation": "إِۦ = long ii; لَٰ = long aa.",
+      "source": "p. 138"
+    },
+    {
+      "id": "ch08-q017",
+      "prompt": {
+        "en": "What does the mark on the laam (لۡ) mean?",
+        "ar": "قُلۡ"
+      },
+      "options": [
+        {
+          "en": "Sukuun: no vowel"
+        },
+        {
+          "en": "Silent letter"
+        },
+        {
+          "en": "Long aa"
+        },
+        {
+          "en": "Hold the vowel"
+        }
+      ],
+      "correct": 0,
+      "explanation": "In the Quran this head-shaped mark is the sukuun sign: qul.",
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-q018",
+      "prompt": {
+        "en": "How is this read (waqf)?",
+        "ar": "نَصۡرُ"
+      },
+      "options": [
+        {
+          "en": "na ṣar"
+        },
+        {
+          "en": "naṣr"
+        },
+        {
+          "en": "na ṣur"
+        },
+        {
+          "en": "naa ṣir"
+        }
+      ],
+      "correct": 1,
+      "explanation": "صۡ = no vowel; stopping on رُ drops the ḍammah: naṣr.",
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-q019",
+      "prompt": {
+        "en": "The letter ن here has no mark at all. What does that mean?",
+        "ar": "عَن"
+      },
+      "options": [
+        {
+          "en": "It is silent"
+        },
+        {
+          "en": "It has a hidden fatḥah"
+        },
+        {
+          "en": "It has sukuun"
+        },
+        {
+          "en": "It is doubled"
+        }
+      ],
+      "correct": 2,
+      "explanation": "A letter completely free of marks also has sukuun: ʿan.",
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-q020",
+      "prompt": {
+        "en": "How is this drill word read?",
+        "ar": "ٱلۡمَنفُوشِ"
+      },
+      "options": [
+        {
+          "en": "ʔal ma na fuush"
+        },
+        {
+          "en": "ʔal man fuush"
+        },
+        {
+          "en": "ʔam man fuush"
+        },
+        {
+          "en": "ʔal ma fuush"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Bare ن = sukuun; the sukuun mark on the laam (لۡ) = moon laam.",
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-q021",
+      "prompt": {
+        "en": "In the Quran, what does the round mark (like regular sukuun) on و and ا mean?",
+        "ar": "أُو۟لُوا۟"
+      },
+      "options": [
+        {
+          "en": "Sukuun: no vowel"
+        },
+        {
+          "en": "The letter is silent"
+        },
+        {
+          "en": "Long uu"
+        },
+        {
+          "en": "Start with a hamzah"
+        }
+      ],
+      "correct": 1,
+      "explanation": "In the Quran the round zero marks a silent letter, not sukuun: ʔu luu.",
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-q022",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "يَفۡرَحُوا۟"
+      },
+      "options": [
+        {
+          "en": "yaf ra ḥuu"
+        },
+        {
+          "en": "yaf ra ḥuu ʔa"
+        },
+        {
+          "en": "yaf ra ḥuu waa"
+        },
+        {
+          "en": "ya fa ra ḥuu"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The final alif carries the silent mark: read يَفۡرَحُو = yaf ra ḥuu.",
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-q023",
+      "prompt": {
+        "en": "Which letter is silent here?",
+        "ar": "مِا۟ئَةَ"
+      },
+      "options": [
+        {
+          "en": "The alif after مِ"
+        },
+        {
+          "en": "The hamzah ء carried by ئ"
+        },
+        {
+          "en": "The final ة"
+        },
+        {
+          "en": "None"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The alif with the round zero is skipped: mi ʔah.",
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-q024",
+      "prompt": {
+        "en": "Which letters are silent here?",
+        "ar": "أُو۟لُوا۟"
+      },
+      "options": [
+        {
+          "en": "Only the final alif"
+        },
+        {
+          "en": "Only the first waaw"
+        },
+        {
+          "en": "The first waaw and the final alif"
+        },
+        {
+          "en": "The hamzah"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Both letters with the round zero are skipped: ʔu luu.",
+      "source": "p. 139"
+    },
+    {
+      "id": "ch08-q025",
+      "prompt": {
+        "en": "When is alif waṣl ٱ pronounced?",
+        "ar": "ٱلۡبَيۡتَ"
+      },
+      "options": [
+        {
+          "en": "Always"
+        },
+        {
+          "en": "Never"
+        },
+        {
+          "en": "Only when you start reading with it"
+        },
+        {
+          "en": "Only at the end of a verse"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Start with it: ʔal bayt. Anything before it: dropped, e.g. ḥaj jal bayt.",
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-q026",
+      "prompt": {
+        "en": "How is this read (waqf)?",
+        "ar": "وَٱلۡعَصۡرِ"
+      },
+      "options": [
+        {
+          "en": "wa ʔal ʿaṣr"
+        },
+        {
+          "en": "wal ʿaṣr"
+        },
+        {
+          "en": "wa lal ʿaṣr"
+        },
+        {
+          "en": "wa ʔil ʿaṣr"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Something comes before ٱ, so it is dropped: wal ʿaṣr.",
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-q027",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "أَوِ ٱعۡتَمَرَ"
+      },
+      "options": [
+        {
+          "en": "ʔaw ʔiʿ ta mar"
+        },
+        {
+          "en": "ʔa wi ʔiʿ ta mar"
+        },
+        {
+          "en": "ʔa wiʿ ta mar"
+        },
+        {
+          "en": "ʔaw ʿa ta mar"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ٱ is dropped after أَوِ; the kasrah links straight to ع.",
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-q028",
+      "prompt": {
+        "en": "What does the wavy mark ـٓ above a long vowel mean?",
+        "ar": "وَٱلسَّمَآءِ"
+      },
+      "options": [
+        {
+          "en": "Add a hamzah"
+        },
+        {
+          "en": "Extend the long vowel about twice as long"
+        },
+        {
+          "en": "Sukuun"
+        },
+        {
+          "en": "Silent letter"
+        }
+      ],
+      "correct": 1,
+      "explanation": "This is madd: hold the long vowel: was sa maaaa ʔ.",
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-q029",
+      "prompt": {
+        "en": "Where does the madd sign ـٓ appear?",
+        "ar": "ٱلسُّوٓءِ"
+      },
+      "options": [
+        {
+          "en": "Only on long vowels"
+        },
+        {
+          "en": "On any consonant"
+        },
+        {
+          "en": "Only on alif waṣl"
+        },
+        {
+          "en": "Only on the first letter"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The book: it appears only on long vowels (here on waaw).",
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-q030",
+      "prompt": {
+        "en": "How is this read (waqf)?",
+        "ar": "ٱلضَّآلِّينَ"
+      },
+      "options": [
+        {
+          "en": "ʔaḍ ḍaal liin"
+        },
+        {
+          "en": "ʔaḍ ḍa lin"
+        },
+        {
+          "en": "ʔaḍ ḍaaaal liin"
+        },
+        {
+          "en": "ʔal ḍaaaal liin"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Madd on the alif: hold aa. Sun laam before ض.",
+      "source": "p. 140"
+    },
+    {
+      "id": "ch08-q031",
+      "prompt": {
+        "en": "How is this drill phrase read (waqf)?",
+        "ar": "بِٱسۡمِ رَبِّكَ"
+      },
+      "options": [
+        {
+          "en": "bi ʔis mi rab bik"
+        },
+        {
+          "en": "bis mi rab bik"
+        },
+        {
+          "en": "bi sim rab bik"
+        },
+        {
+          "en": "bi ʔas mi rab bik"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ٱ is dropped after بِ: bis mi rab bik.",
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-q032",
+      "prompt": {
+        "en": "How is this drill phrase read (waqf)?",
+        "ar": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
+      },
+      "options": [
+        {
+          "en": "ʔar raḥ ma nir ra ḥiim"
+        },
+        {
+          "en": "ʔar raḥ maa nir ra ḥiim"
+        },
+        {
+          "en": "ʔar raḥ maa ni ʔar ra ḥiim"
+        },
+        {
+          "en": "ʔal raḥ maa nil ra ḥiim"
+        }
+      ],
+      "correct": 1,
+      "explanation": "the dagger alif = aa; the second ٱ is dropped; both laams are sun laams.",
+      "source": "p. 141"
+    },
+    {
+      "id": "ch08-q033",
+      "prompt": {
+        "en": "How is this drill phrase read?",
+        "ar": "ٱلۡحَيَوٰةِ ٱلدُّنۡيَا"
+      },
+      "options": [
+        {
+          "en": "ʔal ḥa ya wa tid dun yaa"
+        },
+        {
+          "en": "ʔal ḥay waa tid dun yaa"
+        },
+        {
+          "en": "ʔal ḥa yaa tid dun yaa"
+        },
+        {
+          "en": "ʔal ḥa yaa ti ʔad dun yaa"
+        }
+      ],
+      "correct": 2,
+      "explanation": "وٰ = long aa (waaw not said); ٱ of ٱلدُّنۡيَا dropped.",
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-q034",
+      "prompt": {
+        "en": "How is this drill word read?",
+        "ar": "ءَامَنُوا۟"
+      },
+      "options": [
+        {
+          "en": "ʔaa ma nuu"
+        },
+        {
+          "en": "ʔaa ma nuu ʔa"
+        },
+        {
+          "en": "ʔa ma nuu"
+        },
+        {
+          "en": "ʔaa ma nu wa"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The final alif carries the silent mark: ʔaa ma nuu.",
+      "source": "p. 142"
+    },
+    {
+      "id": "ch08-q035",
+      "prompt": {
+        "en": "How is this drill phrase read straight through?",
+        "ar": "عَنۡ عِبَادِهِۦ وَيَأۡخُذُ"
+      },
+      "options": [
+        {
+          "en": "ʿan ʿi baa dih wa yaʔ khudh"
+        },
+        {
+          "en": "ʿan ʿi baa di hii wa yaʔ khudh"
+        },
+        {
+          "en": "ʿan ʿi baa di hi wa yaʔ khudh"
+        },
+        {
+          "en": "ʿan ʿi baa di huu wa yaʔ khudh"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The reader continues, so the small yaaʔ is said: di hii.",
+      "source": "p. 142"
+    }
+  ]
+}

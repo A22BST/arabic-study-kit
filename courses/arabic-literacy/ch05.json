@@ -1,0 +1,2098 @@
+{
+  "chapter": 5,
+  "title": "Case Endings",
+  "bookPages": "109-116",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 05",
+    "title": "Case endings, decoded.",
+    "subtitle": "A visual guide to **Waṣl** (linking) and **Waqf** (stopping) · Book pp. 109-114",
+    "coreIdeaLabel": "THE MOST IMPORTANT DISTINCTION",
+    "coreIdea": "You are **not choosing** the grammatical ending in these exercises. The ending is already written. You choose **how to pronounce it.**",
+    "coreIdeaNote": "The rule is about reading and pausing, not about deciding whether the word should end in -u, -a or -i.",
+    "sections": [
+      {
+        "heading": "Linking vs stopping",
+        "bookPages": "111",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "WAṢL / CONTINUE READING",
+                "caption": "Read the written final vowel or tanween when the next word follows.",
+                "ar": "يَوْمٌ جَمِيلْ",
+                "translit": "yaw mun ja miil",
+                "note": "The first word links; you stop on the last word."
+              },
+              {
+                "title": "WAQF / STOP READING",
+                "caption": "At the word where you pause, the ending becomes sukuun.",
+                "ar": "رَجُلْ",
+                "translit": "ra jul",
+                "note": "The written -un is not pronounced at the stop."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Make the decision in 3 steps",
+        "bookPages": "111",
+        "note": "Use this every time",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              {
+                "title": "Look",
+                "text": "Find the word's final mark."
+              },
+              {
+                "title": "Decide",
+                "text": "Continue to the next word, or pause?"
+              },
+              {
+                "title": "Pronounce",
+                "text": "Waṣl: read it. Waqf: convert it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The conversion table",
+        "bookPages": "111",
+        "note": "Final mark -> pronunciation · Book p. 111",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Written ending",
+              "Waṣl · link",
+              "Waqf · stop"
+            ],
+            "rows": [
+              [
+                "رَجُلُ ḍammah",
+                "ra ju **lu**",
+                "رَجُلْ **ra jul** · sukuun"
+              ],
+              [
+                "رَجُلَ fatḥah",
+                "ra ju **la**",
+                "رَجُلْ **ra jul** · sukuun"
+              ],
+              [
+                "رَجُلِ kasrah",
+                "ra ju **li**",
+                "رَجُلْ **ra jul** · sukuun"
+              ],
+              [
+                "رَجُلْ sukuun",
+                "ra **jul**",
+                "رَجُلْ **ra jul** · no change"
+              ],
+              [
+                "رَجُلٌ tanween ḍammah",
+                "ra ju **lun**",
+                "رَجُلْ **ra jul** · sukuun"
+              ],
+              [
+                "رَجُلٍ tanween kasrah",
+                "ra ju **lin**",
+                "رَجُلْ **ra jul** · sukuun"
+              ],
+              [
+                "رَجُلًا tanween fatḥah",
+                "ra ju **lan**",
+                "رَجُلَا **ra ju laa** · alif"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The two exceptions",
+        "bookPages": "112-114",
+        "note": "Book pp. 112-114",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "Exception 1 · Tanween fatḥah",
+                "kicker": "-an -> long aa at the stop",
+                "rows": [
+                  {
+                    "label": "Waṣl · link",
+                    "ar": "صَالِحًا",
+                    "translit": "ṣaa li ḥan"
+                  },
+                  {
+                    "label": "Waqf · stop",
+                    "ar": "صَالِحًا",
+                    "translit": "ṣaa li ḥaa"
+                  }
+                ],
+                "note": "Not on ة: حِكْمَةً -> ḥik mah (p. 115)."
+              },
+              {
+                "title": "Exception 2 · Taaʔ marbuuṭah ة",
+                "kicker": "/t/ -> /h/ at the stop",
+                "rows": [
+                  {
+                    "label": "Waṣl · link",
+                    "ar": "مَدْرَسَةُ",
+                    "translit": "mad ra sa tu"
+                  },
+                  {
+                    "label": "Waqf · stop",
+                    "ar": "مَدْرَسَةُ",
+                    "translit": "mad ra sah"
+                  }
+                ],
+                "note": "Two dots = ة. Plain ه is /h/ either way: وَجْهٌ waj hun / wajh."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "exercisePages": "115-116",
+    "exerciseTitle": "Use it on the exercises.",
+    "exerciseIntro": "Follow the printed vowel marks. Don't invent new case endings.",
+    "exerciseTips": [
+      {
+        "title": "Locate",
+        "text": "the **last sign** on the printed word."
+      },
+      {
+        "title": "Waṣl",
+        "text": "keep the ending in your pronunciation."
+      },
+      {
+        "title": "Waqf",
+        "text": "use the conversion table on page 1."
+      }
+    ],
+    "exerciseGuide": [
+      {
+        "exercise": 1,
+        "pages": "115",
+        "task": "Transcribe each word for both waqf and waṣl",
+        "method": "Find the **last mark**. **Waṣl:** read it as written, tanween included. **Waqf:** make it sukuun; tanween fatḥah -> long **aa**; final ة -> **/h/**. The rest of the word, long vowels included, stays the same.",
+        "example": {
+          "ar": "كِتَابَةٌ",
+          "translit": "ki taa ba tun / ki taa bah",
+          "note": "Waṣl / waqf (No. 2) · final ة -> /h/ at the stop"
+        },
+        "contrast": {
+          "ar": "حِكْمَةً",
+          "translit": "ḥik ma tan / ḥik mah",
+          "note": "Watch out (No. 5): tanween fatḥah on ة does **not** become long aa"
+        }
+      },
+      {
+        "exercise": 2,
+        "pages": "116",
+        "task": "Rewrite each sentence, then transcribe it as you would pronounce it",
+        "method": "Link every word into the next (**waṣl**) and read all printed endings. Apply **waqf** only on the last word, or where you deliberately pause. Only the stopped word changes.",
+        "example": {
+          "ar": "هُوَ رَجُلٌ أَمِينٌ",
+          "translit": "hu wa ra ju lun ʔa miin",
+          "note": "Sentence 1 · linked to the end it would be ʔa mii nun; at the stop: ʔa miin"
+        },
+        "contrast": {
+          "ar": "اَلْمَدْرَسَةُ لَيْسَتْ بَعِيدَةً",
+          "translit": "ʔal mad ra sa tu lay sat ba ʿii dah",
+          "note": "Sentence 4 · first ة = /t/ (linked), last ة = /h/ (stop), no long aa"
+        }
+      }
+    ],
+    "exerciseFooter": "**Not yet taught in this chapter:** how grammar decides whether a word ends in -u, -a or -i. Chapter 5 supplies those marks and trains you to read them correctly when linking or stopping. **This is a pronunciation task, not a case-selection task.**"
+  },
+  "cards": [
+    {
+      "id": "ch05-c001",
+      "front": {
+        "ar": "",
+        "en": "What is waṣl?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Linking: reading a word straight into the next one without a pause. The written ending is pronounced."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "wasl"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c002",
+      "front": {
+        "ar": "",
+        "en": "What is waqf?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Stopping: pausing on a word, whether it is read alone, in the middle of a sentence or at the end."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "waqf"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c003",
+      "front": {
+        "ar": "",
+        "en": "At a stop, what do ḍammah, fatḥah, kasrah, tanween ḍammah and tanween kasrah become?"
+      },
+      "back": {
+        "ar": "",
+        "en": "All of them become sukuun: the final vowel and the -n are not pronounced."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "waqf"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c004",
+      "front": {
+        "ar": "",
+        "en": "At a stop, what does tanween fatḥah become on a letter other than ة?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Alif: a long aa. ra ju lan -> ra ju laa. On ة, stop with /h/ instead: ḥik ma tan -> ḥik mah."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "waqf",
+        "tanween-fathah"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c005",
+      "front": {
+        "ar": "",
+        "en": "At a stop, what happens to a word that already ends in sukuun?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Nothing: it stays sukuun (ra jul -> ra jul)."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "waqf"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c006",
+      "front": {
+        "ar": "",
+        "en": "Taaʔ marbuuṭah ة: how is it pronounced in waṣl and in waqf?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Waṣl: /t/ like a normal taaʔ. Waqf: /h/."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "taa-marbuuta"
+      ],
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-c007",
+      "front": {
+        "ar": "",
+        "en": "Which is the one case where waqf changes the sound of a letter itself, not just the ending?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Taaʔ marbuuṭah ة: /t/ becomes /h/ at the stop."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "taa-marbuuta"
+      ],
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-c008",
+      "front": {
+        "ar": "",
+        "en": "Taaʔ marbuuṭah (ة ـة) vs haaʔ (ه ـه): how do you tell them apart?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Look for the two dots: ة has them, ه does not."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "taa-marbuuta"
+      ],
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-c009",
+      "front": {
+        "ar": "",
+        "en": "At a stop, how do a word ending in ة and a word ending in ه sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The same: both end in /h/ (luʿ bah, wajh). Only in waṣl do they differ (/t/ vs /h/)."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "taa-marbuuta"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c010",
+      "front": {
+        "ar": "",
+        "en": "May you still pronounce the full ending when you stop?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Yes. That is how you read words so far, and many beginners do it to keep ة and ه apart. Applying waqf is more natural."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "waqf"
+      ],
+      "source": "pp. 112-114"
+    },
+    {
+      "id": "ch05-c011",
+      "front": {
+        "ar": "أَحْمَدُ",
+        "en": "Where is the case ending in this word?"
+      },
+      "back": {
+        "ar": "",
+        "en": "On the last letter only: the ḍammah on د. The marks before it are the word's ordinary harakaat."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "placement"
+      ],
+      "source": "p. 109"
+    },
+    {
+      "id": "ch05-c012",
+      "front": {
+        "ar": "اَلْمَلَكُ",
+        "en": "A harakah inside اَلْمَلِكُ (the king) was changed. What happened?"
+      },
+      "back": {
+        "ar": "",
+        "en": "It became a different word: the angel. Changing an inside harakah changes the word; the ending only changes how the word works in the sentence."
+      },
+      "translit": "ʔal ma la ku",
+      "tags": [
+        "rule",
+        "placement"
+      ],
+      "source": "p. 110"
+    },
+    {
+      "id": "ch05-c013",
+      "front": {
+        "ar": "يَوْمٌ جَمِيلْ",
+        "en": "Read it linked (waṣl)"
+      },
+      "back": {
+        "ar": "",
+        "en": "Linked: the tanween of the first word is pronounced; the last word is stopped."
+      },
+      "translit": "yaw mun ja miil",
+      "tags": [
+        "wasl"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c014",
+      "front": {
+        "ar": "رَجُلٌ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ju lun / ra jul · tanween ḍammah -> sukuun"
+      },
+      "translit": "ra ju lun / ra jul",
+      "tags": [
+        "waqf",
+        "conversion"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c015",
+      "front": {
+        "ar": "رَجُلٍ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ju lin / ra jul · tanween kasrah -> sukuun"
+      },
+      "translit": "ra ju lin / ra jul",
+      "tags": [
+        "waqf",
+        "conversion"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c016",
+      "front": {
+        "ar": "رَجُلُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ju lu / ra jul · ḍammah -> sukuun"
+      },
+      "translit": "ra ju lu / ra jul",
+      "tags": [
+        "waqf",
+        "conversion"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c017",
+      "front": {
+        "ar": "رَجُلَ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ju la / ra jul · fatḥah -> sukuun"
+      },
+      "translit": "ra ju la / ra jul",
+      "tags": [
+        "waqf",
+        "conversion"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c018",
+      "front": {
+        "ar": "رَجُلِ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ju li / ra jul · kasrah -> sukuun"
+      },
+      "translit": "ra ju li / ra jul",
+      "tags": [
+        "waqf",
+        "conversion"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c019",
+      "front": {
+        "ar": "رَجُلًا",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ju lan / ra ju laa · tanween fatḥah -> alif (long aa)"
+      },
+      "translit": "ra ju lan / ra ju laa",
+      "tags": [
+        "waqf",
+        "tanween-fathah"
+      ],
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-c020",
+      "front": {
+        "ar": "وَلَدٌ صَالِحٌ",
+        "en": "Read it linked, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "Tanween on the first word is read; the last word gets sukuun."
+      },
+      "translit": "wa la dun ṣaa liḥ",
+      "tags": [
+        "wasl"
+      ],
+      "source": "p. 112"
+    },
+    {
+      "id": "ch05-c021",
+      "front": {
+        "ar": "وَلَدٌ صَالِحٌ",
+        "en": "Stop on the first word. How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "wa lad: tanween ḍammah -> sukuun, and صَالِحٌ is not read at all."
+      },
+      "translit": "wa lad",
+      "tags": [
+        "waqf"
+      ],
+      "source": "p. 112"
+    },
+    {
+      "id": "ch05-c022",
+      "front": {
+        "ar": "رَأَيْتُ شَيْخًا صَالِحًا",
+        "en": "Read the sentence, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "ḍammah and tanween fatḥah are read while linking; the stopped tanween fatḥah becomes long aa."
+      },
+      "translit": "ra ʔay tu shay khan ṣaa li ḥaa",
+      "tags": [
+        "wasl",
+        "tanween-fathah"
+      ],
+      "source": "p. 112"
+    },
+    {
+      "id": "ch05-c023",
+      "front": {
+        "ar": "صَالِحًا",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ṣaa li ḥan / ṣaa li ḥaa · tanween fatḥah -> alif"
+      },
+      "translit": "ṣaa li ḥan / ṣaa li ḥaa",
+      "tags": [
+        "tanween-fathah"
+      ],
+      "source": "p. 112"
+    },
+    {
+      "id": "ch05-c024",
+      "front": {
+        "ar": "مَدْرَسَةُ أَحْمَدَ",
+        "en": "Read it linked, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "ة is /t/ while linking; أَحْمَدَ is stopped, so its fatḥah is dropped (ʔaḥ mad, not ʔaḥ ma da)."
+      },
+      "translit": "mad ra sa tu ʔaḥ mad",
+      "tags": [
+        "wasl",
+        "taa-marbuuta"
+      ],
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-c025",
+      "front": {
+        "ar": "مَدْرَسَةُ أَحْمَدَ",
+        "en": "Stop on the first word. How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "mad ra sah: ة becomes /h/ at the stop."
+      },
+      "translit": "mad ra sah",
+      "tags": [
+        "waqf",
+        "taa-marbuuta"
+      ],
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-c026",
+      "front": {
+        "ar": "لُعْبَةٌ جَمِيلَةٌ",
+        "en": "Read it linked, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "First ة = /t/ (linked), last ة = /h/ (stop)."
+      },
+      "translit": "luʿ ba tun ja mii lah",
+      "tags": [
+        "wasl",
+        "taa-marbuuta"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c027",
+      "front": {
+        "ar": "وَجْهٌ جَمِيلٌ",
+        "en": "Read it linked, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "ه is a real haaʔ: /h/ even when linked (waj hun). At a stop: wajh."
+      },
+      "translit": "waj hun ja miil",
+      "tags": [
+        "wasl",
+        "haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c028",
+      "front": {
+        "ar": "فَاكِهَةُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "faa ki ha tu / faa ki hah · ends in ة"
+      },
+      "translit": "faa ki ha tu / faa ki hah",
+      "tags": [
+        "taa-vs-haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c029",
+      "front": {
+        "ar": "فَوَاكِهُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "fa waa ki hu / fa waa kih · ends in haaʔ ه"
+      },
+      "translit": "fa waa ki hu / fa waa kih",
+      "tags": [
+        "taa-vs-haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c030",
+      "front": {
+        "ar": "مَدْرَسَةُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "mad ra sa tu / mad ra sah · ends in ة"
+      },
+      "translit": "mad ra sa tu / mad ra sah",
+      "tags": [
+        "taa-vs-haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c031",
+      "front": {
+        "ar": "مُدَرِّسُهُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "mu dar ri su hu / mu dar ri suh · ends in haaʔ ه"
+      },
+      "translit": "mu dar ri su hu / mu dar ri suh",
+      "tags": [
+        "taa-vs-haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c032",
+      "front": {
+        "ar": "مَكْتَبَةُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "mak ta ba tu / mak ta bah · ends in ة"
+      },
+      "translit": "mak ta ba tu / mak ta bah",
+      "tags": [
+        "taa-vs-haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c033",
+      "front": {
+        "ar": "مَكْتَبُهُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "mak ta bu hu / mak ta buh · ends in haaʔ ه"
+      },
+      "translit": "mak ta bu hu / mak ta buh",
+      "tags": [
+        "taa-vs-haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c034",
+      "front": {
+        "ar": "لُؤْلُؤًا",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "luʔ lu ʔan / luʔ lu ʔaa · tanween fatḥah -> long aa"
+      },
+      "translit": "luʔ lu ʔan / luʔ lu ʔaa",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c035",
+      "front": {
+        "ar": "كِتَابَةٌ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ki taa ba tun / ki taa bah · ة -> /h/"
+      },
+      "translit": "ki taa ba tun / ki taa bah",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c036",
+      "front": {
+        "ar": "كَلِمَاتٍ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ka li maa tin / ka li maat · tanween kasrah -> sukuun; the ت is a normal taaʔ"
+      },
+      "translit": "ka li maa tin / ka li maat",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c037",
+      "front": {
+        "ar": "رُؤُوسًا",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ru ʔuu san / ru ʔuu saa · tanween fatḥah -> long aa"
+      },
+      "translit": "ru ʔuu san / ru ʔuu saa",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c038",
+      "front": {
+        "ar": "حِكْمَةً",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ḥik ma tan / ḥik mah · tanween fatḥah on ة -> /h/, not aa"
+      },
+      "translit": "ḥik ma tan / ḥik mah",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c039",
+      "front": {
+        "ar": "يَنْتَصِرُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "yan ta ṣi ru / yan ta ṣir · ḍammah -> sukuun"
+      },
+      "translit": "yan ta ṣi ru / yan ta ṣir",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c040",
+      "front": {
+        "ar": "يَتَرَأَّسُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ya ta raʔ ʔa su / ya ta raʔ ʔas · ḍammah -> sukuun; the shaddah stays"
+      },
+      "translit": "ya ta raʔ ʔa su / ya ta raʔ ʔas",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c041",
+      "front": {
+        "ar": "وِجْهَةٌ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "wij ha tun / wij hah · ة -> /h/"
+      },
+      "translit": "wij ha tun / wij hah",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c042",
+      "front": {
+        "ar": "يَبْدَأُ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "yab da ʔu / yab daʔ · ḍammah -> sukuun on the hamzah"
+      },
+      "translit": "yab da ʔu / yab daʔ",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c043",
+      "front": {
+        "ar": "أُرْجُوحَةٌ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔur juu ḥa tun / ʔur juu ḥah · ة -> /h/"
+      },
+      "translit": "ʔur juu ḥa tun / ʔur juu ḥah",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c044",
+      "front": {
+        "ar": "طِفْلٌ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ṭif lun / ṭifl · tanween ḍammah -> sukuun"
+      },
+      "translit": "ṭif lun / ṭifl",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c045",
+      "front": {
+        "ar": "يَشَاءُونَ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ya shaa ʔuu na / ya shaa ʔuun · fatḥah on ن -> sukuun"
+      },
+      "translit": "ya shaa ʔuu na / ya shaa ʔuun",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c046",
+      "front": {
+        "ar": "اَلْمُؤْمِنُونَ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal muʔ mi nuu na / ʔal muʔ mi nuun · fatḥah on ن -> sukuun"
+      },
+      "translit": "ʔal muʔ mi nuu na / ʔal muʔ mi nuun",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c047",
+      "front": {
+        "ar": "فُسَيْفِسَاءٌ",
+        "en": "Read it: waṣl (linked) / waqf (stop)"
+      },
+      "back": {
+        "ar": "",
+        "en": "fu say fi saa ʔun / fu say fi saaʔ · tanween ḍammah -> sukuun on the hamzah (the answer key prints the linked form as fu say fi saa ʔu)"
+      },
+      "translit": "fu say fi saa ʔun / fu say fi saaʔ",
+      "tags": [
+        "exercise-1"
+      ],
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-c048",
+      "front": {
+        "ar": "هُوَ رَجُلٌ أَمِينٌ",
+        "en": "Read the sentence, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "Every word links; only the last word is stopped (ʔa mii nun -> ʔa miin)."
+      },
+      "translit": "hu wa ra ju lun ʔa miin",
+      "tags": [
+        "exercise-2"
+      ],
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-c049",
+      "front": {
+        "ar": "اَلْمَدْرَسَةُ لَيْسَتْ بَعِيدَةً",
+        "en": "Read the sentence, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "First ة = /t/ (linked); last ة = /h/ (stop); tanween fatḥah on ة does not become aa."
+      },
+      "translit": "ʔal mad ra sa tu lay sat ba ʿii dah",
+      "tags": [
+        "exercise-2",
+        "taa-marbuuta"
+      ],
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-c050",
+      "front": {
+        "ar": "وَكَانَ أَبُوهُمَا صَالِحًا",
+        "en": "Read the sentence, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "The stopped tanween fatḥah becomes long aa: ṣaa li ḥaa."
+      },
+      "translit": "wa kaa na ʔa buu hu maa ṣaa li ḥaa",
+      "tags": [
+        "exercise-2",
+        "tanween-fathah"
+      ],
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-c051",
+      "front": {
+        "ar": "زَمَنٍ بَعِيدٍ",
+        "en": "Sentence 6 ends with these two words. Read them, stopping at the end"
+      },
+      "back": {
+        "ar": "",
+        "en": "Linked tanween kasrah on the first word; sukuun on the stopped word."
+      },
+      "translit": "za ma nin ba ʿiid",
+      "tags": [
+        "exercise-2"
+      ],
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-c052",
+      "front": {
+        "ar": "عَمَلِهِ",
+        "en": "Sentence 2 ends with this word. How is it read at the stop?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʿa ma lih: the kasrah on the final ه becomes sukuun."
+      },
+      "translit": "ʿa ma lih",
+      "tags": [
+        "exercise-2",
+        "haa"
+      ],
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-c053",
+      "front": {
+        "ar": "وَحْدَهُ",
+        "en": "Sentence 3 ends with this word. How is it read at the stop?"
+      },
+      "back": {
+        "ar": "",
+        "en": "waḥ dah: the ḍammah on the final ه becomes sukuun."
+      },
+      "translit": "waḥ dah",
+      "tags": [
+        "exercise-2",
+        "haa"
+      ],
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-c054",
+      "front": {
+        "ar": "",
+        "en": "In the book's p. 113 example, which written word is pronounced /mad ra sah/ at a stop?"
+      },
+      "back": {
+        "ar": "مَدْرَسَةُ",
+        "en": "Taaʔ marbuuṭah ة: at a stop it sounds /h/."
+      },
+      "translit": "mad ra sah",
+      "tags": [
+        "reverse",
+        "taa-marbuuta"
+      ],
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-c055",
+      "front": {
+        "ar": "",
+        "en": "Recall the book's p. 114 phrase pronounced /luʿ ba tun ja mii lah/, stopping at the end. Write it with the book's vowel marks."
+      },
+      "back": {
+        "ar": "لُعْبَةٌ جَمِيلَةٌ",
+        "en": "Linked ة sounds /t/; the last ة is stopped as /h/."
+      },
+      "translit": "luʿ ba tun ja mii lah",
+      "tags": [
+        "reverse",
+        "taa-marbuuta"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c056",
+      "front": {
+        "ar": "",
+        "en": "Recall the book's p. 114 phrase pronounced /waj hun ja miil/, stopping at the end. Write it with the book's vowel marks."
+      },
+      "back": {
+        "ar": "وَجْهٌ جَمِيلٌ",
+        "en": "The first word ends in a real haaʔ ه, so it is /h/ even when linked."
+      },
+      "translit": "waj hun ja miil",
+      "tags": [
+        "reverse",
+        "haa"
+      ],
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-c057",
+      "front": {
+        "ar": "",
+        "en": "Heard at a stop: /ra ju laa/. Which written ending gives this?"
+      },
+      "back": {
+        "ar": "رَجُلًا",
+        "en": "Tanween fatḥah: at a stop it becomes alif (long aa)."
+      },
+      "translit": "ra ju laa",
+      "tags": [
+        "reverse",
+        "tanween-fathah"
+      ],
+      "source": "p. 111"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch05-q001",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "كِتَابَةٌ"
+      },
+      "options": [
+        {
+          "en": "ki taa bah"
+        },
+        {
+          "en": "ki taa ba tun"
+        },
+        {
+          "en": "ki taa bat"
+        },
+        {
+          "en": "ki taa baa"
+        }
+      ],
+      "correct": 0,
+      "explanation": "At a stop the tanween goes and taaʔ marbuuṭah ة is pronounced /h/.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q002",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "حِكْمَةً"
+      },
+      "options": [
+        {
+          "en": "ḥik maa"
+        },
+        {
+          "en": "ḥik mah"
+        },
+        {
+          "en": "ḥik ma tan"
+        },
+        {
+          "en": "ḥik mat"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Tanween fatḥah on ة does not become long aa: the ة is stopped as /h/.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q003",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "لُؤْلُؤًا"
+      },
+      "options": [
+        {
+          "en": "luʔ lu ʔan"
+        },
+        {
+          "en": "luʔ luʔ"
+        },
+        {
+          "en": "luʔ lu ʔaa"
+        },
+        {
+          "en": "luʔ lu ʔa"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Tanween fatḥah at a stop becomes alif: a long aa.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q004",
+      "prompt": {
+        "en": "How is this read linked (waṣl), with another word following?",
+        "ar": "رُؤُوسًا"
+      },
+      "options": [
+        {
+          "en": "ru ʔuu saa"
+        },
+        {
+          "en": "ru ʔuu san"
+        },
+        {
+          "en": "ru ʔuus"
+        },
+        {
+          "en": "ru ʔu san"
+        }
+      ],
+      "correct": 1,
+      "explanation": "When linking, the tanween fatḥah is read in full: -an. The long uu stays long.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q005",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "كَلِمَاتٍ"
+      },
+      "options": [
+        {
+          "en": "ka li maa tin"
+        },
+        {
+          "en": "ka li maah"
+        },
+        {
+          "en": "ka li maat"
+        },
+        {
+          "en": "ka li maa ti"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Tanween kasrah becomes sukuun. The final ت is an ordinary taaʔ (no dots on top of a round ة), so it stays /t/.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q006",
+      "prompt": {
+        "en": "How is this read linked (waṣl), with another word following?",
+        "ar": "طِفْلٌ"
+      },
+      "options": [
+        {
+          "en": "ṭifl"
+        },
+        {
+          "en": "ṭif lun"
+        },
+        {
+          "en": "ṭif lu"
+        },
+        {
+          "en": "ṭif lan"
+        }
+      ],
+      "correct": 1,
+      "explanation": "When linking, tanween ḍammah is read as -un.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q007",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "يَنْتَصِرُ"
+      },
+      "options": [
+        {
+          "en": "yan ta ṣi ru"
+        },
+        {
+          "en": "yan ta ṣir"
+        },
+        {
+          "en": "yan ta ṣiir"
+        },
+        {
+          "en": "yan ta ṣi run"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The final ḍammah becomes sukuun at the stop. The kasrah on ص is short, so no long ii.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q008",
+      "prompt": {
+        "en": "How is this read linked (waṣl), with another word following?",
+        "ar": "يَتَرَأَّسُ"
+      },
+      "options": [
+        {
+          "en": "ya ta ra ʔa su"
+        },
+        {
+          "en": "ya ta raʔ ʔas"
+        },
+        {
+          "en": "ya ta raʔ ʔa su"
+        },
+        {
+          "en": "ya ta raʔ ʔa sun"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Linked, the ḍammah is read. The shaddah on أ doubles the hamzah (raʔ ʔa); there is no tanween.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q009",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "وِجْهَةٌ"
+      },
+      "options": [
+        {
+          "en": "wij ha tun"
+        },
+        {
+          "en": "wij hat"
+        },
+        {
+          "en": "wij haa"
+        },
+        {
+          "en": "wij hah"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ة at a stop is /h/ and the tanween goes.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q010",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "يَبْدَأُ"
+      },
+      "options": [
+        {
+          "en": "yab da ʔu"
+        },
+        {
+          "en": "yab daʔ"
+        },
+        {
+          "en": "yab daa"
+        },
+        {
+          "en": "yab da ʔun"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The ḍammah on the final hamzah becomes sukuun; the hamzah itself is still pronounced.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q011",
+      "prompt": {
+        "en": "How is this read linked (waṣl), with another word following?",
+        "ar": "أُرْجُوحَةٌ"
+      },
+      "options": [
+        {
+          "en": "ʔur juu ḥa tun"
+        },
+        {
+          "en": "ʔur juu ḥah"
+        },
+        {
+          "en": "ʔur ju ḥa tun"
+        },
+        {
+          "en": "ʔur juu ḥa tan"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Linked, ة is /t/ and the tanween ḍammah is read: -tun. The waaw makes a long uu.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q012",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "يَشَاءُونَ"
+      },
+      "options": [
+        {
+          "en": "ya shaa ʔuu na"
+        },
+        {
+          "en": "ya shaa ʔun"
+        },
+        {
+          "en": "ya shaa ʔuu nan"
+        },
+        {
+          "en": "ya shaa ʔuun"
+        }
+      ],
+      "correct": 3,
+      "explanation": "The fatḥah on the final ن becomes sukuun; the long uu before it stays.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q013",
+      "prompt": {
+        "en": "How is this read linked (waṣl), with another word following?",
+        "ar": "اَلْمُؤْمِنُونَ"
+      },
+      "options": [
+        {
+          "en": "ʔal muʔ mi nuun"
+        },
+        {
+          "en": "ʔal muʔ mi nuu na"
+        },
+        {
+          "en": "ʔal muʔ mi nu na"
+        },
+        {
+          "en": "ʔal muʔ mi nuu nan"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Linked, the final fatḥah is read: -na. The long uu stays long.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q014",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "فُسَيْفِسَاءٌ"
+      },
+      "options": [
+        {
+          "en": "fu say fi saaʔ"
+        },
+        {
+          "en": "fu say fi saa ʔun"
+        },
+        {
+          "en": "fu say fi saa"
+        },
+        {
+          "en": "fu say fi saa ʔaa"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Tanween ḍammah becomes sukuun, so the word ends on the hamzah: saaʔ. Only tanween fatḥah turns into aa.",
+      "source": "p. 115"
+    },
+    {
+      "id": "ch05-q015",
+      "prompt": {
+        "en": "Which word does NOT end in a long aa when you stop on it?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "حِكْمَةً"
+        },
+        {
+          "ar": "رُؤُوسًا"
+        },
+        {
+          "ar": "لُؤْلُؤًا"
+        },
+        {
+          "ar": "صَالِحًا"
+        }
+      ],
+      "correct": 0,
+      "explanation": "All four have tanween fatḥah, but on ة it is stopped as /h/: ḥik mah. The others end in long aa.",
+      "source": "pp. 112-115"
+    },
+    {
+      "id": "ch05-q016",
+      "prompt": {
+        "en": "At a stop, ḍammah, fatḥah, kasrah, tanween ḍammah and tanween kasrah all become...",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "sukuun"
+        },
+        {
+          "en": "a long vowel"
+        },
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "they are kept as written"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The book's waqf table: every ending becomes sukuun, except tanween fatḥah.",
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-q017",
+      "prompt": {
+        "en": "At a stop, tanween fatḥah (on a letter other than ة) becomes...",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "sukuun"
+        },
+        {
+          "en": "alif: a long aa"
+        },
+        {
+          "en": "-an, kept as written"
+        },
+        {
+          "en": "/h/"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Tanween fatḥah is the exception in the waqf table: it becomes alif, ra ju lan -> ra ju laa.",
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-q018",
+      "prompt": {
+        "en": "How is taaʔ marbuuṭah ة pronounced when you link (waṣl)?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "/h/"
+        },
+        {
+          "en": "/t/"
+        },
+        {
+          "en": "silent"
+        },
+        {
+          "en": "/aa/"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Linked, ة is a normal /t/. Only at a stop does it become /h/.",
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-q019",
+      "prompt": {
+        "en": "Waqf changes the sound of a letter itself in only one case. Which?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "taaʔ marbuuṭah ة: /t/ -> /h/"
+        },
+        {
+          "en": "haaʔ ه: /h/ -> /t/"
+        },
+        {
+          "en": "nuun ن: /n/ -> silent"
+        },
+        {
+          "en": "alif: aa -> a"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Normally only the ending changes. ة is the special case: its own sound changes from /t/ to /h/.",
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-q020",
+      "prompt": {
+        "en": "Which word is read /ra ju laa/ at a stop?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "رَجُلًا"
+        },
+        {
+          "ar": "رَجُلٌ"
+        },
+        {
+          "ar": "رَجُلٍ"
+        },
+        {
+          "ar": "رَجُلَ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Only tanween fatḥah turns into a long aa at a stop. The others all become ra jul.",
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-q021",
+      "prompt": {
+        "en": "Heard at a stop: /ra jul/. Which written form could NOT give this?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "رَجُلٌ"
+        },
+        {
+          "ar": "رَجُلِ"
+        },
+        {
+          "ar": "رَجُلْ"
+        },
+        {
+          "ar": "رَجُلًا"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Tanween fatḥah is stopped as ra ju laa. Every other ending becomes ra jul.",
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-q022",
+      "prompt": {
+        "en": "You stop on the first word. How is it read?",
+        "ar": "وَلَدٌ صَالِحٌ"
+      },
+      "options": [
+        {
+          "en": "wa la dun"
+        },
+        {
+          "en": "wa lad"
+        },
+        {
+          "en": "wa la daa"
+        },
+        {
+          "en": "wa la du"
+        }
+      ],
+      "correct": 1,
+      "explanation": "At a stop tanween ḍammah becomes sukuun: wa lad. The next word is not read.",
+      "source": "p. 112"
+    },
+    {
+      "id": "ch05-q023",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "وَلَدٌ صَالِحٌ"
+      },
+      "options": [
+        {
+          "en": "wa lad ṣaa liḥ"
+        },
+        {
+          "en": "wa la dun ṣaa li ḥun"
+        },
+        {
+          "en": "wa la dun ṣaa liḥ"
+        },
+        {
+          "en": "wa lad ṣaa li ḥun"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The first word links, so its tanween is read; the last word is stopped, so it gets sukuun.",
+      "source": "p. 112"
+    },
+    {
+      "id": "ch05-q024",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "رَأَيْتُ شَيْخًا صَالِحًا"
+      },
+      "options": [
+        {
+          "en": "ra ʔay tu shay khaa ṣaa li ḥaa"
+        },
+        {
+          "en": "ra ʔay tu shay khan ṣaa li ḥan"
+        },
+        {
+          "en": "ra ʔayt shay khan ṣaa li ḥaa"
+        },
+        {
+          "en": "ra ʔay tu shay khan ṣaa li ḥaa"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Linked words keep their endings (tu, khan); only the stopped tanween fatḥah becomes long aa.",
+      "source": "p. 112"
+    },
+    {
+      "id": "ch05-q025",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "مَدْرَسَةُ أَحْمَدَ"
+      },
+      "options": [
+        {
+          "en": "mad ra sah ʔaḥ mad"
+        },
+        {
+          "en": "mad ra sa tu ʔaḥ mad"
+        },
+        {
+          "en": "mad ra sa tu ʔaḥ ma da"
+        },
+        {
+          "en": "mad ra sa hu ʔaḥ mad"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Linked ة is /t/ (sa tu). أَحْمَدَ is stopped, so its fatḥah is not read: ʔaḥ mad.",
+      "source": "p. 113"
+    },
+    {
+      "id": "ch05-q026",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "لُعْبَةٌ جَمِيلَةٌ"
+      },
+      "options": [
+        {
+          "en": "luʿ bah ja mii lah"
+        },
+        {
+          "en": "luʿ ba hun ja mii lah"
+        },
+        {
+          "en": "luʿ ba tun ja mii la tun"
+        },
+        {
+          "en": "luʿ ba tun ja mii lah"
+        }
+      ],
+      "correct": 3,
+      "explanation": "First ة is linked, so /t/ with its tanween; the last ة is stopped, so /h/.",
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-q027",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "وَجْهٌ جَمِيلٌ"
+      },
+      "options": [
+        {
+          "en": "waj tun ja miil"
+        },
+        {
+          "en": "waj hun ja miil"
+        },
+        {
+          "en": "waj hun ja mii lun"
+        },
+        {
+          "en": "waj ha tun ja miil"
+        }
+      ],
+      "correct": 1,
+      "explanation": "وَجْهٌ ends in a real haaʔ ه (no dots), so it is /h/ even when linked. The last word is stopped.",
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-q028",
+      "prompt": {
+        "en": "At a stop, how do these two words end?",
+        "ar": "لُعْبَةٌ وَجْهٌ"
+      },
+      "options": [
+        {
+          "en": "luʿ bat · wajh"
+        },
+        {
+          "en": "luʿ bah · waj hun"
+        },
+        {
+          "en": "luʿ bah · wajh"
+        },
+        {
+          "en": "luʿ ba tun · wajh"
+        }
+      ],
+      "correct": 2,
+      "explanation": "At a stop ة and ه sound the same: both end in /h/.",
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-q029",
+      "prompt": {
+        "en": "How is this read at a stop (waqf)?",
+        "ar": "مُدَرِّسُهُ"
+      },
+      "options": [
+        {
+          "en": "mu dar ri sah"
+        },
+        {
+          "en": "mu dar ri suh"
+        },
+        {
+          "en": "mu dar ri su hu"
+        },
+        {
+          "en": "mu dar ri sat"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The last letter is haaʔ ه, not ة: keep the ḍammah on س and stop the ه with sukuun.",
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-q030",
+      "prompt": {
+        "en": "How is this read linked (waṣl), with another word following?",
+        "ar": "فَاكِهَةُ"
+      },
+      "options": [
+        {
+          "en": "faa ki ha tu"
+        },
+        {
+          "en": "faa ki ha hu"
+        },
+        {
+          "en": "faa ki hah"
+        },
+        {
+          "en": "fa waa ki hu"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The last letter is ة (two dots), so when linked it is /t/: ha tu.",
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-q031",
+      "prompt": {
+        "en": "Linked, you hear /mak ta bu hu/. Which word is it?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مَكْتَبَةُ"
+        },
+        {
+          "ar": "مَكْتَبُهُ"
+        },
+        {
+          "ar": "مَكْتَبَةٌ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "/hu/ at the end when linking means a real haaʔ ه. مَكْتَبَةُ would be mak ta ba tu.",
+      "source": "p. 114"
+    },
+    {
+      "id": "ch05-q032",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "هُوَ رَجُلٌ أَمِينٌ"
+      },
+      "options": [
+        {
+          "en": "hu wa ra jul ʔa miin"
+        },
+        {
+          "en": "hu wa ra ju lun ʔa mii nun"
+        },
+        {
+          "en": "hu wa ra ju lan ʔa miin"
+        },
+        {
+          "en": "hu wa ra ju lun ʔa miin"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Only the last word is stopped (ʔa miin); رَجُلٌ links, so its tanween is read.",
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-q033",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "اَلْمَدْرَسَةُ لَيْسَتْ بَعِيدَةً"
+      },
+      "options": [
+        {
+          "en": "ʔal mad ra sa tu lay sat ba ʿii daa"
+        },
+        {
+          "en": "ʔal mad ra sah lay sat ba ʿii dah"
+        },
+        {
+          "en": "ʔal mad ra sa tu lay sat ba ʿii dah"
+        },
+        {
+          "en": "ʔal mad ra sa tu lay sat ba ʿii da tan"
+        }
+      ],
+      "correct": 2,
+      "explanation": "First ة links (/t/); last ة is stopped (/h/). Tanween fatḥah on ة does not become aa.",
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-q034",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "وَكَانَ أَبُوهُمَا صَالِحًا"
+      },
+      "options": [
+        {
+          "en": "wa kaa na ʔa buu hu maa ṣaa li ḥan"
+        },
+        {
+          "en": "wa kaa na ʔa buu hu maa ṣaa liḥ"
+        },
+        {
+          "en": "wa kaa na ʔa buu hu maa ṣaa li ḥah"
+        },
+        {
+          "en": "wa kaa na ʔa buu hu maa ṣaa li ḥaa"
+        }
+      ],
+      "correct": 3,
+      "explanation": "The last word has tanween fatḥah (not on ة), so at the stop it becomes long aa.",
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-q035",
+      "prompt": {
+        "en": "These two words end sentence 6. Read them, stopping at the end.",
+        "ar": "زَمَنٍ بَعِيدٍ"
+      },
+      "options": [
+        {
+          "en": "za ma nin ba ʿiid"
+        },
+        {
+          "en": "za man ba ʿiid"
+        },
+        {
+          "en": "za ma nin ba ʿii din"
+        },
+        {
+          "en": "za ma nin ba ʿii daa"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The first word links, so its tanween kasrah is read (-nin); the stopped word gets sukuun.",
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-q036",
+      "prompt": {
+        "en": "This word ends sentence 2. How is it read at the stop?",
+        "ar": "عَمَلِهِ"
+      },
+      "options": [
+        {
+          "en": "ʿa ma li hi"
+        },
+        {
+          "en": "ʿa ma lih"
+        },
+        {
+          "en": "ʿa ma lah"
+        },
+        {
+          "en": "ʿa ma li hin"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The kasrah on the final ه becomes sukuun at the stop: ʿa ma lih.",
+      "source": "p. 116"
+    },
+    {
+      "id": "ch05-q037",
+      "prompt": {
+        "en": "Read the whole phrase, stopping only at the end. Which is right?",
+        "ar": "يَوْمٌ جَمِيلْ"
+      },
+      "options": [
+        {
+          "en": "yawm ja miil"
+        },
+        {
+          "en": "yaw mun ja mii lun"
+        },
+        {
+          "en": "yaw mun ja miil"
+        },
+        {
+          "en": "yaw man ja miil"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Linked, the tanween ḍammah of the first word is read (yaw mun); the last word ends in sukuun.",
+      "source": "p. 111"
+    },
+    {
+      "id": "ch05-q038",
+      "prompt": {
+        "en": "Where is the case ending in أَحْمَدُ?",
+        "ar": "أَحْمَدُ"
+      },
+      "options": [
+        {
+          "en": "the ḍammah on د"
+        },
+        {
+          "en": "the fatḥah on أ"
+        },
+        {
+          "en": "the sukuun on ح"
+        },
+        {
+          "en": "the fatḥah on م"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Case endings sit only on the last letter; the marks before it are ordinary harakaat.",
+      "source": "p. 109"
+    },
+    {
+      "id": "ch05-q039",
+      "prompt": {
+        "en": "May you still pronounce the full ending when you stop on a word?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Yes, but applying waqf is more natural"
+        },
+        {
+          "en": "No, it is always wrong"
+        },
+        {
+          "en": "Only on tanween fatḥah"
+        },
+        {
+          "en": "Only on taaʔ marbuuṭah"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The book allows it (it is how you read so far) and even recommends it to beginners for ة vs ه, but waqf is the natural way.",
+      "source": "pp. 112-114"
+    }
+  ]
+}

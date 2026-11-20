@@ -1,0 +1,1989 @@
+{
+  "chapter": 6,
+  "title": "Letter Combinations",
+  "bookPages": "117-126",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 06",
+    "title": "Sun laam, moon laam, made simple.",
+    "subtitle": "A visual guide to letter combinations and the definite article اَلـ · Book pp. 117-122",
+    "coreIdeaLabel": "THE ONE RULE TO REMEMBER",
+    "coreIdea": "Look at the letter right after اَلـ. **Shaddah** = sun laam: skip the l (**ʔash shams**). **No shaddah** = moon laam: say the l (**ʔal qa mar**).",
+    "coreIdeaNote": "The alif of اَلـ (alif waṣl) is only heard when you start reading with it. Linked to the word before, it is silent.",
+    "sections": [
+      {
+        "heading": "Four letter combinations",
+        "bookPages": "117-119",
+        "note": "Two letters, one combined shape",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 4,
+            "items": [
+              {
+                "title": "ALIF MADD",
+                "kicker": "hamzah + alif · /ʔaa/",
+                "ar": "آدَمُ",
+                "translit": "ʔaa dam",
+                "note": "Never at the end of a word."
+              },
+              {
+                "title": "LAAM ALIF",
+                "kicker": "laam + alif · /laa/",
+                "ar": "كَلَامٌ",
+                "translit": "ka laa mun",
+                "note": "The laam always has fatḥah."
+              },
+              {
+                "title": "LAAM HAMZAH",
+                "kicker": "laam + alif with hamzah",
+                "ar": "لِأَنِّي",
+                "translit": "li ʔan nii",
+                "note": "The laam can take any vowel."
+              },
+              {
+                "title": "ALIF LAAM",
+                "kicker": "alif + laam · 'the'",
+                "ar": "اَلْوَلَدُ",
+                "translit": "ʔal wa lad",
+                "note": "Start of a word only."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Two kinds of اَلـ: moon and sun",
+        "bookPages": "119-120",
+        "note": "The letter after اَلـ decides",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "MOON LAAM · QAMARIYYAH",
+                "kicker": "laam pronounced",
+                "ar": "اَلْقَمَرُ",
+                "translit": "ʔal qa mar",
+                "caption": "laam has **sukuun** · next letter has **no shaddah**"
+              },
+              {
+                "title": "SUN LAAM · SHAMSIYYAH",
+                "kicker": "laam not pronounced",
+                "ar": "اَلشَّمْسُ",
+                "translit": "ʔash shams",
+                "caption": "laam **silent** · next letter **doubled** (shaddah)"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Type",
+              "The 14 letters after اَلـ (book order)"
+            ],
+            "rows": [
+              [
+                "**Moon** · say ʔal",
+                "أ ب غ ح ج ك و خ ف ع ق ي م هـ"
+              ],
+              [
+                "**Sun** · skip the l",
+                "ط ث ص ر ت ض ذ ن د س ظ ز ش ل"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "No need to memorize: look for shaddah",
+        "bookPages": "121",
+        "note": "The book's easy way to decide",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              {
+                "title": "Find اَلـ",
+                "text": "Plain alif (no hamzah) + laam at the start of the word."
+              },
+              {
+                "title": "Shaddah next?",
+                "text": "Sun laam: skip the l, double the letter: ʔash shams, never ʔal shams."
+              },
+              {
+                "title": "No shaddah?",
+                "text": "Laam has sukuun, so moon laam: say the l (ʔal qa mar)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Linking: alif waṣl drops",
+        "bookPages": "121-122",
+        "note": "Start with it = ʔa · linked = silent",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "MOON · the alif drops, the l stays",
+                "rows": [
+                  {
+                    "label": "ʔal qa mar -> linked",
+                    "ar": "نُورُ الْقَمَرِ",
+                    "translit": "nuu ru l qa mar"
+                  }
+                ]
+              },
+              {
+                "title": "SUN · the whole اَلـ drops",
+                "rows": [
+                  {
+                    "label": "ʔash shams -> linked",
+                    "ar": "نُورُ الشَّمْسِ",
+                    "translit": "nuu rush shams"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Three kinds of alif",
+        "bookPages": "122",
+        "note": "Never write hamzah on the alif of the article: أَلـ is wrong",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Alif",
+              "Example",
+              "Hamzah",
+              "Pronounced",
+              "Position"
+            ],
+            "rows": [
+              [
+                "Long vowel",
+                "سَارَ",
+                "no",
+                "always",
+                "middle, end"
+              ],
+              [
+                "With hamzah",
+                "أَلْوَان",
+                "yes",
+                "always",
+                "anywhere"
+              ],
+              [
+                "Alif waṣl",
+                "اَلْكِتَاب",
+                "no",
+                "only if you start with it",
+                "beginning"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "exercisePages": "123-126",
+    "exerciseTitle": "Use it on the exercises.",
+    "exerciseIntro": "Three exercise types, three practical methods. The book writes hamzah as ʔ and, in the answer key, adds the ending you would say (ʔal ki taa bu).",
+    "exerciseTips": [
+      {
+        "title": "Spot the article",
+        "text": "Plain alif + laam at the start. Hamzah on the alif = part of the word."
+      },
+      {
+        "title": "Check the next letter",
+        "text": "Shaddah = sun (double it). No shaddah = moon (say l)."
+      },
+      {
+        "title": "Start or linked?",
+        "text": "Alif waṣl is heard only where you start reading."
+      }
+    ],
+    "exerciseGuide": [
+      {
+        "exercise": 1,
+        "pages": "123",
+        "task": "Turn the letters into words, then transcribe them",
+        "method": "Join the letters and apply the combinations: hamzah + alif = آ, laam + alif = لَا. If the word starts with alif + laam it is the article: laam with sukuun = moon (say ʔal); no sukuun and a shaddah next = sun.",
+        "example": {
+          "ar": "اَلْآخِرَةُ",
+          "translit": "ʔal ʔaa khi ra tu",
+          "note": "#3 · hamzah + alif = آ; moon laam"
+        },
+        "contrast": {
+          "ar": "اَللَّيْلُ",
+          "translit": "ʔal lay lu",
+          "note": "#11 · sun laam on ل itself: shaddah on the next ل"
+        }
+      },
+      {
+        "exercise": 2,
+        "pages": "124",
+        "task": "Rewrite the sentences, then transcribe them as you pronounce them",
+        "method": "Read each sentence as linked speech. Alif waṣl is silent inside it. Moon: keep l; sun: skip l and double the next letter. These examples are opening excerpts: keep their endings because the book's sentences continue.",
+        "example": {
+          "ar": "هَرَبَ الْقِطُّ",
+          "translit": "ha ra bal qiṭ ṭu",
+          "note": "#6 opening excerpt -- keep ṭu because the sentence continues."
+        },
+        "contrast": {
+          "ar": "جَنَّةُ اَلدُّنْيَا",
+          "translit": "jan na tud dun yaa",
+          "note": "#1 opening excerpt -- the sentence continues; the whole article is silent here."
+        }
+      },
+      {
+        "exercise": 3,
+        "pages": "125-126",
+        "task": "Sort the words: laam shamsiyyah, laam qamariyyah or neither; say each aloud",
+        "method": "First check the alif: plain alif + laam = the article; alif with hamzah or madd = neither (part of the word). Then look past the laam: shaddah = sun, sukuun on the laam = moon (ʔal bay tu). Say each word with its ending.",
+        "example": {
+          "ar": "اَلسَّيَّارَةُ",
+          "translit": "ʔas say yaa ra tu",
+          "note": "SUN · shaddah on س"
+        },
+        "contrast": {
+          "ar": "أَلْقَاب",
+          "translit": "ʔal qaab",
+          "note": "NEITHER · hamzah on the alif"
+        }
+      }
+    ],
+    "exerciseFooter": "**Neither is a real answer in Exercise 3.** Words like أَلْعَاب (ʔal ʿaab), أَلْقَاب (ʔal qaab) and إِلْتِزَام (ʔil ti zaam) start with an alif that carries hamzah, so the l belongs to the word itself, not to the article."
+  },
+  "cards": [
+    {
+      "id": "ch06-c001",
+      "front": {
+        "ar": "آ",
+        "en": "Alif madd: which two letters are fused?"
+      },
+      "back": {
+        "ar": "",
+        "en": "hamzah ء + alif ا -> آ, sound /ʔaa/. Beginning or middle of a word, never at the end."
+      },
+      "translit": "ʔaa",
+      "tags": [
+        "alif-madd"
+      ],
+      "source": "p. 117"
+    },
+    {
+      "id": "ch06-c002",
+      "front": {
+        "ar": "آدَمُ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaa dam -- the word starts with alif madd /ʔaa/"
+      },
+      "translit": "ʔaa dam",
+      "tags": [
+        "alif-madd"
+      ],
+      "source": "p. 117"
+    },
+    {
+      "id": "ch06-c003",
+      "front": {
+        "ar": "آيَاتٌ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaa yaa tun -- alif madd at the beginning"
+      },
+      "translit": "ʔaa yaa tun",
+      "tags": [
+        "alif-madd"
+      ],
+      "source": "p. 117"
+    },
+    {
+      "id": "ch06-c004",
+      "front": {
+        "ar": "مَآرِبٌ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ma ʔaa rib -- alif madd in the middle (rare, but it exists)"
+      },
+      "translit": "ma ʔaa rib",
+      "tags": [
+        "alif-madd"
+      ],
+      "source": "p. 117"
+    },
+    {
+      "id": "ch06-c005",
+      "front": {
+        "ar": "لَا",
+        "en": "Laam alif: what is it made of?"
+      },
+      "back": {
+        "ar": "",
+        "en": "laam لَ + alif ا -> لَا /laa/. The laam always carries fatḥah because the alif is a long vowel. Two writing styles, only stylistic."
+      },
+      "translit": "laa",
+      "tags": [
+        "laam-alif"
+      ],
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-c006",
+      "front": {
+        "ar": "كَلَامٌ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ka laa mun -- laam alif in the middle"
+      },
+      "translit": "ka laa mun",
+      "tags": [
+        "laam-alif"
+      ],
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-c007",
+      "front": {
+        "ar": "عُلَا",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʿu laa -- laam alif at the end"
+      },
+      "translit": "ʿu laa",
+      "tags": [
+        "laam-alif"
+      ],
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-c008",
+      "front": {
+        "ar": "لَازِمٍ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "laa zi min -- laam alif at the beginning"
+      },
+      "translit": "laa zi min",
+      "tags": [
+        "laam-alif"
+      ],
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-c009",
+      "front": {
+        "ar": "لِأَنِّي",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "li ʔan nii -- laam hamzah; the final yaa gives long ii (the book's transcription omits the second i)."
+      },
+      "translit": "li ʔan nii",
+      "tags": [
+        "laam-hamzah"
+      ],
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-c010",
+      "front": {
+        "ar": "مَلَأٌ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ma la ʔun -- laam hamzah; the laam can carry different vowels"
+      },
+      "translit": "ma la ʔun",
+      "tags": [
+        "laam-hamzah"
+      ],
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-c011",
+      "front": {
+        "ar": "كَلَأٌ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ka la ʔun -- laam hamzah at the end"
+      },
+      "translit": "ka la ʔun",
+      "tags": [
+        "laam-hamzah"
+      ],
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-c012",
+      "front": {
+        "ar": "وَلَدٌ",
+        "en": "a boy -> the boy?"
+      },
+      "back": {
+        "ar": "اَلْوَلَدُ",
+        "en": "ʔal wa lad -- add alif laam اَلـ (the definite article 'the'); the tanween ('a') goes"
+      },
+      "translit": "ʔal wa lad",
+      "tags": [
+        "article"
+      ],
+      "source": "p. 119"
+    },
+    {
+      "id": "ch06-c013",
+      "front": {
+        "ar": "قَلْبٍ",
+        "en": "a heart -> the heart?"
+      },
+      "back": {
+        "ar": "اَلْقَلْبِ",
+        "en": "ʔal qalb -- اَلـ makes the noun definite: the heart"
+      },
+      "translit": "ʔal qalb",
+      "tags": [
+        "article"
+      ],
+      "source": "p. 119"
+    },
+    {
+      "id": "ch06-c014",
+      "front": {
+        "ar": "",
+        "en": "What are the two types of اَلـ?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Laam Qamariyyah (moon laam) = the laam is pronounced. Laam Shamsiyyah (sun laam) = the laam is not pronounced. The letter after اَلـ decides."
+      },
+      "translit": "",
+      "tags": [
+        "sun-moon"
+      ],
+      "source": "p. 119"
+    },
+    {
+      "id": "ch06-c015",
+      "front": {
+        "ar": "",
+        "en": "Why are they called 'sun' and 'moon' laam?"
+      },
+      "back": {
+        "ar": "اَلشَّمْسُ · اَلْقَمَرُ",
+        "en": "The Arabic words for 'the sun' and 'the moon' are the prime examples of each type."
+      },
+      "translit": "ʔash shams / ʔal qa mar",
+      "tags": [
+        "sun-moon"
+      ],
+      "source": "p. 119"
+    },
+    {
+      "id": "ch06-c016",
+      "front": {
+        "ar": "",
+        "en": "The 14 moon letters (laam pronounced)?"
+      },
+      "back": {
+        "ar": "أ ب غ ح ج ك و خ ف ع ق ي م هـ",
+        "en": "Moon letters, in the book's order. Shown without marks because it is a list of single letters."
+      },
+      "translit": "",
+      "tags": [
+        "moon"
+      ],
+      "source": "p. 120",
+      "plain": true
+    },
+    {
+      "id": "ch06-c017",
+      "front": {
+        "ar": "",
+        "en": "The 14 sun letters (laam not pronounced)?"
+      },
+      "back": {
+        "ar": "ط ث ص ر ت ض ذ ن د س ظ ز ش ل",
+        "en": "Sun letters, in the book's order. Shown without marks because it is a list of single letters."
+      },
+      "translit": "",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 120",
+      "plain": true
+    },
+    {
+      "id": "ch06-c018",
+      "front": {
+        "ar": "اَلْقَمَرُ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal qa mar -- moon laam: ق is a moon letter, the laam has sukuun and is pronounced"
+      },
+      "translit": "ʔal qa mar",
+      "tags": [
+        "moon"
+      ],
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-c019",
+      "front": {
+        "ar": "اَلْحَمْدُ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal ḥamd -- moon laam: ح is a moon letter"
+      },
+      "translit": "ʔal ḥamd",
+      "tags": [
+        "moon"
+      ],
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-c020",
+      "front": {
+        "ar": "اَلْمَلَائِكَة",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal ma laa ʔi kah -- moon laam (م), plus laam alif inside the word"
+      },
+      "translit": "ʔal ma laa ʔi kah",
+      "tags": [
+        "moon",
+        "laam-alif"
+      ],
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-c021",
+      "front": {
+        "ar": "اَلشَّمْسُ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔash shams -- sun laam: skip the laam, say ش with shaddah. Not ʔal shams."
+      },
+      "translit": "ʔash shams",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-c022",
+      "front": {
+        "ar": "اَلصَّبْرَ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaṣ ṣabr -- sun laam: ص doubled. Not ʔal ṣabr."
+      },
+      "translit": "ʔaṣ ṣabr",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-c023",
+      "front": {
+        "ar": "اَلدِّينَ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔad diin -- sun laam: د doubled. Not ʔal diin."
+      },
+      "translit": "ʔad diin",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-c024",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: ʔan nuur (the light)"
+      },
+      "back": {
+        "ar": "اَلنُّورُ",
+        "en": "Sun laam: the laam is written but not said; ن gets shaddah."
+      },
+      "translit": "ʔan nuur",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-c025",
+      "front": {
+        "ar": "",
+        "en": "The book's easy way to tell sun from moon laam?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Look at the letter after اَلـ: shaddah -> laam shamsiyyah (not pronounced); no shaddah -> laam qamariyyah (pronounced)."
+      },
+      "translit": "",
+      "tags": [
+        "sun-moon"
+      ],
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-c026",
+      "front": {
+        "ar": "",
+        "en": "Can the alif of اَلـ carry hamzah (أَلـ)?"
+      },
+      "back": {
+        "ar": "اَلـ",
+        "en": "No. It is alif waṣl, written without hamzah. أَلـ is incorrect."
+      },
+      "translit": "",
+      "tags": [
+        "alif-wasl"
+      ],
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-c027",
+      "front": {
+        "ar": "",
+        "en": "What is alif waṣl?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The alif of اَلـ. It is pronounced (ʔa) only when you start reading with it. Linked to a word before it, it is silent."
+      },
+      "translit": "",
+      "tags": [
+        "alif-wasl"
+      ],
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-c028",
+      "front": {
+        "ar": "سَارَ الْوَلَدُ",
+        "en": "How is it read, linked?"
+      },
+      "back": {
+        "ar": "",
+        "en": "saa ra l wa lad -- alif waṣl dropped; moon laam still heard"
+      },
+      "translit": "saa ra l wa lad",
+      "tags": [
+        "alif-wasl",
+        "moon"
+      ],
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-c029",
+      "front": {
+        "ar": "بِالْوَرَقِ",
+        "en": "How is it read, linked?"
+      },
+      "back": {
+        "ar": "",
+        "en": "bi l wa raq -- straight from bi to the l; no ʔa"
+      },
+      "translit": "bi l wa raq",
+      "tags": [
+        "alif-wasl",
+        "moon"
+      ],
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-c030",
+      "front": {
+        "ar": "نُورُ الْقَمَرِ",
+        "en": "How is it read, linked?"
+      },
+      "back": {
+        "ar": "",
+        "en": "nuu ru l qa mar -- alif silent, laam pronounced"
+      },
+      "translit": "nuu ru l qa mar",
+      "tags": [
+        "alif-wasl",
+        "moon"
+      ],
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-c031",
+      "front": {
+        "ar": "نُورُ الشَّمْسِ",
+        "en": "How is it read, linked?"
+      },
+      "back": {
+        "ar": "",
+        "en": "nuu rush shams -- sun laam + linking: the whole اَلـ is silent"
+      },
+      "translit": "nuu rush shams",
+      "tags": [
+        "alif-wasl",
+        "sun"
+      ],
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-c032",
+      "front": {
+        "ar": "نَامَ الثَّوْرُ",
+        "en": "How is it read, linked?"
+      },
+      "back": {
+        "ar": "",
+        "en": "naa math thawr -- the whole اَلـ is silent; ث doubled"
+      },
+      "translit": "naa math thawr",
+      "tags": [
+        "alif-wasl",
+        "sun"
+      ],
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-c033",
+      "front": {
+        "ar": "",
+        "en": "Sun laam, starting from the word before: what is silent?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The entire اَلـ: both the alif waṣl and the laam. Starting with اَلـ itself, only the laam is dropped."
+      },
+      "translit": "",
+      "tags": [
+        "alif-wasl",
+        "sun"
+      ],
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-c034",
+      "front": {
+        "ar": "سَارَ",
+        "en": "Which kind of alif is in this word?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Long-vowel alif: no hamzah, always pronounced, never at the beginning of a word."
+      },
+      "translit": "saa ra",
+      "tags": [
+        "alif-types"
+      ],
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-c035",
+      "front": {
+        "ar": "أَلْوَان",
+        "en": "Which kind of alif starts this word?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Alif with hamzah: carries hamzah, always pronounced, can be anywhere. Not the article."
+      },
+      "translit": "ʔal waan",
+      "tags": [
+        "alif-types"
+      ],
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-c036",
+      "front": {
+        "ar": "اَلْكِتَاب",
+        "en": "Which kind of alif starts this word?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Alif waṣl: no hamzah, pronounced only when you start with it, only at the beginning."
+      },
+      "translit": "ʔal ki taab",
+      "tags": [
+        "alif-types",
+        "alif-wasl"
+      ],
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-c037",
+      "front": {
+        "ar": "آمَالٍ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔaa maa lin -- ءَ + ا written as alif madd"
+      },
+      "translit": "ʔaa maa lin",
+      "tags": [
+        "alif-madd"
+      ],
+      "source": "p. 123"
+    },
+    {
+      "id": "ch06-c038",
+      "front": {
+        "ar": "فَلَّاحَاتٍ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "fal laa ḥaa tin -- laam alif with shaddah on the laam"
+      },
+      "translit": "fal laa ḥaa tin",
+      "tags": [
+        "laam-alif"
+      ],
+      "source": "p. 123"
+    },
+    {
+      "id": "ch06-c039",
+      "front": {
+        "ar": "اَلْآخِرَةُ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal ʔaa khi ra tu -- moon laam (hamzah) + alif madd"
+      },
+      "translit": "ʔal ʔaa khi ra tu",
+      "tags": [
+        "moon",
+        "alif-madd"
+      ],
+      "source": "p. 123"
+    },
+    {
+      "id": "ch06-c040",
+      "front": {
+        "ar": "اَللَّيْلُ",
+        "en": "How is it read?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal lay lu -- sun laam: ل is itself a sun letter, so the second ل has shaddah and you hear one doubled l"
+      },
+      "translit": "ʔal lay lu",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 123"
+    },
+    {
+      "id": "ch06-c041",
+      "front": {
+        "ar": "هَرَبَ الْقِطُّ",
+        "en": "How is this opening excerpt read when continuing into the rest of the sentence?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ha ra bal qiṭ ṭu -- alif waṣl silent, moon laam joins ba"
+      },
+      "translit": "ha ra bal qiṭ ṭu",
+      "tags": [
+        "alif-wasl",
+        "moon"
+      ],
+      "source": "p. 124"
+    },
+    {
+      "id": "ch06-c042",
+      "front": {
+        "ar": "جَنَّةُ اَلدُّنْيَا",
+        "en": "How is it read, linked?"
+      },
+      "back": {
+        "ar": "",
+        "en": "jan na tud dun yaa -- sun laam in linked speech: the whole اَلـ is silent"
+      },
+      "translit": "jan na tud dun yaa",
+      "tags": [
+        "alif-wasl",
+        "sun"
+      ],
+      "source": "p. 124"
+    },
+    {
+      "id": "ch06-c043",
+      "front": {
+        "ar": "اَلسَّيَّارَةُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "SUN -- ʔas say yaa ra tu (shaddah on س)"
+      },
+      "translit": "ʔas say yaa ra tu",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c044",
+      "front": {
+        "ar": "اَلرَّحْمَةُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "SUN -- ʔar raḥ ma tu (shaddah on ر)"
+      },
+      "translit": "ʔar raḥ ma tu",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c045",
+      "front": {
+        "ar": "اَلطَّالِبُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "SUN -- ʔaṭ ṭaa li bu (shaddah on ط)"
+      },
+      "translit": "ʔaṭ ṭaa li bu",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c046",
+      "front": {
+        "ar": "اَلثَّمَرُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "SUN -- ʔath tha ma ru (shaddah on ث)"
+      },
+      "translit": "ʔath tha ma ru",
+      "tags": [
+        "sun"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c047",
+      "front": {
+        "ar": "اَلْبَيْتُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "MOON -- ʔal bay tu (sukuun on the laam, no shaddah on ب)"
+      },
+      "translit": "ʔal bay tu",
+      "tags": [
+        "moon"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c048",
+      "front": {
+        "ar": "اَلْأَرْضُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "MOON -- ʔal ʔar ḍu. The hamzah here is on the next letter, not on the alif of اَلـ; أ is a moon letter."
+      },
+      "translit": "ʔal ʔar ḍu",
+      "tags": [
+        "moon"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c049",
+      "front": {
+        "ar": "اَلْمَسْجِدُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "MOON -- ʔal mas ji du (م is a moon letter)"
+      },
+      "translit": "ʔal mas ji du",
+      "tags": [
+        "moon"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c050",
+      "front": {
+        "ar": "اَلْهَوَاءُ",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "MOON -- ʔal ha waa ʔu (هـ is a moon letter)"
+      },
+      "translit": "ʔal ha waa ʔu",
+      "tags": [
+        "moon"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c051",
+      "front": {
+        "ar": "أَلْعَاب",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "NEITHER -- ʔal ʿaab. The alif carries hamzah, so this is not the article; أَلْ is part of the word."
+      },
+      "translit": "ʔal ʿaab",
+      "tags": [
+        "neither"
+      ],
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-c052",
+      "front": {
+        "ar": "إِلْتِزَام",
+        "en": "Sun, moon or neither?"
+      },
+      "back": {
+        "ar": "",
+        "en": "NEITHER -- ʔil ti zaam. Alif with hamzah below + kasrah: part of the word, not the article."
+      },
+      "translit": "ʔil ti zaam",
+      "tags": [
+        "neither"
+      ],
+      "source": "p. 125"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch06-q001",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلشَّمْسُ"
+      },
+      "options": [
+        {
+          "en": "ʔal shams"
+        },
+        {
+          "en": "ʔash shams"
+        },
+        {
+          "en": "ʔa shams"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Shaddah on ش = sun laam: the laam is skipped and ش is doubled. The book crosses out ʔal shams.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q002",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلْقَمَرُ"
+      },
+      "options": [
+        {
+          "en": "ʔaq qa mar"
+        },
+        {
+          "en": "ʔal qa mar"
+        },
+        {
+          "en": "ʔa qa mar"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Sukuun on the laam and no shaddah on ق = moon laam: the laam is pronounced.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q003",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلنُّورُ"
+      },
+      "options": [
+        {
+          "en": "ʔal nuur"
+        },
+        {
+          "en": "ʔa nuur"
+        },
+        {
+          "en": "ʔan nuur"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ن is a sun letter and carries shaddah: skip the laam, double the ن.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q004",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلْكِتَاب"
+      },
+      "options": [
+        {
+          "en": "ʔal ki taab"
+        },
+        {
+          "en": "ʔak ki taab"
+        },
+        {
+          "en": "ʔal kit taab"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ك is a moon letter (no shaddah), so the laam is pronounced; كِ is a short ki.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q005",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلصَّبْرَ"
+      },
+      "options": [
+        {
+          "en": "ʔal ṣabr"
+        },
+        {
+          "en": "ʔaṣ ṣabr"
+        },
+        {
+          "en": "ʔas sabr"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Sun laam: ص is doubled. Keep the emphatic ṣ, not plain s.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q006",
+      "prompt": {
+        "en": "Which type of laam is this?",
+        "ar": "اَلْحَمْدُ"
+      },
+      "options": [
+        {
+          "en": "Laam qamariyyah (moon) -- pronounced"
+        },
+        {
+          "en": "Laam shamsiyyah (sun) -- not pronounced"
+        },
+        {
+          "en": "Neither -- not the article"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The laam has sukuun and ح has no shaddah: moon laam, read ʔal ḥamd.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q007",
+      "prompt": {
+        "en": "Which type of laam is this?",
+        "ar": "اَلدِّينَ"
+      },
+      "options": [
+        {
+          "en": "Laam qamariyyah (moon) -- pronounced"
+        },
+        {
+          "en": "Laam shamsiyyah (sun) -- not pronounced"
+        },
+        {
+          "en": "Neither -- not the article"
+        }
+      ],
+      "correct": 1,
+      "explanation": "د carries shaddah: sun laam, read ʔad diin.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q008",
+      "prompt": {
+        "en": "Which of these is a sun letter?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "ق"
+        },
+        {
+          "ar": "ش"
+        },
+        {
+          "ar": "ب"
+        },
+        {
+          "ar": "ج"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ش is one of the 14 sun letters. ق, ب and ج are moon letters.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q009",
+      "prompt": {
+        "en": "Which of these is a moon letter?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "ن"
+        },
+        {
+          "ar": "ر"
+        },
+        {
+          "ar": "ك"
+        },
+        {
+          "ar": "ت"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ك is a moon letter. ن, ر and ت are sun letters.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q010",
+      "prompt": {
+        "en": "Which group is all sun letters?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "ت ث د ذ"
+        },
+        {
+          "en": "ب ج ح خ"
+        },
+        {
+          "en": "ع غ ف ق"
+        },
+        {
+          "en": "ك م هـ ي"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ت ث د ذ are all in the sun list. The other groups are moon letters.",
+      "source": "p. 120"
+    },
+    {
+      "id": "ch06-q011",
+      "prompt": {
+        "en": "The book's easy way: what tells you the laam of اَلـ is a sun laam?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "The letter after اَلـ has a shaddah"
+        },
+        {
+          "en": "The laam has a sukuun"
+        },
+        {
+          "en": "The alif has a hamzah"
+        },
+        {
+          "en": "The word ends in tanween"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Shaddah on the next letter = laam shamsiyyah (not pronounced). No shaddah = laam qamariyyah.",
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-q012",
+      "prompt": {
+        "en": "In this word, which mark shows it is a moon laam?",
+        "ar": "اَلْقَمَرُ"
+      },
+      "options": [
+        {
+          "en": "Sukuun on the laam, no shaddah on ق"
+        },
+        {
+          "en": "Shaddah on ق"
+        },
+        {
+          "en": "Fatḥah on the alif"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Moon laam: the laam carries sukuun and the next letter has no shaddah.",
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-q013",
+      "prompt": {
+        "en": "Which way of writing the article is correct?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "أَلـ"
+        },
+        {
+          "ar": "اَلـ"
+        },
+        {
+          "ar": "إِلـ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The alif of اَلـ is alif waṣl and never carries hamzah. أَلـ is marked incorrect in the book.",
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-q014",
+      "prompt": {
+        "en": "When is the alif of اَلـ (alif waṣl) pronounced?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Only when you start reading with it"
+        },
+        {
+          "en": "Always"
+        },
+        {
+          "en": "Only before moon letters"
+        },
+        {
+          "en": "Never"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Alif waṣl is pronounced (ʔa) only when you start with it; linked from a word before, it is silent.",
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-q015",
+      "prompt": {
+        "en": "How is it read, linked?",
+        "ar": "سَارَ الْوَلَدُ"
+      },
+      "options": [
+        {
+          "en": "saa ra ʔal wa lad"
+        },
+        {
+          "en": "saa ra l wa lad"
+        },
+        {
+          "en": "saa ra wa lad"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Alif waṣl drops when linked, but this is a moon laam, so the l is still heard: saa ra l wa lad.",
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-q016",
+      "prompt": {
+        "en": "In this phrase, what is silent?",
+        "ar": "سَارَ الْوَلَدُ"
+      },
+      "options": [
+        {
+          "en": "Only the alif of اَلـ"
+        },
+        {
+          "en": "The alif and the laam"
+        },
+        {
+          "en": "Only the laam"
+        },
+        {
+          "en": "Nothing"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Linked speech drops alif waṣl; و is a moon letter, so the laam stays.",
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-q017",
+      "prompt": {
+        "en": "How is it read, linked?",
+        "ar": "نُورُ الشَّمْسِ"
+      },
+      "options": [
+        {
+          "en": "nuu ru l shams"
+        },
+        {
+          "en": "nuu ru ʔash shams"
+        },
+        {
+          "en": "nuu rush shams"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Sun laam + linking: the whole اَلـ is silent and ru joins the doubled ش.",
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-q018",
+      "prompt": {
+        "en": "In this phrase, what is silent?",
+        "ar": "نُورُ الشَّمْسِ"
+      },
+      "options": [
+        {
+          "en": "Only the alif of اَلـ"
+        },
+        {
+          "en": "The alif and the laam"
+        },
+        {
+          "en": "Only the laam"
+        },
+        {
+          "en": "Nothing"
+        }
+      ],
+      "correct": 1,
+      "explanation": "With a sun laam, starting from the word before drops the entire اَلـ combination.",
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-q019",
+      "prompt": {
+        "en": "How is it read, linked?",
+        "ar": "بِالْوَرَقِ"
+      },
+      "options": [
+        {
+          "en": "bi ʔal wa raq"
+        },
+        {
+          "en": "biw wa raq"
+        },
+        {
+          "en": "bi l wa raq"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Alif waṣl is silent; و is a moon letter, so the l stays: bi l wa raq.",
+      "source": "p. 121"
+    },
+    {
+      "id": "ch06-q020",
+      "prompt": {
+        "en": "What does this mean?",
+        "ar": "اَلْوَلَدُ"
+      },
+      "options": [
+        {
+          "en": "the boy"
+        },
+        {
+          "en": "a boy"
+        },
+        {
+          "en": "the heart"
+        }
+      ],
+      "correct": 0,
+      "explanation": "اَلـ is the definite article 'the'. وَلَدٌ with tanween = a boy.",
+      "source": "p. 119"
+    },
+    {
+      "id": "ch06-q021",
+      "prompt": {
+        "en": "What is alif madd آ made of?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "hamzah + alif, read ʔaa"
+        },
+        {
+          "en": "alif + alif, read aa"
+        },
+        {
+          "en": "laam + alif, read laa"
+        },
+        {
+          "en": "hamzah + fatḥah, read ʔa"
+        }
+      ],
+      "correct": 0,
+      "explanation": "When hamzah is followed by an alif they fuse into آ, which sounds /ʔaa/.",
+      "source": "p. 117"
+    },
+    {
+      "id": "ch06-q022",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "آدَمُ"
+      },
+      "options": [
+        {
+          "en": "ʔa dam"
+        },
+        {
+          "en": "ʔaa dam"
+        },
+        {
+          "en": "ʔad dam"
+        }
+      ],
+      "correct": 1,
+      "explanation": "آ is alif madd: a long ʔaa (hamzah + long alif).",
+      "source": "p. 117"
+    },
+    {
+      "id": "ch06-q023",
+      "prompt": {
+        "en": "Where does alif madd NOT appear?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "At the end of a word"
+        },
+        {
+          "en": "At the beginning of a word"
+        },
+        {
+          "en": "In the middle of a word"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Alif madd occurs at the beginning and (rarely) in the middle, never at the end.",
+      "source": "p. 117"
+    },
+    {
+      "id": "ch06-q024",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "كَلَامٌ"
+      },
+      "options": [
+        {
+          "en": "ka la mun"
+        },
+        {
+          "en": "ka laa mun"
+        },
+        {
+          "en": "kal laa mun"
+        }
+      ],
+      "correct": 1,
+      "explanation": "لَا is laam alif: laam + long alif = laa.",
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-q025",
+      "prompt": {
+        "en": "In laam alif لَا, which vowel does the laam always carry?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "kasrah"
+        },
+        {
+          "en": "sukuun"
+        },
+        {
+          "en": "ḍammah"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The alif after it is a long-vowel alif, so the laam always has fatḥah.",
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-q026",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "لِأَنِّي"
+      },
+      "options": [
+        {
+          "en": "li ʔan nii"
+        },
+        {
+          "en": "laa ni"
+        },
+        {
+          "en": "la ʔan ni"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Laam hamzah: the laam has kasrah. Read li ʔan nii; the final yaa gives long ii (the book's transcription omits the second i).",
+      "source": "p. 118"
+    },
+    {
+      "id": "ch06-q027",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلْآخِرَةُ"
+      },
+      "options": [
+        {
+          "en": "ʔal ʔa khi ra tu"
+        },
+        {
+          "en": "ʔal ʔaa khi ra tu"
+        },
+        {
+          "en": "ʔaa khi ra tu"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Moon laam (pronounced) followed by alif madd آ = long ʔaa.",
+      "source": "p. 123"
+    },
+    {
+      "id": "ch06-q028",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَللَّيْلُ"
+      },
+      "options": [
+        {
+          "en": "ʔa lay lu"
+        },
+        {
+          "en": "ʔal lay lu"
+        },
+        {
+          "en": "ʔal lay li"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Sun laam before ل: the first laam is skipped and the second ل has shaddah, so you hear one doubled l.",
+      "source": "p. 123"
+    },
+    {
+      "id": "ch06-q029",
+      "prompt": {
+        "en": "Sun, moon or neither?",
+        "ar": "اَللَّيْلُ"
+      },
+      "options": [
+        {
+          "en": "Sun"
+        },
+        {
+          "en": "Moon"
+        },
+        {
+          "en": "Neither"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ل is a sun letter and carries shaddah. The book lists اَللَّيْلُ under laam shamsiyyah.",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q030",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلسَّيَّارَةُ"
+      },
+      "options": [
+        {
+          "en": "ʔal say yaa ra tu"
+        },
+        {
+          "en": "ʔas say yaa ra tu"
+        },
+        {
+          "en": "ʔas sa yaa ra tu"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Shaddah on س = sun laam; the yaaʔ also has shaddah: say yaa.",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q031",
+      "prompt": {
+        "en": "How is it read?",
+        "ar": "اَلثَّمَرُ"
+      },
+      "options": [
+        {
+          "en": "ʔal tha ma ru"
+        },
+        {
+          "en": "ʔat ta ma ru"
+        },
+        {
+          "en": "ʔath tha ma ru"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ث is a sun letter with shaddah: ʔath tha. Do not confuse ث (th) with ت (t).",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q032",
+      "prompt": {
+        "en": "Sun, moon or neither?",
+        "ar": "اَلْأَرْضُ"
+      },
+      "options": [
+        {
+          "en": "Sun"
+        },
+        {
+          "en": "Moon"
+        },
+        {
+          "en": "Neither"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The alif of اَلـ has no hamzah, so it is the article; أ after it is a moon letter: ʔal ʔar ḍu.",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q033",
+      "prompt": {
+        "en": "Sun, moon or neither?",
+        "ar": "أَلْوَانًا"
+      },
+      "options": [
+        {
+          "en": "Sun"
+        },
+        {
+          "en": "Moon"
+        },
+        {
+          "en": "Neither"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The alif carries hamzah, so أَلْ is part of the word, not the article: ʔal waa nan.",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q034",
+      "prompt": {
+        "en": "Sun, moon or neither?",
+        "ar": "إِلْتِزَام"
+      },
+      "options": [
+        {
+          "en": "Sun"
+        },
+        {
+          "en": "Moon"
+        },
+        {
+          "en": "Neither"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Alif with hamzah below: part of the word, not alif waṣl. Read ʔil ti zaam.",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q035",
+      "prompt": {
+        "en": "Which word has a moon laam?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "اَلشَّيْخُ"
+        },
+        {
+          "ar": "اَلْبَيْتُ"
+        },
+        {
+          "ar": "اَلنَّارُ"
+        },
+        {
+          "ar": "اَلصَّبْرُ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "اَلْبَيْتُ: sukuun on the laam, no shaddah on ب. The others have shaddah (sun).",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q036",
+      "prompt": {
+        "en": "Which word has a sun laam?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "اَلْجَنَّةُ"
+        },
+        {
+          "ar": "اَلْحَقُّ"
+        },
+        {
+          "ar": "اَلرَّحْمَةُ"
+        },
+        {
+          "ar": "اَلْخُبْزُ"
+        }
+      ],
+      "correct": 2,
+      "explanation": "اَلرَّحْمَةُ has shaddah on ر: ʔar raḥ ma tu. ج, ح, خ are moon letters (the shaddah in اَلْجَنَّةُ is on ن, not on the letter after اَلـ).",
+      "source": "p. 125"
+    },
+    {
+      "id": "ch06-q037",
+      "prompt": {
+        "en": "How is this opening excerpt read when continuing into the rest of the sentence?",
+        "ar": "هَرَبَ الْقِطُّ"
+      },
+      "options": [
+        {
+          "en": "ha ra ba ʔal qiṭ ṭu"
+        },
+        {
+          "en": "ha ra bal qiṭ ṭu"
+        },
+        {
+          "en": "ha ra baq qiṭ ṭu"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Alif waṣl is silent; ق is a moon letter, so the l joins ba: ha ra bal qiṭ ṭu.",
+      "source": "p. 124"
+    },
+    {
+      "id": "ch06-q038",
+      "prompt": {
+        "en": "How is it read, linked?",
+        "ar": "جَنَّةُ اَلدُّنْيَا"
+      },
+      "options": [
+        {
+          "en": "jan na tul dun yaa"
+        },
+        {
+          "en": "jan na tu ʔad dun yaa"
+        },
+        {
+          "en": "jan na tud dun yaa"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Linked + sun laam: the whole اَلـ is silent and tu joins the doubled د.",
+      "source": "p. 124"
+    },
+    {
+      "id": "ch06-q039",
+      "prompt": {
+        "en": "Which alif is pronounced only when you start with it?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Alif waṣl, as in اَلْكِتَاب"
+        },
+        {
+          "en": "Alif with hamzah, as in أَلْوَان"
+        },
+        {
+          "en": "Long-vowel alif, as in سَارَ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Alif waṣl: no hamzah, heard only at the start of reading.",
+      "source": "p. 122"
+    },
+    {
+      "id": "ch06-q040",
+      "prompt": {
+        "en": "Which alif never comes at the beginning of a word?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Long-vowel alif"
+        },
+        {
+          "en": "Alif with hamzah"
+        },
+        {
+          "en": "Alif waṣl"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The long-vowel alif extends the previous fatḥah, so it cannot start a word.",
+      "source": "p. 122"
+    }
+  ]
+}

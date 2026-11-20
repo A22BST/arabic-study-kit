@@ -1,0 +1,1978 @@
+{
+  "chapter": 7,
+  "title": "Arabic Numbers",
+  "bookPages": "127-136",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 07",
+    "title": "Arabic numbers, made simple.",
+    "subtitle": "A visual guide to recognizing, reading and writing Arabic (Arabic-Indic) numerals · Book pp. 127-132",
+    "coreIdea": "Only the **shapes** are new. Arabic digits are written and read **left to right, biggest place first**, exactly like English: ٣٥ = **35**, ٢٠٢٥ = **2025**.",
+    "coreIdeaNote": "Saying a combined number aloud: start with the biggest part and join the parts with وَ (and). With tens and units, say the unit first: ٢٦ = six and twenty.",
+    "sections": [
+      {
+        "heading": "Ten digits, ten names",
+        "bookPages": "128",
+        "note": "Zero ٠ is a dot · two can be written two ways",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Value",
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9"
+            ],
+            "rows": [
+              [
+                "Digit",
+                "٠",
+                "١",
+                "٢",
+                "٣",
+                "٤",
+                "٥",
+                "٦",
+                "٧",
+                "٨",
+                "٩"
+              ],
+              [
+                "Name",
+                "صِفْر",
+                "وَاحِد",
+                "اِثْنَيْن",
+                "ثَلاثَة",
+                "أَرْبَعَة",
+                "خَمْسَة",
+                "سِتَّة",
+                "سَبْعَة",
+                "ثَمَانِيَة",
+                "تِسْعَة"
+              ],
+              [
+                "Reading",
+                "ṣifr",
+                "waa ḥid",
+                "ʔith nayn",
+                "tha laa thah",
+                "ʔar ba ʿah",
+                "kham sah",
+                "sit tah",
+                "sab ʿah",
+                "tha maa ni yah",
+                "tis ʿah"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "11 to 99: three patterns",
+        "bookPages": "129-130",
+        "note": "Book pp. 129-130 · teens, tens, then unit + and + ten",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 3,
+            "items": [
+              {
+                "title": "11-19 · DIGIT + TEEN",
+                "kicker": "unit name + عَشَر",
+                "arFrom": "١٦",
+                "ar": "سِتَّةَ عَشَر",
+                "translit": "sit ta ta ʿa shar",
+                "caption": "six + teen = **16**",
+                "note": "Exception: ١١ = أَحَدَ عَشَر. Ten = عَشَرَة."
+              },
+              {
+                "title": "20-90 · THE TENS",
+                "kicker": "ending ـِين",
+                "arFrom": "٥٠",
+                "ar": "خَمْسِين",
+                "translit": "kham siin",
+                "caption": "five -> **fifty**",
+                "note": "عِشْرِين · ثَلاثِين · أَرْبَعِين · سِتِّين · سَبْعِين · ثَمَانِين · تِسْعِين"
+              },
+              {
+                "title": "21-99 · UNIT FIRST",
+                "kicker": "unit + وَ + ten",
+                "arFrom": "٥٣",
+                "ar": "ثَلاثَةَ وَخَمْسِين",
+                "translit": "tha laa tha ta wa kham siin",
+                "caption": "**three and fifty** = 53",
+                "note": "وَ (and) replaces the English hyphen: ٢٦ = سِتَّةَ وَعِشْرِين."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Hundreds and thousands",
+        "bookPages": "131",
+        "note": "Book p. 131 · the hundred is joined into one word",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Value",
+              "100",
+              "200",
+              "300",
+              "400",
+              "500",
+              "600",
+              "700",
+              "800",
+              "900"
+            ],
+            "rows": [
+              [
+                "Digits",
+                "١٠٠",
+                "٢٠٠",
+                "٣٠٠",
+                "٤٠٠",
+                "٥٠٠",
+                "٦٠٠",
+                "٧٠٠",
+                "٨٠٠",
+                "٩٠٠"
+              ],
+              [
+                "Name",
+                "مِئَة",
+                "مِئَتَيْن",
+                "ثَلاثُمِئَة",
+                "أَرْبَعُمِئَة",
+                "خَمْسُمِئَة",
+                "سِتُّمِئَة",
+                "سَبْعُمِئَة",
+                "ثَمَانِمِئَة",
+                "تِسْعُمِئَة"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Bigger:",
+            "text": "١٠٠٠ = أَلْف (ʔalf); thousands = آلَاف (ʔaa laaf); ١٠٠٠٠٠ = مِئَةُ أَلْف, the biggest number in the Quran. Also spelled مِائَة: the alif is **silent**."
+          }
+        ]
+      },
+      {
+        "heading": "Reading a long number",
+        "bookPages": "127",
+        "note": "Book pp. 127, 131",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              {
+                "title": "Read the digits",
+                "text": "Left to right, like English: ٧٣٤٠ = 7340."
+              },
+              {
+                "title": "Biggest part first",
+                "text": "Thousands, then hundreds, then the rest."
+              },
+              {
+                "title": "Join with وَ",
+                "text": "Join distinct parts with وَ (and). With tens and units, say the unit first."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Look-alike digits",
+        "bookPages": "128",
+        "note": "Book pp. 128, 132",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Digit",
+              "How to tell it apart"
+            ],
+            "rows": [
+              [
+                "٠ = 0 and ٥ = 5",
+                "٠ is a small dot (not the decimal point '.'); ٥ is a round ring, not English 0."
+              ],
+              [
+                "٢ = 2 vs ٣ = 3",
+                "Count the bumps on top: one for ٢, two for ٣."
+              ],
+              [
+                "٤ = 4 vs ٦ = 6",
+                "٤ curls on the left; ٦ is a hook on a straight stem."
+              ],
+              [
+                "٧ = 7 vs ٨ = 8",
+                "٧ opens up like V; ٨ opens down like Λ."
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "exercisePages": "133-136",
+    "exerciseTitle": "Use it on the exercises.",
+    "exerciseIntro": "Drills plus six exercises: read, order, convert and spell. Exercises 2-3 need your own muṣḥaf.",
+    "exerciseTips": [
+      {
+        "title": "Read left to right",
+        "text": "The digit order is the same as in English: ١٥٧ = 157."
+      },
+      {
+        "title": "Biggest part first",
+        "text": "Thousands, hundreds, then unit + وَ + ten."
+      },
+      {
+        "title": "Watch the look-alikes",
+        "text": "٠ is a dot, ٥ is a ring; ٧ V vs ٨ Λ."
+      }
+    ],
+    "exerciseGuide": [
+      {
+        "exercise": "Drills",
+        "pages": "133-134",
+        "task": "Trace each digit, then write and spell whole numbers",
+        "method": "Follow the stroke arrows from p. 132. On p. 134, copy each number digit by digit from left to right, then write it in words: biggest part first, parts joined by وَ.",
+        "example": {
+          "ar": "١١٤",
+          "translit": "",
+          "note": "114 -> مِئَة وَأَرْبَعَةَ عَشَر"
+        },
+        "contrast": {
+          "ar": "٢٣",
+          "translit": "",
+          "note": "23 -> ثَلاثَةَ وَعِشْرِين (unit first)"
+        }
+      },
+      {
+        "exercise": 1,
+        "pages": "135",
+        "task": "Put the aayaat numbers in ascending order",
+        "method": "Convert each number to English digits first. Fewer digits = smaller number; with the same number of digits compare from the left.",
+        "example": {
+          "ar": "٩",
+          "translit": "",
+          "note": "9 comes first (one digit); key: 9, 10, 14 ... 157, 186, 279"
+        },
+        "contrast": {
+          "ar": "٧٤",
+          "translit": "",
+          "note": "74, not 47: never read the digits right to left"
+        }
+      },
+      {
+        "exercise": "2-3",
+        "pages": "135",
+        "task": "Use your muṣḥaf: surah names for numbers, ayah totals for surahs",
+        "method": "Ex 2: read the number, find it in the index, write the surah name. Ex 3: go to the surah and read the number of its last ayah.",
+        "example": {
+          "ar": "١٧",
+          "translit": "",
+          "note": "Ex 2 · 17 -> سُورَةُ الإسْرَاء"
+        },
+        "contrast": {
+          "ar": "سُورَةُ الفَاتِحَة",
+          "translit": "",
+          "note": "Ex 3 · ٧ = 7 aayaat"
+        }
+      },
+      {
+        "exercise": 4,
+        "pages": "136",
+        "task": "Turn Arabic digits into English digits",
+        "method": "Replace each digit one by one, keeping the same left-to-right order. Every ٠ dot is a zero; do not drop it.",
+        "example": {
+          "ar": "١٢٥٠",
+          "translit": "",
+          "note": "-> 1250"
+        },
+        "contrast": {
+          "ar": "٥٠٥٠٠",
+          "translit": "",
+          "note": "-> 50500 · ring ٥ = 5, dot ٠ = 0"
+        }
+      },
+      {
+        "exercise": 5,
+        "pages": "136",
+        "task": "Match the numbers to their Arabic spelling",
+        "method": "Find the biggest word first: آلَاف (thousands), مِئَة (hundred), a ten or a teen. Then the unit. Here the tens end in ـُون instead of ـِين: same number.",
+        "example": {
+          "ar": "أَرْبَعُمِئَةٌ وَأَرْبَعُون",
+          "translit": "",
+          "note": "440 · answer 5 -> b"
+        },
+        "contrast": {
+          "ar": "أَرْبَعَةَ عَشَرَ",
+          "translit": "",
+          "note": "14, not 41 · answer 2 -> c"
+        }
+      },
+      {
+        "exercise": 6,
+        "pages": "136",
+        "task": "Spell out the Arabic digits in words",
+        "method": "Split the number into thousands, hundreds and the rest. Write each part, biggest first, joined by وَ; for 21-99 write the unit before the ten.",
+        "example": {
+          "ar": "خَمْسَةُ آلَافٍ وَسِتَّةٌ وَسِتُّونَ",
+          "translit": "kham sa tu ʔaa laa fin wa sit ta tun wa sit tuu na",
+          "note": "5066"
+        },
+        "contrast": {
+          "ar": "اِثْنَا عَشَرَ",
+          "translit": "ʔith naa ʿa sha ra",
+          "note": "12 · a teen, so no 'and'"
+        }
+      }
+    ],
+    "exerciseFooter": "**Two checks before you write an answer.** Did you read the digits left to right (٥٣ = 53, not 35)? And in words, did the unit come before the ten (ثَلاثَةَ وَخَمْسِين = three and fifty)?"
+  },
+  "cards": [
+    {
+      "id": "ch07-c001",
+      "front": {
+        "ar": "٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "صِفْر",
+        "en": "0 -- zero -- a small dot"
+      },
+      "translit": "ṣifr",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c002",
+      "front": {
+        "ar": "١",
+        "en": ""
+      },
+      "back": {
+        "ar": "وَاحِد",
+        "en": "1 -- one"
+      },
+      "translit": "waa ḥid",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c003",
+      "front": {
+        "ar": "٢",
+        "en": ""
+      },
+      "back": {
+        "ar": "اِثْنَيْن",
+        "en": "2 -- two -- can be written two ways, no difference"
+      },
+      "translit": "ʔith nayn",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c004",
+      "front": {
+        "ar": "٣",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَلاثَة",
+        "en": "3 -- three"
+      },
+      "translit": "tha laa thah",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c005",
+      "front": {
+        "ar": "٤",
+        "en": ""
+      },
+      "back": {
+        "ar": "أَرْبَعَة",
+        "en": "4 -- four"
+      },
+      "translit": "ʔar ba ʿah",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c006",
+      "front": {
+        "ar": "٥",
+        "en": ""
+      },
+      "back": {
+        "ar": "خَمْسَة",
+        "en": "5 -- five -- a round ring, not English 0"
+      },
+      "translit": "kham sah",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c007",
+      "front": {
+        "ar": "٦",
+        "en": ""
+      },
+      "back": {
+        "ar": "سِتَّة",
+        "en": "6 -- six"
+      },
+      "translit": "sit tah",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c008",
+      "front": {
+        "ar": "٧",
+        "en": ""
+      },
+      "back": {
+        "ar": "سَبْعَة",
+        "en": "7 -- seven"
+      },
+      "translit": "sab ʿah",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c009",
+      "front": {
+        "ar": "٨",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَمَانِيَة",
+        "en": "8 -- eight"
+      },
+      "translit": "tha maa ni yah",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c010",
+      "front": {
+        "ar": "٩",
+        "en": ""
+      },
+      "back": {
+        "ar": "تِسْعَة",
+        "en": "9 -- nine"
+      },
+      "translit": "tis ʿah",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c011",
+      "front": {
+        "ar": "١٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "عَشَرَة",
+        "en": "10 -- ten"
+      },
+      "translit": "ʿa sha rah",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c012",
+      "front": {
+        "ar": "١١",
+        "en": ""
+      },
+      "back": {
+        "ar": "أَحَدَ عَشَر",
+        "en": "11 -- eleven -- the one exception to the digit + teen pattern"
+      },
+      "translit": "ʔa ḥa da ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c013",
+      "front": {
+        "ar": "١٢",
+        "en": ""
+      },
+      "back": {
+        "ar": "إِثْنَا عَشَر",
+        "en": "12 -- twelve"
+      },
+      "translit": "ʔith naa ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c014",
+      "front": {
+        "ar": "١٣",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَلاثَةَ عَشَر",
+        "en": "13 -- thirteen -- digit + عَشَر (teen)"
+      },
+      "translit": "tha laa tha ta ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c015",
+      "front": {
+        "ar": "١٤",
+        "en": ""
+      },
+      "back": {
+        "ar": "أَرْبَعَةَ عَشَر",
+        "en": "14 -- fourteen"
+      },
+      "translit": "ʔar ba ʿa ta ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c016",
+      "front": {
+        "ar": "١٥",
+        "en": ""
+      },
+      "back": {
+        "ar": "خَمْسَةَ عَشَر",
+        "en": "15 -- fifteen"
+      },
+      "translit": "kham sa ta ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c017",
+      "front": {
+        "ar": "١٦",
+        "en": ""
+      },
+      "back": {
+        "ar": "سِتَّةَ عَشَر",
+        "en": "16 -- sixteen -- digit + عَشَر (teen)"
+      },
+      "translit": "sit ta ta ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c018",
+      "front": {
+        "ar": "١٧",
+        "en": ""
+      },
+      "back": {
+        "ar": "سَبْعَةَ عَشَر",
+        "en": "17 -- seventeen"
+      },
+      "translit": "sab ʿa ta ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c019",
+      "front": {
+        "ar": "١٨",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَمَانِيَةَ عَشَر",
+        "en": "18 -- eighteen"
+      },
+      "translit": "tha maa ni ya ta ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c020",
+      "front": {
+        "ar": "١٩",
+        "en": ""
+      },
+      "back": {
+        "ar": "تِسْعَةَ عَشَر",
+        "en": "19 -- nineteen"
+      },
+      "translit": "tis ʿa ta ʿa shar",
+      "tags": [
+        "teen"
+      ],
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-c021",
+      "front": {
+        "ar": "٢٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "عِشْرِين",
+        "en": "20 -- twenty"
+      },
+      "translit": "ʿish riin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c022",
+      "front": {
+        "ar": "٣٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَلاثِين",
+        "en": "30 -- thirty"
+      },
+      "translit": "tha laa thiin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c023",
+      "front": {
+        "ar": "٤٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "أَرْبَعِين",
+        "en": "40 -- forty"
+      },
+      "translit": "ʔar ba ʿiin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c024",
+      "front": {
+        "ar": "٥٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "خَمْسِين",
+        "en": "50 -- fifty"
+      },
+      "translit": "kham siin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c025",
+      "front": {
+        "ar": "٦٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "سِتِّين",
+        "en": "60 -- sixty"
+      },
+      "translit": "sit tiin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c026",
+      "front": {
+        "ar": "٧٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "سَبْعِين",
+        "en": "70 -- seventy"
+      },
+      "translit": "sab ʿiin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c027",
+      "front": {
+        "ar": "٨٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَمَانِين",
+        "en": "80 -- eighty"
+      },
+      "translit": "tha maa niin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c028",
+      "front": {
+        "ar": "٩٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "تِسْعِين",
+        "en": "90 -- ninety"
+      },
+      "translit": "tis ʿiin",
+      "tags": [
+        "tens"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c029",
+      "front": {
+        "ar": "١٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "مِئَة",
+        "en": "100 -- one hundred"
+      },
+      "translit": "mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c030",
+      "front": {
+        "ar": "٢٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "مِئَتَيْن",
+        "en": "200 -- two hundred"
+      },
+      "translit": "mi ʔa tayn",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c031",
+      "front": {
+        "ar": "٣٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَلاثُمِئَة",
+        "en": "300 -- three hundred"
+      },
+      "translit": "tha laa thu mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c032",
+      "front": {
+        "ar": "٤٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "أَرْبَعُمِئَة",
+        "en": "400 -- four hundred"
+      },
+      "translit": "ʔar ba ʿu mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c033",
+      "front": {
+        "ar": "٥٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "خَمْسُمِئَة",
+        "en": "500 -- five hundred"
+      },
+      "translit": "kham su mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c034",
+      "front": {
+        "ar": "٦٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "سِتُّمِئَة",
+        "en": "600 -- six hundred"
+      },
+      "translit": "sit tu mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c035",
+      "front": {
+        "ar": "٧٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "سَبْعُمِئَة",
+        "en": "700 -- seven hundred"
+      },
+      "translit": "sab ʿu mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c036",
+      "front": {
+        "ar": "٨٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَمَانِمِئَة",
+        "en": "800 -- eight hundred"
+      },
+      "translit": "tha maa ni mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c037",
+      "front": {
+        "ar": "٩٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "تِسْعُمِئَة",
+        "en": "900 -- nine hundred"
+      },
+      "translit": "tis ʿu mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c038",
+      "front": {
+        "ar": "١٠٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "أَلْف",
+        "en": "1000 -- one thousand"
+      },
+      "translit": "ʔalf",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c039",
+      "front": {
+        "ar": "١٠٠٠٠٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "مِئَةُ أَلْف",
+        "en": "100 000 -- one hundred thousand"
+      },
+      "translit": "mi ʔa tu ʔalf",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c040",
+      "front": {
+        "ar": "",
+        "en": "How do you read ٣٥ -- 35 or 53?"
+      },
+      "back": {
+        "ar": "",
+        "en": "35. Arabic digits run left to right with the biggest place first, exactly like English (٢٠٢٥ = 2025)."
+      },
+      "translit": "",
+      "tags": [
+        "reading-order"
+      ],
+      "source": "p. 127"
+    },
+    {
+      "id": "ch07-c041",
+      "front": {
+        "ar": "٢٦",
+        "en": ""
+      },
+      "back": {
+        "ar": "سِتَّةَ وَعِشْرِين",
+        "en": "26 -- six AND twenty: from 21 to 99 the unit comes first, joined by وَ"
+      },
+      "translit": "sit ta ta wa ʿish riin",
+      "tags": [
+        "combined"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c042",
+      "front": {
+        "ar": "٥٣",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَلاثَةَ وَخَمْسِين",
+        "en": "53 -- three and fifty"
+      },
+      "translit": "tha laa tha ta wa kham siin",
+      "tags": [
+        "combined"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c043",
+      "front": {
+        "ar": "٤٥٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "أَرْبَعُمِئَة وَخَمْسِين",
+        "en": "450 -- four hundred and fifty: biggest part first"
+      },
+      "translit": "ʔar ba ʿu mi ʔah wa kham siin",
+      "tags": [
+        "combined"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c044",
+      "front": {
+        "ar": "٧٣٤٠",
+        "en": ""
+      },
+      "back": {
+        "ar": "سَبْعَة آلَاف وَثَلاثُمِئَة وَأَرْبَعِين",
+        "en": "7340 -- seven thousand and three hundred and forty"
+      },
+      "translit": "sab ʿah ʔaa laaf wa tha laa thu mi ʔah wa ʔar ba ʿiin",
+      "tags": [
+        "combined"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c045",
+      "front": {
+        "ar": "وَ",
+        "en": "What does وَ do in a number?"
+      },
+      "back": {
+        "ar": "",
+        "en": "It means 'and'. Use it between the unit and the ten in numbers such as 26 and 53, and between the larger parts of a combined number."
+      },
+      "translit": "wa",
+      "tags": [
+        "combined"
+      ],
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-c046",
+      "front": {
+        "ar": "آلَاف",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "thousands -- used when a number has several thousands (٧٣٤٠ = سَبْعَة آلَاف ...)"
+      },
+      "translit": "ʔaa laaf",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c047",
+      "front": {
+        "ar": "مِائَة",
+        "en": ""
+      },
+      "back": {
+        "ar": "مِئَة",
+        "en": "another spelling of مِئَة (100) -- same pronunciation, the alif is not pronounced"
+      },
+      "translit": "mi ʔah",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-c048",
+      "front": {
+        "ar": "",
+        "en": "٠ zero vs the dot '.'"
+      },
+      "back": {
+        "ar": "",
+        "en": "Arabic zero ٠ is a small dot. Do not confuse it with the dot '.' used in numbers and mathematics."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c049",
+      "front": {
+        "ar": "",
+        "en": "٥ vs English 0"
+      },
+      "back": {
+        "ar": "",
+        "en": "٥ is FIVE. Write it rounded so it is not mistaken for zero; Arabic zero is the dot ٠."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "pp. 128-132"
+    },
+    {
+      "id": "ch07-c050",
+      "front": {
+        "ar": "ثَلاث",
+        "en": ""
+      },
+      "back": {
+        "ar": "ثَلاثَة",
+        "en": "3 -- numbers ending in taaʔ marbuuṭah can (in certain grammatical cases) be written without it: ثَلاث, سَبْع, أَرْبَع, ثَمَانِي"
+      },
+      "translit": "tha laath",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c051",
+      "front": {
+        "ar": "خَمْسَةُ كُتُب",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "five books -- in Arabic text single-digit numbers are usually written as words, not digits"
+      },
+      "translit": "kham sa tu ku tub",
+      "tags": [
+        "digit"
+      ],
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-c052",
+      "front": {
+        "ar": "",
+        "en": "Biggest number mentioned in the Quran?"
+      },
+      "back": {
+        "ar": "مِئَةُ أَلْف",
+        "en": "100 000 (١٠٠٠٠٠) -- one hundred thousand"
+      },
+      "translit": "mi ʔa tu ʔalf",
+      "tags": [
+        "hundreds"
+      ],
+      "source": "p. 131"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch07-q001",
+      "prompt": {
+        "en": "Which value is this digit?",
+        "ar": "٧"
+      },
+      "options": [
+        {
+          "en": "8"
+        },
+        {
+          "en": "7"
+        },
+        {
+          "en": "6"
+        },
+        {
+          "en": "2"
+        }
+      ],
+      "correct": 1,
+      "explanation": "٧ opens upward like a V = 7. ٨ (opens downward) is 8.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q002",
+      "prompt": {
+        "en": "Which value is this digit?",
+        "ar": "٨"
+      },
+      "options": [
+        {
+          "en": "7"
+        },
+        {
+          "en": "8"
+        },
+        {
+          "en": "6"
+        },
+        {
+          "en": "4"
+        }
+      ],
+      "correct": 1,
+      "explanation": "٨ opens downward like Λ = 8. Its upside-down twin ٧ is 7.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q003",
+      "prompt": {
+        "en": "Which value is this digit?",
+        "ar": "٦"
+      },
+      "options": [
+        {
+          "en": "7"
+        },
+        {
+          "en": "2"
+        },
+        {
+          "en": "6"
+        },
+        {
+          "en": "4"
+        }
+      ],
+      "correct": 2,
+      "explanation": "٦ is 6, even though it looks a little like an English 7.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q004",
+      "prompt": {
+        "en": "Which value is this digit?",
+        "ar": "٤"
+      },
+      "options": [
+        {
+          "en": "3"
+        },
+        {
+          "en": "6"
+        },
+        {
+          "en": "4"
+        },
+        {
+          "en": "5"
+        }
+      ],
+      "correct": 2,
+      "explanation": "٤ = 4 (أَرْبَعَة). Do not mix it up with ٦ = 6.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q005",
+      "prompt": {
+        "en": "Which value is this digit?",
+        "ar": "٥"
+      },
+      "options": [
+        {
+          "en": "0"
+        },
+        {
+          "en": "5"
+        },
+        {
+          "en": "2"
+        },
+        {
+          "en": "8"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The round ring ٥ is FIVE. Arabic zero is the dot ٠.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q006",
+      "prompt": {
+        "en": "Which value is this digit?",
+        "ar": "٣"
+      },
+      "options": [
+        {
+          "en": "2"
+        },
+        {
+          "en": "3"
+        },
+        {
+          "en": "4"
+        },
+        {
+          "en": "8"
+        }
+      ],
+      "correct": 1,
+      "explanation": "٣ has two bumps on top = 3. ٢ (one bump) is 2.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q007",
+      "prompt": {
+        "en": "Which value is this digit?",
+        "ar": "٢"
+      },
+      "options": [
+        {
+          "en": "3"
+        },
+        {
+          "en": "6"
+        },
+        {
+          "en": "2"
+        },
+        {
+          "en": "7"
+        }
+      ],
+      "correct": 2,
+      "explanation": "٢ has one bump on top = 2. ٣ has two.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q008",
+      "prompt": {
+        "en": "Which is the Arabic digit for 0?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "٥"
+        },
+        {
+          "ar": "٠"
+        },
+        {
+          "ar": "١"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Zero is the small dot ٠. ٥ looks like English 0 but is 5.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q009",
+      "prompt": {
+        "en": "Which is the Arabic digit for 6?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "٢"
+        },
+        {
+          "ar": "٤"
+        },
+        {
+          "ar": "٦"
+        },
+        {
+          "ar": "٧"
+        }
+      ],
+      "correct": 2,
+      "explanation": "٦ = 6. ٤ = 4, ٢ = 2, ٧ = 7.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q010",
+      "prompt": {
+        "en": "Which is the Arabic digit for 3?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "٣"
+        },
+        {
+          "ar": "٢"
+        },
+        {
+          "ar": "٤"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Three has two bumps on top: ٣. ٢ is 2.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q011",
+      "prompt": {
+        "en": "Which is the Arabic digit for 8?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "٧"
+        },
+        {
+          "ar": "٨"
+        },
+        {
+          "ar": "٦"
+        },
+        {
+          "ar": "٩"
+        }
+      ],
+      "correct": 1,
+      "explanation": "٨ opens downward = 8; ٧ opens upward = 7.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q012",
+      "prompt": {
+        "en": "The book shows two shapes for the digit 2 (٢). What is the difference?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "None -- both mean 2"
+        },
+        {
+          "en": "One of them means 20"
+        },
+        {
+          "en": "One is only used in the Quran"
+        },
+        {
+          "en": "One of them is 3"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The book: the number two can be written in two ways, no difference whatsoever.",
+      "source": "p. 128"
+    },
+    {
+      "id": "ch07-q013",
+      "prompt": {
+        "en": "What number is this?",
+        "ar": "٣٥"
+      },
+      "options": [
+        {
+          "en": "53"
+        },
+        {
+          "en": "35"
+        },
+        {
+          "en": "305"
+        },
+        {
+          "en": "350"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Read the digits left to right as in English: ٣ then ٥ = 35.",
+      "source": "p. 127"
+    },
+    {
+      "id": "ch07-q014",
+      "prompt": {
+        "en": "What number is this?",
+        "ar": "١٢٠"
+      },
+      "options": [
+        {
+          "en": "21"
+        },
+        {
+          "en": "120"
+        },
+        {
+          "en": "102"
+        },
+        {
+          "en": "12"
+        }
+      ],
+      "correct": 1,
+      "explanation": "١ ٢ ٠ left to right = 120. The final dot is a zero.",
+      "source": "p. 127"
+    },
+    {
+      "id": "ch07-q015",
+      "prompt": {
+        "en": "What number is this?",
+        "ar": "٢٠٢٥"
+      },
+      "options": [
+        {
+          "en": "5202"
+        },
+        {
+          "en": "2025"
+        },
+        {
+          "en": "225"
+        },
+        {
+          "en": "2205"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Left to right: ٢ ٠ ٢ ٥ = 2025. Keep the zero dot.",
+      "source": "p. 127"
+    },
+    {
+      "id": "ch07-q016",
+      "prompt": {
+        "en": "What number is this?",
+        "ar": "٥٠٥٠٠"
+      },
+      "options": [
+        {
+          "en": "50500"
+        },
+        {
+          "en": "5050"
+        },
+        {
+          "en": "05050"
+        },
+        {
+          "en": "50005"
+        }
+      ],
+      "correct": 0,
+      "explanation": "٥ ٠ ٥ ٠ ٠ = 50500 (Exercise 4 answer). Every dot is a zero.",
+      "source": "p. 136"
+    },
+    {
+      "id": "ch07-q017",
+      "prompt": {
+        "en": "What number is this?",
+        "ar": "٦٢٠"
+      },
+      "options": [
+        {
+          "en": "26"
+        },
+        {
+          "en": "602"
+        },
+        {
+          "en": "620"
+        },
+        {
+          "en": "260"
+        }
+      ],
+      "correct": 2,
+      "explanation": "٦ ٢ ٠ = 620 (Exercise 4 answer).",
+      "source": "p. 136"
+    },
+    {
+      "id": "ch07-q018",
+      "prompt": {
+        "en": "What number is this?",
+        "ar": "٧٢١"
+      },
+      "options": [
+        {
+          "en": "127"
+        },
+        {
+          "en": "721"
+        },
+        {
+          "en": "712"
+        },
+        {
+          "en": "821"
+        }
+      ],
+      "correct": 1,
+      "explanation": "٧ ٢ ١ = 721 (Exercise 4 answer). ٧ opens upward = 7.",
+      "source": "p. 136"
+    },
+    {
+      "id": "ch07-q019",
+      "prompt": {
+        "en": "Which aayah number is the biggest?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "٨٩"
+        },
+        {
+          "ar": "١٥٧"
+        },
+        {
+          "ar": "٩٨"
+        },
+        {
+          "ar": "٧٤"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Three digits beat two: ١٥٧ = 157 is the largest.",
+      "source": "p. 135"
+    },
+    {
+      "id": "ch07-q020",
+      "prompt": {
+        "en": "Which number is this?",
+        "ar": "سِتَّةَ عَشَر"
+      },
+      "options": [
+        {
+          "en": "6"
+        },
+        {
+          "en": "60"
+        },
+        {
+          "en": "16"
+        },
+        {
+          "en": "26"
+        }
+      ],
+      "correct": 2,
+      "explanation": "سِتَّةَ عَشَر = six + teen = 16. Sixty is سِتِّين.",
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-q021",
+      "prompt": {
+        "en": "Which number is this?",
+        "ar": "سِتِّين"
+      },
+      "options": [
+        {
+          "en": "16"
+        },
+        {
+          "en": "60"
+        },
+        {
+          "en": "6"
+        },
+        {
+          "en": "600"
+        }
+      ],
+      "correct": 1,
+      "explanation": "سِتِّين ends in ـِين, the tens ending = 60.",
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-q022",
+      "prompt": {
+        "en": "Which number is this?",
+        "ar": "أَحَدَ عَشَر"
+      },
+      "options": [
+        {
+          "en": "10"
+        },
+        {
+          "en": "11"
+        },
+        {
+          "en": "12"
+        },
+        {
+          "en": "100"
+        }
+      ],
+      "correct": 1,
+      "explanation": "أَحَدَ عَشَر = 11, the one exception to the digit + teen pattern.",
+      "source": "p. 129"
+    },
+    {
+      "id": "ch07-q023",
+      "prompt": {
+        "en": "Which number is this?",
+        "ar": "ثَلاثُمِئَة"
+      },
+      "options": [
+        {
+          "en": "3"
+        },
+        {
+          "en": "13"
+        },
+        {
+          "en": "30"
+        },
+        {
+          "en": "300"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ثَلاثُمِئَة = three + hundred joined as one word = 300.",
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-q024",
+      "prompt": {
+        "en": "Which number is this?",
+        "ar": "ثَلاثَةَ وَخَمْسِين"
+      },
+      "options": [
+        {
+          "en": "35"
+        },
+        {
+          "en": "53"
+        },
+        {
+          "en": "503"
+        },
+        {
+          "en": "13"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Units come first: three and fifty = 53.",
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-q025",
+      "prompt": {
+        "en": "Which number is this?",
+        "ar": "ثَمَانِين"
+      },
+      "options": [
+        {
+          "en": "8"
+        },
+        {
+          "en": "18"
+        },
+        {
+          "en": "80"
+        },
+        {
+          "en": "800"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ثَمَانِين = 80. Eight is ثَمَانِيَة, eight hundred ثَمَانِمِئَة.",
+      "source": "pp. 128-131"
+    },
+    {
+      "id": "ch07-q026",
+      "prompt": {
+        "en": "Which number is this?",
+        "ar": "وَاحِدٌ وَأَرْبَعُونَ"
+      },
+      "options": [
+        {
+          "en": "14"
+        },
+        {
+          "en": "41"
+        },
+        {
+          "en": "401"
+        },
+        {
+          "en": "40"
+        }
+      ],
+      "correct": 1,
+      "explanation": "One and forty = 41 (Exercise 5: 1 -> d).",
+      "source": "p. 136"
+    },
+    {
+      "id": "ch07-q027",
+      "prompt": {
+        "en": "Which word is 14?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "أَرْبَعَةَ عَشَر"
+        },
+        {
+          "ar": "أَرْبَعِين"
+        },
+        {
+          "ar": "أَرْبَعُمِئَة"
+        },
+        {
+          "ar": "وَاحِدٌ وَأَرْبَعُونَ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Fourteen = four + teen: أَرْبَعَةَ عَشَر.",
+      "source": "pp. 129-136"
+    },
+    {
+      "id": "ch07-q028",
+      "prompt": {
+        "en": "Which word is 2?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "اِثْنَيْن"
+        },
+        {
+          "ar": "عِشْرِين"
+        },
+        {
+          "ar": "مِئَتَيْن"
+        },
+        {
+          "ar": "إِثْنَا عَشَر"
+        }
+      ],
+      "correct": 0,
+      "explanation": "اِثْنَيْن = 2. عِشْرِين = 20, مِئَتَيْن = 200, إِثْنَا عَشَر = 12.",
+      "source": "pp. 128-131"
+    },
+    {
+      "id": "ch07-q029",
+      "prompt": {
+        "en": "Which word is 8?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "ثَمَانِيَة"
+        },
+        {
+          "ar": "ثَمَانِين"
+        },
+        {
+          "ar": "ثَمَانِمِئَة"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ثَمَانِيَة = 8; ثَمَانِين = 80; ثَمَانِمِئَة = 800.",
+      "source": "pp. 128-131"
+    },
+    {
+      "id": "ch07-q030",
+      "prompt": {
+        "en": "Which word is 450?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "أَرْبَعُمِئَة وَخَمْسِين"
+        },
+        {
+          "ar": "خَمْسَة وَأَرْبَعِين"
+        },
+        {
+          "ar": "أَرْبَعَة وَخَمْسِين"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Biggest part first: four hundred (أَرْبَعُمِئَة) and fifty (خَمْسِين).",
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-q031",
+      "prompt": {
+        "en": "In ٢٦ read aloud (سِتَّةَ وَعِشْرِين), which part is said first?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "The unit (six)"
+        },
+        {
+          "en": "The ten (twenty)"
+        },
+        {
+          "en": "Either, freely"
+        }
+      ],
+      "correct": 0,
+      "explanation": "From 21 to 99 Arabic says the unit first: six and twenty.",
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-q032",
+      "prompt": {
+        "en": "What does وَ mean inside a number like ثَلاثَةَ وَخَمْسِين?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "and"
+        },
+        {
+          "en": "hundred"
+        },
+        {
+          "en": "teen"
+        },
+        {
+          "en": "thousand"
+        }
+      ],
+      "correct": 0,
+      "explanation": "وَ = 'and'. In numbers such as 26 and 53, it joins the unit to the ten, where English uses a hyphen.",
+      "source": "p. 130"
+    },
+    {
+      "id": "ch07-q033",
+      "prompt": {
+        "en": "How is the alif in مِائَة (another spelling of 100) pronounced?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "It is not pronounced"
+        },
+        {
+          "en": "As a long aa"
+        },
+        {
+          "en": "As a hamzah"
+        }
+      ],
+      "correct": 0,
+      "explanation": "مِائَة = مِئَة, exact same pronunciation: the alif is silent.",
+      "source": "p. 131"
+    },
+    {
+      "id": "ch07-q034",
+      "prompt": {
+        "en": "Which word means 'thousands'?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "آلَاف"
+        },
+        {
+          "ar": "أَلْف"
+        },
+        {
+          "ar": "مِئَة"
+        }
+      ],
+      "correct": 0,
+      "explanation": "أَلْف is one thousand; آلَاف is used for several thousands (سَبْعَة آلَاف = 7000).",
+      "source": "p. 131"
+    }
+  ]
+}

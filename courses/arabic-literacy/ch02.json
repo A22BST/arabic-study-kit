@@ -1,0 +1,2089 @@
+{
+  "chapter": 2,
+  "title": "Diacritics",
+  "bookPages": "73-86",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 02",
+    "title": "Arabic Diacritics",
+    "subtitle": "Tashkiil · The marks that tell you how to read each consonant",
+    "coreIdeaLabel": "THE CORE IDEA",
+    "coreIdea": "A diacritic tells you what sound comes **AFTER** the consonant. Learn the 4 harakaat, 3 tanween endings, and shaddah.",
+    "coreIdeaNote": "Read Arabic right -> left. The letter and its mark work as one sound unit.",
+    "sections": [
+      {
+        "heading": "1. Harakaat · three short vowels + sukuun",
+        "bookPages": "73-75",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 4,
+            "items": [
+              {
+                "title": "FATḤAH",
+                "ar": "بَ",
+                "translit": "ba",
+                "caption": "One stroke **above**. Say a short /a/ after /b/."
+              },
+              {
+                "title": "ḌAMMAH",
+                "ar": "بُ",
+                "translit": "bu",
+                "caption": "Small curl **above**. Say a short /u/ after /b/."
+              },
+              {
+                "title": "KASRAH",
+                "ar": "بِ",
+                "translit": "bi",
+                "caption": "One stroke **below**. Say a short /i/ after /b/."
+              },
+              {
+                "title": "SUKUUN",
+                "ar": "بْ",
+                "translit": "b",
+                "caption": "Small circle **above**. No vowel: a pure consonant."
+              }
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "tip",
+            "title": "Put the sound after its letter.",
+            "text": "كَتَبَ is **ka ta ba** (كَ ka · تَ ta · بَ ba) -- not ak at ab. A sukuun makes a consonant close its syllable: يَفْتَحُ = **yaf ta ḥu**."
+          }
+        ]
+      },
+      {
+        "heading": "2. Tanween · a final \"n\" sound",
+        "bookPages": "76",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 3,
+            "items": [
+              {
+                "title": "TANWEEN ḌAMMAH",
+                "ar": "بَيْتٌ",
+                "translit": "bay tun",
+                "caption": "Final sound = **-un**"
+              },
+              {
+                "title": "TANWEEN KASRAH",
+                "ar": "بَيْتٍ",
+                "translit": "bay tin",
+                "caption": "Final sound = **-in**"
+              },
+              {
+                "title": "TANWEEN FATḤAH",
+                "ar": "بَيْتًا",
+                "translit": "bay tan",
+                "caption": "Final sound = **-an**"
+              }
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "tip",
+            "title": "Spot the ending:",
+            "text": "tanween is used only at the **end of a noun**, never at its beginning or middle. Tanween fatḥah adds a written ا after the final letter (alif tanween); **Chapter 4** covers spelling exceptions. These are full readings (waṣl); Chapter 5 explains stopping."
+          }
+        ]
+      },
+      {
+        "heading": "3. Shaddah · double the consonant, not the vowel",
+        "bookPages": "77-78",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "What shaddah means",
+                "ar": "بَّ",
+                "caption": "= بْ b (no vowel) + بَ ba -> **bba**",
+                "note": "The first copy of the letter has **no vowel**; the second copy takes the vowel mark. Pronounce them as one held consonant."
+              },
+              {
+                "title": "Worked reading",
+                "ar": "كَسَّرَ",
+                "translit": "kas sa ra",
+                "caption": "كَسْـ kas + سَرَ sa ra",
+                "note": "A doubled **s**, not a long /a/."
+              }
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Do not miss:",
+            "text": "shaddah always comes with **fatḥah, ḍammah, kasrah or tanween** -- never sukuun. Kasrah may appear below the letter or directly below the shaddah (يُسَبِّحُ yu sab bi ḥu); the pronunciation is identical. No word may begin with a sukuun."
+          }
+        ]
+      }
+    ],
+    "exercisePages": "79-86",
+    "exerciseTitle": "Use it on the exercises.",
+    "exerciseIntro": "The answer comes from the **given sounds or visible marks**. You are learning to read and write tashkiil -- not yet deciding grammatical cases.",
+    "exerciseTips": [
+      {
+        "title": "Read the task",
+        "text": "Add marks? Match sounds? Transcribe?"
+      },
+      {
+        "title": "Break into sounds",
+        "text": "Vowel = **a / u / i**; no vowel = sukuun."
+      },
+      {
+        "title": "Catch extras",
+        "text": "Tanween = **-an / -un / -in**; double sound = shaddah."
+      }
+    ],
+    "exerciseGuide": [
+      {
+        "exercise": 1,
+        "pages": "79",
+        "task": "Add fatḥah, kasrah, ḍammah",
+        "method": "Keep the given letters in order. Read each Latin syllable: **ka** -> كَ, **tu** -> تُ, **bi** -> بِ. Put each short vowel over/under its own consonant. A consonant with no vowel after it gets sukuun.",
+        "example": {
+          "ar": "كَتَبَ",
+          "translit": "ka ta ba",
+          "note": "ka = كَ · ta = تَ · ba = بَ"
+        },
+        "contrast": {
+          "ar": "دَرْسَ",
+          "translit": "dar sa",
+          "note": "Printed (da r sa): r has no vowel -> رْ"
+        }
+      },
+      {
+        "exercise": 2,
+        "pages": "80",
+        "task": "Match Arabic words with Latin readings",
+        "method": "Read each letter **right to left**, checking the difference between بَ, بُ, بِ and بْ. The options look similar: one changed mark changes the answer.",
+        "example": {
+          "ar": "كَتَبْتِ",
+          "translit": "ka tab ti",
+          "note": "MATCH d · بْ has no vowel; تِ adds -ti"
+        },
+        "contrast": {
+          "ar": "كَتَبْتَ",
+          "translit": "ka tab ta",
+          "note": "MATCH a · final fatḥah, not kasrah"
+        }
+      },
+      {
+        "exercise": 3,
+        "pages": "81",
+        "task": "Add ALL needed diacritics",
+        "method": "Do not stop after adding short vowels. Check the transcription for **sukuun**, a repeated consonant (**shaddah**) and final **-n** (tanween). Final -an also needs a written ا.",
+        "example": {
+          "ar": "مُحَمَّدًا",
+          "translit": "mu ḥam ma dan",
+          "note": "مَّ = doubled m; final ـًا = -an"
+        },
+        "contrast": {
+          "ar": "قِطٌّ",
+          "translit": "qiṭ ṭun",
+          "note": "Shaddah + tanween ḍammah on the last letter"
+        }
+      },
+      {
+        "exercise": 4,
+        "pages": "82",
+        "task": "Match the Arabic word to its transcription",
+        "method": "Work from the **written marks to sounds**. Check every vowel and the final ending before picking the lettered match, not just the consonants.",
+        "example": {
+          "ar": "دَرَسَ",
+          "translit": "da ra sa",
+          "note": "MATCH f (group B) · three fatḥahs = three short a sounds"
+        },
+        "contrast": {
+          "ar": "دَرْسٌ",
+          "translit": "dar sun",
+          "note": "MATCH h · sukuun + tanween ḍammah"
+        }
+      },
+      {
+        "exercise": "Drills",
+        "pages": "83-86",
+        "task": "Write the letters first",
+        "method": "The book recommends completing each word's letter shapes first, **then** placing the diacritics. Re-copy each drill carefully; do not interrupt the letter strokes to add marks.",
+        "example": {
+          "ar": "مُحَمَّدٌ",
+          "translit": "mu ḥam ma dun",
+          "note": "Step 1 · letters محمد  ->  Step 2 · add marks"
+        },
+        "contrast": {
+          "ar": "ثَبَّتَ",
+          "translit": "thab ba ta",
+          "note": "Read it back: shaddah + fatḥah on ب"
+        }
+      }
+    ],
+    "exerciseFooter": "**Important for this workbook:** a letter with no mark may also indicate sukuun in the author's examples (p. 75: يَنسَخُ = يَنْسَخُ). But in ordinary unvowelled Arabic, missing marks do **not** automatically mean sukuun; the marks may simply be omitted."
+  },
+  "cards": [
+    {
+      "id": "ch02-c001",
+      "front": {
+        "ar": "تَشْكِيل",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tashkiil -- diacritics: marks put above or below a letter to show how it is pronounced"
+      },
+      "translit": "tash kiil",
+      "tags": [
+        "concept"
+      ],
+      "source": "p. 73"
+    },
+    {
+      "id": "ch02-c002",
+      "front": {
+        "ar": "",
+        "en": "Name the three types of tashkiil (diacritics)."
+      },
+      "back": {
+        "ar": "",
+        "en": "1 Harakaat (short vowels) · 2 Tanween (nunation) · 3 Shaddah (gemination)"
+      },
+      "translit": "",
+      "tags": [
+        "concept"
+      ],
+      "source": "p. 73"
+    },
+    {
+      "id": "ch02-c003",
+      "front": {
+        "ar": "حَرَكَات",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "harakaat -- the short vowels: fatḥah, ḍammah, kasrah, plus sukuun"
+      },
+      "translit": "ḥa ra kaat",
+      "tags": [
+        "concept",
+        "harakaat"
+      ],
+      "source": "p. 73"
+    },
+    {
+      "id": "ch02-c004",
+      "front": {
+        "ar": "",
+        "en": "Why do newspapers usually print no diacritics?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Native speakers read without them through constant exposure. Beginners need them to read and write properly."
+      },
+      "translit": "",
+      "tags": [
+        "concept"
+      ],
+      "source": "p. 73"
+    },
+    {
+      "id": "ch02-c005",
+      "front": {
+        "ar": "بَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fatḥah -- one stroke above the letter; adds a short /a/ after it (as in apple or art)"
+      },
+      "translit": "ba",
+      "tags": [
+        "harakaat",
+        "fathah"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c006",
+      "front": {
+        "ar": "بُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ḍammah -- small curl above the letter; adds /u/ (as in put)"
+      },
+      "translit": "bu",
+      "tags": [
+        "harakaat",
+        "dammah"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c007",
+      "front": {
+        "ar": "بِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "kasrah -- stroke below the letter; adds /i/ (as in in)"
+      },
+      "translit": "bi",
+      "tags": [
+        "harakaat",
+        "kasrah"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c008",
+      "front": {
+        "ar": "بْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun -- small circle above the letter; no vowel, a pure consonant"
+      },
+      "translit": "b",
+      "tags": [
+        "harakaat",
+        "sukuun"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c009",
+      "front": {
+        "ar": "فَتْحَة",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fatḥah -- the name of the short /a/ mark (stroke above)"
+      },
+      "translit": "fat ḥah",
+      "tags": [
+        "harakaat",
+        "fathah"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c010",
+      "front": {
+        "ar": "ضَمَّة",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ḍammah -- the name of the short /u/ mark (curl above)"
+      },
+      "translit": "ḍam mah",
+      "tags": [
+        "harakaat",
+        "dammah"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c011",
+      "front": {
+        "ar": "كَسْرَة",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "kasrah -- the name of the short /i/ mark (stroke below)"
+      },
+      "translit": "kas rah",
+      "tags": [
+        "harakaat",
+        "kasrah"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c012",
+      "front": {
+        "ar": "سُكُون",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun -- literally 'stillness': the letter carries no vowel"
+      },
+      "translit": "su kuun",
+      "tags": [
+        "harakaat",
+        "sukuun"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c013",
+      "front": {
+        "ar": "",
+        "en": "Is a short vowel pronounced before or after its consonant?"
+      },
+      "back": {
+        "ar": "بَ",
+        "en": "After. بَ is /ba/, never /ab/."
+      },
+      "translit": "ba",
+      "tags": [
+        "harakaat",
+        "rule"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c014",
+      "front": {
+        "ar": "",
+        "en": "Can sukuun be written on the first letter of a word?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. No Arabic word may start with a letter that has sukuun -- a word cannot start with a pure consonant."
+      },
+      "translit": "",
+      "tags": [
+        "sukuun",
+        "rule"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c015",
+      "front": {
+        "ar": "يَفْتَحُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ya + f + ta + ḥu: the sukuun on ف closes the first syllable"
+      },
+      "translit": "yaf ta ḥu",
+      "tags": [
+        "sukuun",
+        "reading"
+      ],
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-c016",
+      "front": {
+        "ar": "يَنسَخُ",
+        "en": "The ن has no mark. How is it read?"
+      },
+      "back": {
+        "ar": "يَنْسَخُ",
+        "en": "With sukuun: a letter free of any mark can also indicate sukuun. Both spellings read the same."
+      },
+      "translit": "yan sa khu",
+      "tags": [
+        "sukuun",
+        "reading"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c017",
+      "front": {
+        "ar": "سَرَقَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "three fatḥahs = three short a sounds"
+      },
+      "translit": "sa ra qa",
+      "tags": [
+        "reading"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c018",
+      "front": {
+        "ar": "مَشهَد",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ش and د carry no mark here, so they are read with sukuun"
+      },
+      "translit": "mash had",
+      "tags": [
+        "reading",
+        "sukuun"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c019",
+      "front": {
+        "ar": "يَسْتَمِعُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on س closes the first syllable; ends in ḍammah"
+      },
+      "translit": "yas ta mi ʿu",
+      "tags": [
+        "reading"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c020",
+      "front": {
+        "ar": "يَفعَلُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "unmarked ف = sukuun; then ʿa (fatḥah) and lu (ḍammah)"
+      },
+      "translit": "yaf ʿa lu",
+      "tags": [
+        "reading",
+        "sukuun"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c021",
+      "front": {
+        "ar": "تَكْتُبُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ta + k (sukuun) + tu + bu"
+      },
+      "translit": "tak tu bu",
+      "tags": [
+        "reading"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c022",
+      "front": {
+        "ar": "تَمْتَحِنُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ta + m (sukuun) + ta + ḥi + nu"
+      },
+      "translit": "tam ta ḥi nu",
+      "tags": [
+        "reading"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c023",
+      "front": {
+        "ar": "قَلَمْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "the final sukuun makes the last syllable closed: lam"
+      },
+      "translit": "qa lam",
+      "tags": [
+        "reading",
+        "sukuun"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c024",
+      "front": {
+        "ar": "أَخرَجَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "hamzah with fatḥah, unmarked خ = sukuun, then ra ja"
+      },
+      "translit": "ʔakh ra ja",
+      "tags": [
+        "reading",
+        "sukuun"
+      ],
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-c025",
+      "front": {
+        "ar": "",
+        "en": "What is tanween, and where can it appear?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Nunation ('adding nuun'): a final /n/ sound added only at the end of nouns -- never at the beginning or in the middle."
+      },
+      "translit": "",
+      "tags": [
+        "tanween",
+        "rule"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c026",
+      "front": {
+        "ar": "بَيْتٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tanween ḍammah = /un/"
+      },
+      "translit": "bay tun",
+      "tags": [
+        "tanween"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c027",
+      "front": {
+        "ar": "بَيْتٍ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tanween kasrah = /in/"
+      },
+      "translit": "bay tin",
+      "tags": [
+        "tanween"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c028",
+      "front": {
+        "ar": "بَيْتًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tanween fatḥah = /an/, plus a written alif at the end"
+      },
+      "translit": "bay tan",
+      "tags": [
+        "tanween"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c029",
+      "front": {
+        "ar": "وَلَدٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tanween ḍammah = /un/"
+      },
+      "translit": "wa la dun",
+      "tags": [
+        "tanween"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c030",
+      "front": {
+        "ar": "وَلَدٍ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tanween kasrah = /in/"
+      },
+      "translit": "wa la din",
+      "tags": [
+        "tanween"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c031",
+      "front": {
+        "ar": "وَلَدًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tanween fatḥah = /an/ + alif tanween"
+      },
+      "translit": "wa la dan",
+      "tags": [
+        "tanween"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c032",
+      "front": {
+        "ar": "قَلَمًا",
+        "en": "Why is there an alif at the end?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Alif tanween: when tanween fatḥah is added to a noun, an extra alif is written at the end."
+      },
+      "translit": "qa la man",
+      "tags": [
+        "tanween",
+        "rule"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c033",
+      "front": {
+        "ar": "كِتَابٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tanween ḍammah on the last letter = -bun"
+      },
+      "translit": "ki taa bun",
+      "tags": [
+        "tanween"
+      ],
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-c034",
+      "front": {
+        "ar": "",
+        "en": "What does shaddah do?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Gemination: it doubles (holds) the consonant, like the kk in bookkeeper. Ignoring it can change the meaning of a word."
+      },
+      "translit": "",
+      "tags": [
+        "shaddah",
+        "rule"
+      ],
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-c035",
+      "front": {
+        "ar": "بَّ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "Two steps: 1 بْ a pure b, as if stopping on it; 2 بَ ba right after -> one held b"
+      },
+      "translit": "bba",
+      "tags": [
+        "shaddah"
+      ],
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-c036",
+      "front": {
+        "ar": "كَسَّرَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "كَسْـ kas + سَرَ sa ra: the shaddah ends one syllable and begins the next"
+      },
+      "translit": "kas sa ra",
+      "tags": [
+        "shaddah",
+        "reading"
+      ],
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-c037",
+      "front": {
+        "ar": "سَلِّمْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "سَلْـ sal + لِم lim: shaddah with kasrah on ل"
+      },
+      "translit": "sal lim",
+      "tags": [
+        "shaddah",
+        "reading"
+      ],
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-c038",
+      "front": {
+        "ar": "",
+        "en": "Which marks can shaddah combine with?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Fatḥah, ḍammah, kasrah or tanween -- never sukuun (a doubled letter with sukuun is not possible). Shaddah never stands alone."
+      },
+      "translit": "",
+      "tags": [
+        "shaddah",
+        "rule"
+      ],
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-c039",
+      "front": {
+        "ar": "يُسَبِّحُ",
+        "en": "Kasrah under the shaddah or under the letter: any difference?"
+      },
+      "back": {
+        "ar": "",
+        "en": "None. Both are pronounced the same; the position is only a calligraphy style."
+      },
+      "translit": "yu sab bi ḥu",
+      "tags": [
+        "shaddah",
+        "rule"
+      ],
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-c040",
+      "front": {
+        "ar": "حَدٌّ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + tanween ḍammah (only at the end of a word)"
+      },
+      "translit": "ḥad dun",
+      "tags": [
+        "shaddah",
+        "tanween"
+      ],
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-c041",
+      "front": {
+        "ar": "حَدٍّ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + tanween kasrah"
+      },
+      "translit": "ḥad din",
+      "tags": [
+        "shaddah",
+        "tanween"
+      ],
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-c042",
+      "front": {
+        "ar": "حَدًّا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + tanween fatḥah, with alif tanween"
+      },
+      "translit": "ḥad dan",
+      "tags": [
+        "shaddah",
+        "tanween"
+      ],
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-c043",
+      "front": {
+        "ar": "",
+        "en": "Why is the word 'shaddah' itself an example of shaddah?"
+      },
+      "back": {
+        "ar": "",
+        "en": "It is said shad dah: the d is doubled."
+      },
+      "translit": "shad dah",
+      "tags": [
+        "shaddah"
+      ],
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-c044",
+      "front": {
+        "ar": "دَرْسَ",
+        "en": "Exercise 1: (da r sa)"
+      },
+      "back": {
+        "ar": "",
+        "en": "r has no vowel -> sukuun on ر"
+      },
+      "translit": "dar sa",
+      "tags": [
+        "exercise",
+        "sukuun"
+      ],
+      "source": "p. 79"
+    },
+    {
+      "id": "ch02-c045",
+      "front": {
+        "ar": "كَتَبْتِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on ب, kasrah on ت (Exercise 2, match d: katabti)"
+      },
+      "translit": "ka tab ti",
+      "tags": [
+        "exercise",
+        "reading"
+      ],
+      "source": "p. 80"
+    },
+    {
+      "id": "ch02-c046",
+      "front": {
+        "ar": "مَطْبَخْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on ط and on the final خ"
+      },
+      "translit": "maṭ bakh",
+      "tags": [
+        "exercise",
+        "sukuun"
+      ],
+      "source": "p. 81"
+    },
+    {
+      "id": "ch02-c047",
+      "front": {
+        "ar": "مُحَمَّدًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah on م + tanween fatḥah with an added alif"
+      },
+      "translit": "mu ḥam ma dan",
+      "tags": [
+        "exercise",
+        "shaddah",
+        "tanween"
+      ],
+      "source": "p. 81"
+    },
+    {
+      "id": "ch02-c048",
+      "front": {
+        "ar": "قِطٌّ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + tanween ḍammah on ط"
+      },
+      "translit": "qiṭ ṭun",
+      "tags": [
+        "exercise",
+        "shaddah",
+        "tanween"
+      ],
+      "source": "p. 81"
+    },
+    {
+      "id": "ch02-c049",
+      "front": {
+        "ar": "مُدَرِّسْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + kasrah on ر, final sukuun"
+      },
+      "translit": "mu dar ris",
+      "tags": [
+        "exercise",
+        "shaddah"
+      ],
+      "source": "p. 81"
+    },
+    {
+      "id": "ch02-c050",
+      "front": {
+        "ar": "أَحْمَدُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on ح closes the first syllable"
+      },
+      "translit": "ʔaḥ ma du",
+      "tags": [
+        "drill",
+        "sukuun"
+      ],
+      "source": "p. 83"
+    },
+    {
+      "id": "ch02-c051",
+      "front": {
+        "ar": "شَيْخًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on ي, tanween fatḥah + alif at the end"
+      },
+      "translit": "shay khan",
+      "tags": [
+        "drill",
+        "tanween"
+      ],
+      "source": "p. 83"
+    },
+    {
+      "id": "ch02-c052",
+      "front": {
+        "ar": "فَأْسٍ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on the hamzah, tanween kasrah at the end"
+      },
+      "translit": "faʔ sin",
+      "tags": [
+        "drill",
+        "tanween"
+      ],
+      "source": "p. 84"
+    },
+    {
+      "id": "ch02-c053",
+      "front": {
+        "ar": "ثَبَّتَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + fatḥah on ب"
+      },
+      "translit": "thab ba ta",
+      "tags": [
+        "drill",
+        "shaddah"
+      ],
+      "source": "p. 84"
+    },
+    {
+      "id": "ch02-c054",
+      "front": {
+        "ar": "مُبَشِّر",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + kasrah on ش; the unmarked final ر is read with sukuun"
+      },
+      "translit": "mu bash shir",
+      "tags": [
+        "drill",
+        "shaddah"
+      ],
+      "source": "p. 84"
+    },
+    {
+      "id": "ch02-c055",
+      "front": {
+        "ar": "يَرْزُقُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on ر, then zu qu"
+      },
+      "translit": "yar zu qu",
+      "tags": [
+        "drill",
+        "sukuun"
+      ],
+      "source": "p. 85"
+    },
+    {
+      "id": "ch02-c056",
+      "front": {
+        "ar": "مُسْلِمٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on س, tanween ḍammah at the end"
+      },
+      "translit": "mus li mun",
+      "tags": [
+        "drill",
+        "tanween"
+      ],
+      "source": "p. 85"
+    },
+    {
+      "id": "ch02-c057",
+      "front": {
+        "ar": "ظَرْفٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "sukuun on ر, tanween ḍammah at the end"
+      },
+      "translit": "ẓar fun",
+      "tags": [
+        "drill",
+        "tanween"
+      ],
+      "source": "p. 85"
+    },
+    {
+      "id": "ch02-c058",
+      "front": {
+        "ar": "بَدَّلَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + fatḥah on د"
+      },
+      "translit": "bad da la",
+      "tags": [
+        "drill",
+        "shaddah"
+      ],
+      "source": "p. 86"
+    },
+    {
+      "id": "ch02-c059",
+      "front": {
+        "ar": "سُجِّرَتْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shaddah + kasrah on ج, final sukuun on ت"
+      },
+      "translit": "suj ji rat",
+      "tags": [
+        "drill",
+        "shaddah"
+      ],
+      "source": "p. 86"
+    },
+    {
+      "id": "ch02-c060",
+      "front": {
+        "ar": "",
+        "en": "Handwriting: letters first or marks first?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Write all the letters of the word first, then add the diacritics. Your writing stays smooth and looks better."
+      },
+      "translit": "",
+      "tags": [
+        "drill",
+        "writing"
+      ],
+      "source": "p. 83"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch02-q001",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "بُ"
+      },
+      "options": [
+        {
+          "en": "ba"
+        },
+        {
+          "en": "bi"
+        },
+        {
+          "en": "bu"
+        },
+        {
+          "en": "b"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The small curl above is ḍammah: a short /u/ after the letter.",
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-q002",
+      "prompt": {
+        "en": "Which mark is written below the letter?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "kasrah"
+        },
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "ḍammah"
+        },
+        {
+          "en": "sukuun"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Kasrah (/i/) is the only short vowel written below; fatḥah, ḍammah and sukuun go above.",
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-q003",
+      "prompt": {
+        "en": "What does sukuun indicate?",
+        "ar": "بْ"
+      },
+      "options": [
+        {
+          "en": "a doubled consonant"
+        },
+        {
+          "en": "a final -n sound"
+        },
+        {
+          "en": "a short /u/"
+        },
+        {
+          "en": "no vowel: a pure consonant"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Sukuun means 'stillness': the letter has no vowel. Doubling is shaddah, a final -n is tanween.",
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-q004",
+      "prompt": {
+        "en": "Which mark can never be on the first letter of a word?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "sukuun"
+        },
+        {
+          "en": "ḍammah"
+        },
+        {
+          "en": "kasrah"
+        }
+      ],
+      "correct": 1,
+      "explanation": "No Arabic word may start with a pure consonant, so sukuun never sits on the first letter.",
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-q005",
+      "prompt": {
+        "en": "Which spelling reads yaf ta ḥu?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "يَفَتَحُ"
+        },
+        {
+          "ar": "يَفْتَحُ"
+        },
+        {
+          "ar": "يُفْتَحُ"
+        },
+        {
+          "ar": "يَفْتِحُ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ya (fatḥah) + f (sukuun) + ta (fatḥah) + ḥu (ḍammah). The others put fatḥah on ف, ḍammah on ي, or kasrah on ت.",
+      "source": "p. 74"
+    },
+    {
+      "id": "ch02-q006",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "يَسْتَمِعُ"
+      },
+      "options": [
+        {
+          "en": "ya sa ta mi ʿu"
+        },
+        {
+          "en": "yas ti mi ʿu"
+        },
+        {
+          "en": "yus ta mi ʿu"
+        },
+        {
+          "en": "yas ta mi ʿu"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Sukuun on س closes the first syllable (yas); then ta, mi, ʿu.",
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-q007",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "تَكْتُبُ"
+      },
+      "options": [
+        {
+          "en": "tak tu bu"
+        },
+        {
+          "en": "ta ka tu bu"
+        },
+        {
+          "en": "tak ta bu"
+        },
+        {
+          "en": "tuk tu bu"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ت has fatḥah, ك has sukuun, ت and ب have ḍammah: tak tu bu.",
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-q008",
+      "prompt": {
+        "en": "The ش has no mark. How is this word read?",
+        "ar": "مَشهَد"
+      },
+      "options": [
+        {
+          "en": "ma sha had"
+        },
+        {
+          "en": "ma shi had"
+        },
+        {
+          "en": "mash had"
+        },
+        {
+          "en": "ma had"
+        }
+      ],
+      "correct": 2,
+      "explanation": "A letter free of any mark can indicate sukuun, so ش closes the syllable: mash had.",
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-q009",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "قَلَمْ"
+      },
+      "options": [
+        {
+          "en": "qa la ma"
+        },
+        {
+          "en": "qa lim"
+        },
+        {
+          "en": "qa lam"
+        },
+        {
+          "en": "qu lam"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Fatḥah on ق and ل, sukuun on the final م: qa lam.",
+      "source": "p. 75"
+    },
+    {
+      "id": "ch02-q010",
+      "prompt": {
+        "en": "Where can tanween appear?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "only at the end of a noun"
+        },
+        {
+          "en": "at the beginning of a word"
+        },
+        {
+          "en": "in the middle of a noun"
+        },
+        {
+          "en": "on any letter that has a vowel"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Tanween ('adding nuun') is only added to the end of nouns, never the beginning or middle.",
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-q011",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "بَيْتٌ"
+      },
+      "options": [
+        {
+          "en": "bay tin"
+        },
+        {
+          "en": "bay tan"
+        },
+        {
+          "en": "bay tu"
+        },
+        {
+          "en": "bay tun"
+        }
+      ],
+      "correct": 3,
+      "explanation": "The doubled ḍammah is tanween ḍammah = /un/. Plain ḍammah would give bay tu.",
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-q012",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "وَلَدٍ"
+      },
+      "options": [
+        {
+          "en": "wa la dun"
+        },
+        {
+          "en": "wa la din"
+        },
+        {
+          "en": "wa la dan"
+        },
+        {
+          "en": "wa la di"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Two kasrahs below = tanween kasrah = /in/.",
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-q013",
+      "prompt": {
+        "en": "Which spelling reads wa la dan?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "وَلَدٌ"
+        },
+        {
+          "ar": "وَلَدًا"
+        },
+        {
+          "ar": "وَلَدٍ"
+        },
+        {
+          "ar": "وَلَدَ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Tanween fatḥah (/an/) plus the written alif tanween. وَلَدَ with a single fatḥah reads wa la da.",
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-q014",
+      "prompt": {
+        "en": "Which tanween adds an extra alif at the end of the word?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "tanween fatḥah"
+        },
+        {
+          "en": "tanween ḍammah"
+        },
+        {
+          "en": "tanween kasrah"
+        }
+      ],
+      "correct": 0,
+      "explanation": "When tanween fatḥah is added, an alif (alif tanween) is written at the end: قَلَمًا.",
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-q015",
+      "prompt": {
+        "en": "What sound does tanween kasrah add?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "/in/"
+        },
+        {
+          "en": "/un/"
+        },
+        {
+          "en": "/an/"
+        },
+        {
+          "en": "/i/"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Each tanween takes its vowel from its haraka plus n: kasrah -> /in/.",
+      "source": "p. 76"
+    },
+    {
+      "id": "ch02-q016",
+      "prompt": {
+        "en": "What does shaddah do to a consonant?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "lengthens the vowel after it"
+        },
+        {
+          "en": "removes its vowel"
+        },
+        {
+          "en": "doubles (holds) it"
+        },
+        {
+          "en": "adds a final n"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Shaddah = gemination: one held, doubled consonant, like the kk in bookkeeper.",
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-q017",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "كَسَّرَ"
+      },
+      "options": [
+        {
+          "en": "ka sa ra"
+        },
+        {
+          "en": "kaa sa ra"
+        },
+        {
+          "en": "kas sa ra"
+        },
+        {
+          "en": "kas ra"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Shaddah on س doubles the s: kas + sa ra. It does not lengthen the vowel.",
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-q018",
+      "prompt": {
+        "en": "Shaddah is said in two steps. What is step 1 for this letter?",
+        "ar": "بَّ"
+      },
+      "options": [
+        {
+          "ar": "بْ",
+          "en": "a pure b, as if stopping"
+        },
+        {
+          "ar": "بَ",
+          "en": "ba"
+        },
+        {
+          "ar": "بُ",
+          "en": "bu"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Step 1 is the letter with sukuun (/b/), step 2 the same letter with the haraka (/ba/).",
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-q019",
+      "prompt": {
+        "en": "Which spelling reads sal lim?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "سَلِمْ"
+        },
+        {
+          "ar": "سَلَّمْ"
+        },
+        {
+          "ar": "سِلِّمْ"
+        },
+        {
+          "ar": "سَلِّمْ"
+        }
+      ],
+      "correct": 3,
+      "explanation": "sal + lim: shaddah with kasrah on ل. Without shaddah it reads sa lim; with fatḥah it reads sal lam.",
+      "source": "p. 77"
+    },
+    {
+      "id": "ch02-q020",
+      "prompt": {
+        "en": "Shaddah can NOT be combined with...",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "sukuun"
+        },
+        {
+          "en": "kasrah"
+        },
+        {
+          "en": "tanween"
+        }
+      ],
+      "correct": 1,
+      "explanation": "A doubled letter with sukuun is not possible; shaddah always comes with a short vowel or tanween.",
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-q021",
+      "prompt": {
+        "en": "Kasrah under the shaddah vs. under the letter: what changes?",
+        "ar": "يُسَبِّحُ"
+      },
+      "options": [
+        {
+          "en": "under the shaddah it becomes a long ii"
+        },
+        {
+          "en": "nothing -- both read yu sab bi ḥu"
+        },
+        {
+          "en": "under the letter it cancels the shaddah"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The two positions are a calligraphy style only; the pronunciation is identical.",
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-q022",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "حَدًّا"
+      },
+      "options": [
+        {
+          "en": "ḥa dan"
+        },
+        {
+          "en": "ḥad dun"
+        },
+        {
+          "en": "ḥad din"
+        },
+        {
+          "en": "ḥad dan"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Shaddah doubles the d; tanween fatḥah (with alif) gives /an/.",
+      "source": "p. 78"
+    },
+    {
+      "id": "ch02-q023",
+      "prompt": {
+        "en": "Exercise 1: add the vowels for (da r sa).",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "دَرْسَ"
+        },
+        {
+          "ar": "دَرَسَ"
+        },
+        {
+          "ar": "دَرِسَ"
+        },
+        {
+          "ar": "دُرْسَ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "No vowel is heard after r, so ر takes sukuun: دَرْسَ (answer key).",
+      "source": "p. 79"
+    },
+    {
+      "id": "ch02-q024",
+      "prompt": {
+        "en": "Exercise 1: add the vowels for (fu ti ḥa).",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "فَتَحَ"
+        },
+        {
+          "ar": "فُتَحَ"
+        },
+        {
+          "ar": "فُتِحَ"
+        },
+        {
+          "ar": "فِتِحَ"
+        }
+      ],
+      "correct": 2,
+      "explanation": "fu = ḍammah on ف, ti = kasrah on ت, ḥa = fatḥah on ح.",
+      "source": "p. 79"
+    },
+    {
+      "id": "ch02-q025",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "كُتِبَتْ"
+      },
+      "options": [
+        {
+          "en": "ka ta bat"
+        },
+        {
+          "en": "ku ta bat"
+        },
+        {
+          "en": "ku ti bat"
+        },
+        {
+          "en": "ka ti bat"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ḍammah on ك, kasrah on ت, fatḥah on ب, sukuun on the final ت (Exercise 2A: 2 -> h, kutibat).",
+      "source": "p. 80"
+    },
+    {
+      "id": "ch02-q026",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "دَرَسْنَ"
+      },
+      "options": [
+        {
+          "en": "da ras na"
+        },
+        {
+          "en": "dar sa na"
+        },
+        {
+          "en": "da ris na"
+        },
+        {
+          "en": "da ras ta"
+        }
+      ],
+      "correct": 0,
+      "explanation": "da + ras (sukuun on س) + na (Exercise 2B: 5 -> e, darasna).",
+      "source": "p. 80"
+    },
+    {
+      "id": "ch02-q027",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "دَرْسُهُ"
+      },
+      "options": [
+        {
+          "en": "da ra su hu"
+        },
+        {
+          "en": "dur su hu"
+        },
+        {
+          "en": "dar sa hu"
+        },
+        {
+          "en": "dar su hu"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Sukuun on ر: dar, then su hu (Exercise 2B: 6 -> b, darsuhu).",
+      "source": "p. 80"
+    },
+    {
+      "id": "ch02-q028",
+      "prompt": {
+        "en": "Exercise 3: which is fully marked for mu ḥam ma dan?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مُحَمَدًا"
+        },
+        {
+          "ar": "مُحَمَّدًا"
+        },
+        {
+          "ar": "مُحَمَّدٌ"
+        },
+        {
+          "ar": "مُحْمَدًا"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The doubled m needs shaddah, and final -an needs tanween fatḥah plus a written alif.",
+      "source": "p. 81"
+    },
+    {
+      "id": "ch02-q029",
+      "prompt": {
+        "en": "Exercise 3: which is fully marked for qiṭ ṭun?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "قِطٌ"
+        },
+        {
+          "ar": "قِطٌّ"
+        },
+        {
+          "ar": "قَطٌّ"
+        },
+        {
+          "ar": "قِطًّا"
+        }
+      ],
+      "correct": 1,
+      "explanation": "qi = kasrah, the doubled ṭ = shaddah, final -un = tanween ḍammah.",
+      "source": "p. 81"
+    },
+    {
+      "id": "ch02-q030",
+      "prompt": {
+        "en": "Exercise 3: which is fully marked for maṭ bakh?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مَطَبَخْ"
+        },
+        {
+          "ar": "مُطْبَخْ"
+        },
+        {
+          "ar": "مَطْبَخٌ"
+        },
+        {
+          "ar": "مَطْبَخْ"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ma + ṭ (sukuun) + ba + kh (sukuun). No -un is heard, so no tanween.",
+      "source": "p. 81"
+    },
+    {
+      "id": "ch02-q031",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "يَكْتُبُ"
+      },
+      "options": [
+        {
+          "en": "yak tu bu"
+        },
+        {
+          "en": "yak tu ba"
+        },
+        {
+          "en": "ya ka tu bu"
+        },
+        {
+          "en": "yuk tu bu"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The final ب has ḍammah, so it ends in bu (Exercise 4A: 6 -> h). يَكْتُبَ with fatḥah is yak tu ba.",
+      "source": "p. 82"
+    },
+    {
+      "id": "ch02-q032",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "يُدْرَسُ"
+      },
+      "options": [
+        {
+          "en": "yad ru su"
+        },
+        {
+          "en": "yu da ra su"
+        },
+        {
+          "en": "yud ra su"
+        },
+        {
+          "en": "yud ri su"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ḍammah on ي, sukuun on د, fatḥah on ر, ḍammah on س (Exercise 4B: 3 -> e).",
+      "source": "p. 82"
+    },
+    {
+      "id": "ch02-q033",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "ثَبَّتَ"
+      },
+      "options": [
+        {
+          "en": "tha ba ta"
+        },
+        {
+          "en": "thab bi ta"
+        },
+        {
+          "en": "thab ba ta"
+        },
+        {
+          "en": "tab ba ta"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ث (th, three dots) + shaddah with fatḥah on ب: thab ba ta.",
+      "source": "p. 84"
+    },
+    {
+      "id": "ch02-q034",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "مُسْلِمٌ"
+      },
+      "options": [
+        {
+          "en": "mus li mun"
+        },
+        {
+          "en": "mu sa li mun"
+        },
+        {
+          "en": "mus la mun"
+        },
+        {
+          "en": "mus li min"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Sukuun on س, kasrah on ل, tanween ḍammah on the final م.",
+      "source": "p. 85"
+    },
+    {
+      "id": "ch02-q035",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "ظَرْفٌ"
+      },
+      "options": [
+        {
+          "en": "ẓa ra fun"
+        },
+        {
+          "en": "ṭar fun"
+        },
+        {
+          "en": "ẓar fan"
+        },
+        {
+          "en": "ẓar fun"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ظ (ẓ, with a dot; ط has none), sukuun on ر, tanween ḍammah on ف.",
+      "source": "p. 85"
+    },
+    {
+      "id": "ch02-q036",
+      "prompt": {
+        "en": "Writing a word by hand: what does the book recommend?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "each letter's mark right after writing that letter"
+        },
+        {
+          "en": "all the letters first, then the diacritics"
+        },
+        {
+          "en": "the diacritics first, then the letters"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Completing the letters first keeps the writing smooth and uninterrupted.",
+      "source": "p. 83"
+    }
+  ]
+}

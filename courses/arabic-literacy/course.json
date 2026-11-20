@@ -1,0 +1,15 @@
+{
+  "id": "arabic-literacy",
+  "title": "Beginner's Guide to Arabic Literacy",
+  "author": "Dr. Islam Fekry",
+  "chapters": [
+    { "n": 1, "title": "Arabic Alphabet", "bookPages": "1-72" },
+    { "n": 2, "title": "Diacritics", "bookPages": "73-86" },
+    { "n": 3, "title": "Long Vowels", "bookPages": "87-98" },
+    { "n": 4, "title": "Special Characters", "bookPages": "99-108" },
+    { "n": 5, "title": "Case Endings", "bookPages": "109-116" },
+    { "n": 6, "title": "Letter Combinations", "bookPages": "117-126" },
+    { "n": 7, "title": "Arabic Numbers", "bookPages": "127-136" },
+    { "n": 8, "title": "Quranic Codex", "bookPages": "137-142" }
+  ]
+}

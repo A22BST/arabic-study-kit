@@ -1,0 +1,2132 @@
+{
+  "chapter": 4,
+  "title": "Special Characters",
+  "bookPages": "99-108",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 04",
+    "title": "Five special characters.",
+    "subtitle": "A visual guide to recognizing and writing modified Arabic letters · Book pp. 99-104",
+    "coreIdeaLabel": "THE ESSENTIAL IDEA",
+    "coreIdea": "Learn the **shape + sound** first. Then use the **spelling clues** to choose a form when writing.",
+    "coreIdeaNote": "These five characters are variations of familiar letters, not five additional alphabet letters.",
+    "sections": [
+      {
+        "heading": "Recognize the five shapes",
+        "bookPages": "99-104",
+        "note": "Look closely at the dots and the hamzah sign",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 3,
+            "items": [
+              {
+                "title": "Free hamzah ء",
+                "kicker": "/ʔ/ · glottal stop",
+                "caption": "At a word's **end**, after a letter with **sukuun** (book's basic rule).",
+                "ar": "شَيْء",
+                "translit": "shayʔ"
+              },
+              {
+                "title": "Hamzah on waaw ؤ",
+                "kicker": "/ʔ/ · NOT /w/",
+                "caption": "**Middle or end**; used when the letter before it has **ḍammah**.",
+                "ar": "سُؤَالٌ",
+                "translit": "su ʔaa lun"
+              },
+              {
+                "title": "Hamzah on yaaʔ ئ",
+                "kicker": "/ʔ/ · NOT /y/ · nabrah",
+                "caption": "**Middle or end**; used after **kasrah**. The seat has **no dots**.",
+                "ar": "قَارِئٌ",
+                "translit": "qaa ri ʔun"
+              }
+            ]
+          },
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "Alif maqṣuurah ى",
+                "kicker": "/aa/ · long aa",
+                "caption": "**End only**; looks like yaaʔ but has **no dots**. Always preceded by **fatḥah**.",
+                "ar": "جَرَى",
+                "translit": "ja raa"
+              },
+              {
+                "title": "Taaʔ marbuuṭah ة",
+                "kicker": "/t/",
+                "caption": "**End only**; two dots. Shapes: ة / ـة. Turns masculine nouns feminine.",
+                "ar": "مَدْرَسَةٌ",
+                "translit": "mad ra sa tun"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Hamzah spelling: the book's basic shortcut",
+        "bookPages": "100-101",
+        "note": "For writing practice; not universal",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 3,
+            "items": [
+              {
+                "title": "Before it: sukuun",
+                "ar": "ء",
+                "caption": "Free hamzah · end only"
+              },
+              {
+                "title": "Before it: ḍammah",
+                "ar": "ؤ",
+                "caption": "On waaw · middle/end"
+              },
+              {
+                "title": "Before it: kasrah",
+                "ar": "ئ",
+                "caption": "On yaaʔ · middle/end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Look-alikes: count the dots",
+        "bookPages": "103-104",
+        "note": "Mixing them changes the meaning",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "Dots test · ى versus ي",
+                "caption": "ى = **long aa** at the end; ي = yaaʔ (two dots beneath).",
+                "rows": [
+                  {
+                    "label": "ى · (he) chose",
+                    "ar": "اِصْطَفَى",
+                    "translit": "ʔiṣ ṭa faa"
+                  },
+                  {
+                    "label": "ي · choose!",
+                    "ar": "اِصْطَفِي",
+                    "translit": "ʔiṣ ṭa fii"
+                  }
+                ]
+              },
+              {
+                "title": "Two dots · ة versus ه",
+                "caption": "ة = taaʔ marbuuṭah, /t/. ه = haaʔ, /h/. Pausal reading: Chapter 5.",
+                "rows": [
+                  {
+                    "label": "ة after a non-linking letter",
+                    "ar": "مِشْكَاةٌ",
+                    "translit": "mish kaa tun"
+                  },
+                  {
+                    "label": "ـة linked · (female) teacher",
+                    "ar": "مُعَلِّمَةٌ",
+                    "translit": "mu ʿal li ma tun"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tanween fatḥah (ـً) -- will you add an alif?",
+        "bookPages": "102-104",
+        "note": "Book pp. 102 & 104",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 4,
+            "items": [
+              {
+                "title": "Regular -> add ا",
+                "ar": "قَلَمًا",
+                "translit": "qa la man"
+              },
+              {
+                "title": "Ends in ء / أ -> no ا",
+                "ar": "مَاءً",
+                "translit": "maa ʔan"
+              },
+              {
+                "title": "Ends in ة -> no ا",
+                "ar": "مَدْرَسَةً",
+                "translit": "mad ra sa tan"
+              },
+              {
+                "title": "Ends in ئ / ؤ -> often ا",
+                "ar": "قَارِئًا",
+                "translit": "qaa ri ʔan"
+              }
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "tip",
+            "title": "Important:",
+            "text": "These are the book's **majority patterns**, not complete Arabic spelling laws. Page 102 flags exceptions such as رَؤُوفٌ and شَيْئًا (shay ʔan). The taaʔ marbuuṭah rule has no exceptions (p. 104)."
+          }
+        ]
+      }
+    ],
+    "exercisePages": "105-108",
+    "exerciseTitle": "Use it on the exercises.",
+    "exerciseIntro": "There are five exercise types. Each asks for a **different skill**: recognition, spelling, tanween, reading or writing.",
+    "exerciseTips": [
+      {
+        "title": "Recognize",
+        "text": "Identify the character's shape and dots."
+      },
+      {
+        "title": "Check its role",
+        "text": "/ʔ/, long aa, or taaʔ marbuuṭah?"
+      },
+      {
+        "title": "Apply the task",
+        "text": "Circle, choose, add, read or spell."
+      }
+    ],
+    "exerciseGuide": [
+      {
+        "exercise": 1,
+        "pages": "105",
+        "task": "Spot the special characters (circle the ones not part of the alphabet)",
+        "method": "Circle the special forms, **not every regular Arabic letter**. Look for ء ؤ ئ ة ى and their connected shapes. The answer key circles six forms in the grid.",
+        "example": {
+          "ar": "ـئـ",
+          "translit": "",
+          "note": "CIRCLE · also ء ؤ ئ ة ـؤ (six in all)"
+        },
+        "contrast": {
+          "ar": "أ",
+          "translit": "",
+          "note": "DO NOT CIRCLE · أ ـأ و ي ه are regular alphabet forms"
+        }
+      },
+      {
+        "exercise": 2,
+        "pages": "105",
+        "task": "Pick the correctly spelled word, then transcribe it",
+        "method": "Check the mark on the letter **before the hamzah**: sukuun at the end -> ء, ḍammah -> ؤ, kasrah -> ئ. Then transcribe the correct option; the seat is read /ʔ/.",
+        "example": {
+          "ar": "فُؤَادْ",
+          "translit": "fu ʔaad",
+          "note": "#8 · فُ has ḍammah, so hamzah on waaw. The waaw seat gives **no** /w/ sound."
+        },
+        "contrast": {
+          "ar": "مِلْء",
+          "translit": "milʔ",
+          "note": "#2 · ل has sukuun and hamzah is last -> free hamzah ء"
+        }
+      },
+      {
+        "exercise": 3,
+        "pages": "106",
+        "task": "Add tanween fatḥah, then transcribe",
+        "method": "Add ـً, then decide on an extra ا. Regular ending -> add ا (#8 وَجْهًا, waj han). Ending in ة, ء or أ -> no ا by the basic rule. ئ / ؤ usually take ا. Key exceptions: شَيْئًا (#2), فَيْئًا (#3), وُضُوءًا (#4).",
+        "example": {
+          "ar": "مُعَلِّمَةً",
+          "translit": "mu ʿal li ma tan",
+          "note": "#1 · ends in ة -> no extra alif"
+        },
+        "contrast": {
+          "ar": "شَيْئًا",
+          "translit": "shay ʔan",
+          "note": "#2 · EXCEPTION (p. 102): ء becomes ئ and takes alif"
+        }
+      },
+      {
+        "exercise": 4,
+        "pages": "106-107",
+        "task": "Transcribe what you see",
+        "method": "Read every letter and vowel mark. The hamzah seat is /ʔ/, not an extra w or y. An undotted final ى sounds **aa**; a dotted ي after kasrah is **ii** (#6 أَمَامِي, ʔa maa mii).",
+        "example": {
+          "ar": "جَرَى",
+          "translit": "ja raa",
+          "note": "#4 · alif maqṣuurah = long aa"
+        },
+        "contrast": {
+          "ar": "بُؤْسٌ",
+          "translit": "buʔ sun",
+          "note": "#3 · hamzah on waaw = /ʔ/, no w sound"
+        }
+      },
+      {
+        "exercise": 5,
+        "pages": "107-108",
+        "task": "Write the Arabic word from the transcription",
+        "method": "Build the word syllable by syllable, then choose the **hamzah seat** from the vowel before it (ḍammah -> ؤ, kasrah -> ئ) and the final form. The transcription gives the sound; spelling also needs learned patterns.",
+        "example": {
+          "ar": "رُؤُوسٌ",
+          "translit": "ru ʔuu sun",
+          "note": "#2 · ḍammah before hamzah -> ؤ"
+        },
+        "contrast": {
+          "ar": "مَدْرَسَةٌ",
+          "translit": "mad ra sa tun",
+          "note": "#14 · final taaʔ marbuuṭah"
+        }
+      }
+    ],
+    "exerciseFooter": "**What you can and cannot know:** You can **read** a printed special character by recognizing its shape. But you **cannot always derive its exact spelling from sound alone**. Chapter 4 gives useful beginner cues; it says there are exceptions and does not teach a complete hamzah-spelling system."
+  },
+  "cards": [
+    {
+      "id": "ch04-c001",
+      "front": {
+        "ar": "ء",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "Free hamzah · sound /ʔ/ · only at the end of a word, after a letter with sukuun"
+      },
+      "translit": "",
+      "tags": [
+        "hamzah",
+        "recognize"
+      ],
+      "source": "p. 100"
+    },
+    {
+      "id": "ch04-c002",
+      "front": {
+        "ar": "ؤ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "Hamzah on waaw · sound /ʔ/ · middle or end, after a letter with ḍammah"
+      },
+      "translit": "",
+      "tags": [
+        "hamzah-waaw",
+        "recognize"
+      ],
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-c003",
+      "front": {
+        "ar": "ئ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "Hamzah on yaaʔ (nabrah) · sound /ʔ/ · middle or end, after kasrah · no dots under the seat"
+      },
+      "translit": "",
+      "tags": [
+        "hamzah-yaa",
+        "recognize"
+      ],
+      "source": "pp. 99-101"
+    },
+    {
+      "id": "ch04-c004",
+      "front": {
+        "ar": "ى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "Alif maqṣuurah · long aa · end of word only, always preceded by fatḥah · no dots"
+      },
+      "translit": "",
+      "tags": [
+        "alif-maqsuurah",
+        "recognize"
+      ],
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-c005",
+      "front": {
+        "ar": "ة",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "Taaʔ marbuuṭah · sound /t/ · end of word only · two dots"
+      },
+      "translit": "",
+      "tags": [
+        "taa-marbuutah",
+        "recognize"
+      ],
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-c006",
+      "front": {
+        "ar": "",
+        "en": "How many special characters does the book list, and why are they not separate letters?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Five: ء ؤ ئ ى ة. They are modified versions of existing letters, used only in certain words or conditions."
+      },
+      "translit": "",
+      "tags": [
+        "overview"
+      ],
+      "source": "p. 99"
+    },
+    {
+      "id": "ch04-c007",
+      "front": {
+        "ar": "",
+        "en": "Which alphabet letter is hamzah connected to?"
+      },
+      "back": {
+        "ar": "أ",
+        "en": "Alif: hamzah is the sign on top of alif, and ء ؤ ئ are all derived from it."
+      },
+      "translit": "",
+      "tags": [
+        "hamzah",
+        "overview"
+      ],
+      "source": "p. 100"
+    },
+    {
+      "id": "ch04-c008",
+      "front": {
+        "ar": "",
+        "en": "What sound do ء ؤ ئ all make?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The same /ʔ/ (glottal stop). The waaw or yaaʔ seat is not pronounced."
+      },
+      "translit": "",
+      "tags": [
+        "hamzah",
+        "rule"
+      ],
+      "source": "pp. 100-101"
+    },
+    {
+      "id": "ch04-c009",
+      "front": {
+        "ar": "شَيْء",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shayʔ · free hamzah at the end, ي before it has sukuun"
+      },
+      "translit": "shayʔ",
+      "tags": [
+        "hamzah",
+        "read"
+      ],
+      "source": "p. 100"
+    },
+    {
+      "id": "ch04-c010",
+      "front": {
+        "ar": "بُطْءَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "buṭ ʔa · free hamzah after ط with sukuun"
+      },
+      "translit": "buṭ ʔa",
+      "tags": [
+        "hamzah",
+        "read"
+      ],
+      "source": "p. 100"
+    },
+    {
+      "id": "ch04-c011",
+      "front": {
+        "ar": "عِبْءِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʿib ʔi · free hamzah after ب with sukuun"
+      },
+      "translit": "ʿib ʔi",
+      "tags": [
+        "hamzah",
+        "read"
+      ],
+      "source": "p. 100"
+    },
+    {
+      "id": "ch04-c012",
+      "front": {
+        "ar": "لُؤْلُؤْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "luʔ luʔ · hamzah on waaw twice, each after ḍammah"
+      },
+      "translit": "luʔ luʔ",
+      "tags": [
+        "hamzah-waaw",
+        "read"
+      ],
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-c013",
+      "front": {
+        "ar": "سُؤَالٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "su ʔaa lun · ؤ after ḍammah, read /ʔ/ not /w/"
+      },
+      "translit": "su ʔaa lun",
+      "tags": [
+        "hamzah-waaw",
+        "read"
+      ],
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-c014",
+      "front": {
+        "ar": "يَجْرُؤُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yaj ru ʔu · ؤ at the end, after ḍammah"
+      },
+      "translit": "yaj ru ʔu",
+      "tags": [
+        "hamzah-waaw",
+        "read"
+      ],
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-c015",
+      "front": {
+        "ar": "قَارِئٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "qaa ri ʔun · ئ after kasrah"
+      },
+      "translit": "qaa ri ʔun",
+      "tags": [
+        "hamzah-yaa",
+        "read"
+      ],
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-c016",
+      "front": {
+        "ar": "مُفَاجِئٍ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mu faa ji ʔin · ئ at the end, after kasrah"
+      },
+      "translit": "mu faa ji ʔin",
+      "tags": [
+        "hamzah-yaa",
+        "read"
+      ],
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-c017",
+      "front": {
+        "ar": "فِئْرَانَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fiʔ raa na · ئ in the middle, after kasrah"
+      },
+      "translit": "fiʔ raa na",
+      "tags": [
+        "hamzah-yaa",
+        "read"
+      ],
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-c018",
+      "front": {
+        "ar": "هُدَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "hu daa · guidance · alif maqṣuurah = long aa"
+      },
+      "translit": "hu daa",
+      "tags": [
+        "alif-maqsuurah",
+        "read"
+      ],
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-c019",
+      "front": {
+        "ar": "هَدِي",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ha dii · sacrifice · dotted yaaʔ after kasrah = long ii"
+      },
+      "translit": "ha dii",
+      "tags": [
+        "alif-maqsuurah",
+        "contrast"
+      ],
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-c020",
+      "front": {
+        "ar": "فَتَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fa taa · boy · alif maqṣuurah"
+      },
+      "translit": "fa taa",
+      "tags": [
+        "alif-maqsuurah",
+        "read"
+      ],
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-c021",
+      "front": {
+        "ar": "فَتِيّ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fa tiyy · strong · yaaʔ with shaddah, not alif maqṣuurah"
+      },
+      "translit": "fa tiyy",
+      "tags": [
+        "alif-maqsuurah",
+        "contrast"
+      ],
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-c022",
+      "front": {
+        "ar": "اِصْطَفَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔiṣ ṭa faa · (he) chose · ends in ى"
+      },
+      "translit": "ʔiṣ ṭa faa",
+      "tags": [
+        "alif-maqsuurah",
+        "read"
+      ],
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-c023",
+      "front": {
+        "ar": "اِصْطَفِي",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔiṣ ṭa fii · choose! · ends in ي"
+      },
+      "translit": "ʔiṣ ṭa fii",
+      "tags": [
+        "alif-maqsuurah",
+        "contrast"
+      ],
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-c024",
+      "front": {
+        "ar": "مِشْكَاةٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mish kaa tun · separate ة because alif does not link to the left"
+      },
+      "translit": "mish kaa tun",
+      "tags": [
+        "taa-marbuutah",
+        "read"
+      ],
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-c025",
+      "front": {
+        "ar": "مَدْرَسَةٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mad ra sa tun · linked ـة after س"
+      },
+      "translit": "mad ra sa tun",
+      "tags": [
+        "taa-marbuutah",
+        "read"
+      ],
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-c026",
+      "front": {
+        "ar": "مُعَلِّمَةٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mu ʿal li ma tun · (female) teacher · ة turns مُعَلِّمٌ (male teacher) feminine"
+      },
+      "translit": "mu ʿal li ma tun",
+      "tags": [
+        "taa-marbuutah",
+        "read"
+      ],
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-c027",
+      "front": {
+        "ar": "",
+        "en": "Tanween fatḥah on a regular word: what is added at the end?"
+      },
+      "back": {
+        "ar": "قَلَمًا",
+        "en": "An alif: qa la man"
+      },
+      "translit": "qa la man",
+      "tags": [
+        "tanween",
+        "rule"
+      ],
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-c028",
+      "front": {
+        "ar": "مَاءً",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "maa ʔan · ends in hamzah, so no extra alif"
+      },
+      "translit": "maa ʔan",
+      "tags": [
+        "tanween",
+        "hamzah"
+      ],
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-c029",
+      "front": {
+        "ar": "خَطَأً",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "kha ṭa ʔan · ends in hamzah, so no extra alif"
+      },
+      "translit": "kha ṭa ʔan",
+      "tags": [
+        "tanween",
+        "hamzah"
+      ],
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-c030",
+      "front": {
+        "ar": "مَدْرَسَةً",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mad ra sa tan · ends in ة, so no extra alif"
+      },
+      "translit": "mad ra sa tan",
+      "tags": [
+        "tanween",
+        "taa-marbuutah"
+      ],
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-c031",
+      "front": {
+        "ar": "مِشْكَاةً",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mish kaa tan · ends in ة, so no extra alif"
+      },
+      "translit": "mish kaa tan",
+      "tags": [
+        "tanween",
+        "taa-marbuutah"
+      ],
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-c032",
+      "front": {
+        "ar": "قَارِئًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "qaa ri ʔan · hamzah on yaaʔ may take the alif"
+      },
+      "translit": "qaa ri ʔan",
+      "tags": [
+        "tanween",
+        "hamzah-yaa"
+      ],
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-c033",
+      "front": {
+        "ar": "لُؤْلُؤًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "luʔ lu ʔan · hamzah on waaw may take the alif"
+      },
+      "translit": "luʔ lu ʔan",
+      "tags": [
+        "tanween",
+        "hamzah-waaw"
+      ],
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-c034",
+      "front": {
+        "ar": "",
+        "en": "Which endings do NOT get an extra alif with tanween fatḥah?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Under the book's basic rule: hamzah ء / أ (مَاءً / خَطَأً) and taaʔ marbuuṭah ة (مَدْرَسَةً). Some hamzah words are exceptions; ة never takes the extra alif."
+      },
+      "translit": "",
+      "tags": [
+        "tanween",
+        "rule"
+      ],
+      "source": "pp. 102-104"
+    },
+    {
+      "id": "ch04-c035",
+      "front": {
+        "ar": "رَؤُوفٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ʔuu fun · exception (p. 102): ؤ after fatḥah, not ḍammah"
+      },
+      "translit": "ra ʔuu fun",
+      "tags": [
+        "exception",
+        "hamzah-waaw"
+      ],
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-c036",
+      "front": {
+        "ar": "شَيْئًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "shay ʔan · exception (p. 102): ئ after sukuun, and it takes the alif"
+      },
+      "translit": "shay ʔan",
+      "tags": [
+        "exception",
+        "tanween"
+      ],
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-c037",
+      "front": {
+        "ar": "وُضُوءًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "wu ḍuu ʔan · Exercise 3 key: free hamzah, yet the alif is added"
+      },
+      "translit": "wu ḍuu ʔan",
+      "tags": [
+        "exception",
+        "tanween",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c038",
+      "front": {
+        "ar": "مَلْجَأً",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mal ja ʔan · ends in hamzah -> no extra alif"
+      },
+      "translit": "mal ja ʔan",
+      "tags": [
+        "tanween",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c039",
+      "front": {
+        "ar": "مُؤَسَّسَةً",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mu ʔas sa sa tan · ends in ة -> no extra alif"
+      },
+      "translit": "mu ʔas sa sa tan",
+      "tags": [
+        "tanween",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c040",
+      "front": {
+        "ar": "بَادِئًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "baa di ʔan · ئ takes the alif"
+      },
+      "translit": "baa di ʔan",
+      "tags": [
+        "tanween",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c041",
+      "front": {
+        "ar": "مُؤَثِّرَةً",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "mu ʔath thi ra tan · ends in ة -> no extra alif"
+      },
+      "translit": "mu ʔath thi ra tan",
+      "tags": [
+        "tanween",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c042",
+      "front": {
+        "ar": "غَوَاشًا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "gha waa shan · regular ending -> add alif"
+      },
+      "translit": "gha waa shan",
+      "tags": [
+        "tanween",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c043",
+      "front": {
+        "ar": "بُؤْسٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "buʔ sun · ؤ is /ʔ/, no w sound"
+      },
+      "translit": "buʔ sun",
+      "tags": [
+        "hamzah-waaw",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c044",
+      "front": {
+        "ar": "جَرَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ja raa · alif maqṣuurah = long aa"
+      },
+      "translit": "ja raa",
+      "tags": [
+        "alif-maqsuurah",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c045",
+      "front": {
+        "ar": "اَلْقُصْوَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔal quṣ waa · final ى = long aa"
+      },
+      "translit": "ʔal quṣ waa",
+      "tags": [
+        "alif-maqsuurah",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c046",
+      "front": {
+        "ar": "أَمَامِي",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔa maa mii · dotted ي after kasrah = long ii, not alif maqṣuurah"
+      },
+      "translit": "ʔa maa mii",
+      "tags": [
+        "contrast",
+        "exercise"
+      ],
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-c047",
+      "front": {
+        "ar": "يُؤْمِنُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yuʔ mi nu · ؤ with sukuun after ḍammah"
+      },
+      "translit": "yuʔ mi nu",
+      "tags": [
+        "hamzah-waaw",
+        "exercise"
+      ],
+      "source": "p. 107"
+    },
+    {
+      "id": "ch04-c048",
+      "front": {
+        "ar": "يُؤْمِنُونَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yuʔ mi nuu na"
+      },
+      "translit": "yuʔ mi nuu na",
+      "tags": [
+        "hamzah-waaw",
+        "exercise"
+      ],
+      "source": "p. 107"
+    },
+    {
+      "id": "ch04-c049",
+      "front": {
+        "ar": "بَادِئِينَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "baa di ʔii na · ئ after kasrah"
+      },
+      "translit": "baa di ʔii na",
+      "tags": [
+        "hamzah-yaa",
+        "exercise"
+      ],
+      "source": "p. 107"
+    },
+    {
+      "id": "ch04-c050",
+      "front": {
+        "ar": "يَقْرَأُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yaq ra ʔu"
+      },
+      "translit": "yaq ra ʔu",
+      "tags": [
+        "hamzah",
+        "exercise"
+      ],
+      "source": "p. 107"
+    },
+    {
+      "id": "ch04-c051",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: ma laa ʔi ka tan"
+      },
+      "back": {
+        "ar": "مَلَائِكَةً",
+        "en": "The book spells this word with ئ; learn this spelling as given. Final ة takes tanween fatḥah without an extra alif."
+      },
+      "translit": "ma laa ʔi ka tan",
+      "tags": [
+        "write",
+        "exercise"
+      ],
+      "source": "p. 107"
+    },
+    {
+      "id": "ch04-c052",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: ru ʔuu sun"
+      },
+      "back": {
+        "ar": "رُؤُوسٌ",
+        "en": "ḍammah before hamzah -> ؤ"
+      },
+      "translit": "ru ʔuu sun",
+      "tags": [
+        "write",
+        "exercise"
+      ],
+      "source": "p. 107"
+    },
+    {
+      "id": "ch04-c053",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: mub ta di ʔiin"
+      },
+      "back": {
+        "ar": "مُبْتَدِئِين",
+        "en": "kasrah before hamzah -> ئ"
+      },
+      "translit": "mub ta di ʔiin",
+      "tags": [
+        "write",
+        "exercise"
+      ],
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-c054",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: wi ʔaam"
+      },
+      "back": {
+        "ar": "وِئَام",
+        "en": "kasrah before hamzah -> ئ"
+      },
+      "translit": "wi ʔaam",
+      "tags": [
+        "write",
+        "exercise"
+      ],
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-c055",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: muʔ ta ma nan"
+      },
+      "back": {
+        "ar": "مُؤْتَمَنًا",
+        "en": "ḍammah before hamzah -> ؤ; regular ending takes alif"
+      },
+      "translit": "muʔ ta ma nan",
+      "tags": [
+        "write",
+        "exercise"
+      ],
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-c056",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: mu dar ri sa tan"
+      },
+      "back": {
+        "ar": "مُدَرِّسَةً",
+        "en": "final ة with tanween fatḥah, no extra alif"
+      },
+      "translit": "mu dar ri sa tan",
+      "tags": [
+        "write",
+        "exercise"
+      ],
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-c057",
+      "front": {
+        "ar": "",
+        "en": "Correct spelling: suuʔ"
+      },
+      "back": {
+        "ar": "سُوء",
+        "en": "Free hamzah at the end; the waaw before it carries no vowel (= sukuun state)"
+      },
+      "translit": "suuʔ",
+      "tags": [
+        "spelling",
+        "exercise"
+      ],
+      "source": "p. 105"
+    },
+    {
+      "id": "ch04-c058",
+      "front": {
+        "ar": "",
+        "en": "Correct spelling: fu ʔaad"
+      },
+      "back": {
+        "ar": "فُؤَادْ",
+        "en": "ف has ḍammah -> hamzah on waaw"
+      },
+      "translit": "fu ʔaad",
+      "tags": [
+        "spelling",
+        "exercise"
+      ],
+      "source": "p. 105"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch04-q001",
+      "prompt": {
+        "en": "Which of these is the free hamzah?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "ئ"
+        },
+        {
+          "ar": "ع"
+        },
+        {
+          "ar": "ء"
+        },
+        {
+          "ar": "ؤ"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ء is the free hamzah. ؤ and ئ are hamzah on a seat; ع is the letter ʿayn, a look-alike.",
+      "source": "p. 100"
+    },
+    {
+      "id": "ch04-q002",
+      "prompt": {
+        "en": "What is this character?",
+        "ar": "ى"
+      },
+      "options": [
+        {
+          "en": "Taaʔ marbuuṭah"
+        },
+        {
+          "en": "Alif maqṣuurah (long aa)"
+        },
+        {
+          "en": "Yaaʔ (y / long ii)"
+        },
+        {
+          "en": "Hamzah on yaaʔ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "No dots beneath and at the end of the word: alif maqṣuurah, a long aa. Yaaʔ has two dots.",
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-q003",
+      "prompt": {
+        "en": "Where can the free hamzah ء appear, by the book's rule?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Only at the end of a word"
+        },
+        {
+          "en": "Only at the beginning"
+        },
+        {
+          "en": "In the middle or at the end"
+        },
+        {
+          "en": "Anywhere in the word"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The free hamzah is used only at the end of words, after a letter with sukuun.",
+      "source": "p. 100"
+    },
+    {
+      "id": "ch04-q004",
+      "prompt": {
+        "en": "Hamzah on waaw ؤ is used when the letter before it has...",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "kasrah"
+        },
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "sukuun"
+        },
+        {
+          "en": "ḍammah"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ḍammah before -> ؤ. That is why ؤ never starts a word.",
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-q005",
+      "prompt": {
+        "en": "Hamzah on yaaʔ ئ is used when the letter before it has...",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "sukuun"
+        },
+        {
+          "en": "kasrah"
+        },
+        {
+          "en": "ḍammah"
+        }
+      ],
+      "correct": 2,
+      "explanation": "kasrah before -> ئ (the seat has no dots).",
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-q006",
+      "prompt": {
+        "en": "What sound does ؤ make in this word?",
+        "ar": "سُؤَالٌ"
+      },
+      "options": [
+        {
+          "en": "long uu"
+        },
+        {
+          "en": "/ʔ/ (glottal stop)"
+        },
+        {
+          "en": "/w/"
+        },
+        {
+          "en": "/w/ + /ʔ/"
+        }
+      ],
+      "correct": 1,
+      "explanation": "All hamzah forms give /ʔ/. The waaw is only a seat and is not pronounced: su ʔaa lun.",
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-q007",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "لُؤْلُؤْ"
+      },
+      "options": [
+        {
+          "en": "luʔ luʔ"
+        },
+        {
+          "en": "luw luw"
+        },
+        {
+          "en": "lu ʔu lu ʔu"
+        },
+        {
+          "en": "luu luu"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Each ؤ carries sukuun and is read /ʔ/: luʔ luʔ.",
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-q008",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "قَارِئٌ"
+      },
+      "options": [
+        {
+          "en": "qaa riy ʔun"
+        },
+        {
+          "en": "qa ri ʔun"
+        },
+        {
+          "en": "qaa ri yun"
+        },
+        {
+          "en": "qaa ri ʔun"
+        }
+      ],
+      "correct": 3,
+      "explanation": "قَا is long aa; ئ is /ʔ/ (not y) and carries tanween ḍammah: qaa ri ʔun.",
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-q009",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "فِئْرَانَ"
+      },
+      "options": [
+        {
+          "en": "fiy raa na"
+        },
+        {
+          "en": "fiʔ ra na"
+        },
+        {
+          "en": "fiʔ raa na"
+        },
+        {
+          "en": "fi ʔa raa na"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ئ has sukuun, so it closes the first syllable; رَا is long aa: fiʔ raa na.",
+      "source": "p. 101"
+    },
+    {
+      "id": "ch04-q010",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "جَرَى"
+      },
+      "options": [
+        {
+          "en": "ja ra"
+        },
+        {
+          "en": "ja raa"
+        },
+        {
+          "en": "ja rii"
+        },
+        {
+          "en": "ja ray"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Final ى without dots is alif maqṣuurah = long aa: ja raa.",
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-q011",
+      "prompt": {
+        "en": "Which word ends in alif maqṣuurah?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "هُدَى"
+        },
+        {
+          "ar": "هَدِي"
+        },
+        {
+          "ar": "فَتِيّ"
+        },
+        {
+          "ar": "أَمَامِي"
+        }
+      ],
+      "correct": 0,
+      "explanation": "هُدَى (hu daa, guidance) ends in undotted ى after fatḥah. The others end in dotted yaaʔ.",
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-q012",
+      "prompt": {
+        "en": "Which spelling is fa taa (boy)?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "فَتِيّ"
+        },
+        {
+          "ar": "فَتِي"
+        },
+        {
+          "ar": "فَتَى"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Long aa at the end is written with alif maqṣuurah after fatḥah. فَتِيّ (fa tiyy) means strong.",
+      "source": "p. 103"
+    },
+    {
+      "id": "ch04-q013",
+      "prompt": {
+        "en": "Which taaʔ marbuuṭah shape follows a letter that does not link to the left, as in مِشْكَاةٌ?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "ـه"
+        },
+        {
+          "ar": "ـت"
+        },
+        {
+          "ar": "ة"
+        },
+        {
+          "ar": "ـة"
+        }
+      ],
+      "correct": 2,
+      "explanation": "After alif (a non-linking letter) the separate shape ة is used; ـة follows a linking letter, as in مَدْرَسَةٌ.",
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-q014",
+      "prompt": {
+        "en": "What does adding ة to مُعَلِّمٌ do?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Adds a glottal stop /ʔ/"
+        },
+        {
+          "en": "Makes it feminine: (female) teacher"
+        },
+        {
+          "en": "Makes it plural: teachers"
+        },
+        {
+          "en": "Adds a long aa at the end"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Taaʔ marbuuṭah turns masculine nouns into feminine: مُعَلِّمٌ -> مُعَلِّمَةٌ.",
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-q015",
+      "prompt": {
+        "en": "Add tanween fatḥah to قَلَم:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "قَلَمًا"
+        },
+        {
+          "ar": "قَلَمً"
+        },
+        {
+          "ar": "قَلَمٌ"
+        },
+        {
+          "ar": "قَلَمٍ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "A regular word takes tanween fatḥah plus an alif: qa la man.",
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-q016",
+      "prompt": {
+        "en": "Add tanween fatḥah to مَاء:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مَاءً"
+        },
+        {
+          "ar": "مَاءًا"
+        },
+        {
+          "ar": "مَائًا"
+        }
+      ],
+      "correct": 0,
+      "explanation": "A word ending in free hamzah does not take the extra alif: maa ʔan.",
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-q017",
+      "prompt": {
+        "en": "Add tanween fatḥah to مَدْرَسَة:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مَدْرَسَتًا"
+        },
+        {
+          "ar": "مَدْرَسَةً"
+        },
+        {
+          "ar": "مَدْرَسَةًا"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Taaʔ marbuuṭah never takes the extra alif: mad ra sa tan.",
+      "source": "p. 104"
+    },
+    {
+      "id": "ch04-q018",
+      "prompt": {
+        "en": "Add tanween fatḥah to قَارِئ:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "قَارِئً"
+        },
+        {
+          "ar": "قَارِءًا"
+        },
+        {
+          "ar": "قَارِئًا"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Hamzah on yaaʔ is not covered by the no-alif rule; it normally takes the alif: qaa ri ʔan.",
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-q019",
+      "prompt": {
+        "en": "Add tanween fatḥah to لُؤْلُؤ:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "لُؤْلُؤًا"
+        },
+        {
+          "ar": "لُؤْلُؤً"
+        },
+        {
+          "ar": "لُؤْلُءًا"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Hamzah on waaw normally takes the alif: luʔ lu ʔan.",
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-q020",
+      "prompt": {
+        "en": "Which word does the book list as an exception to its rules?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "قَارِئًا"
+        },
+        {
+          "ar": "مَاءً"
+        },
+        {
+          "ar": "سُؤَالٌ"
+        },
+        {
+          "ar": "شَيْئًا"
+        }
+      ],
+      "correct": 3,
+      "explanation": "شَيْئًا is in the p. 102 caution box: ئ follows sukuun, not kasrah. The others follow the rules.",
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-q021",
+      "prompt": {
+        "en": "Why is رَؤُوفٌ an exception?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "It ends in tanween ḍammah"
+        },
+        {
+          "en": "The waaw seat is read /w/"
+        },
+        {
+          "en": "ؤ follows fatḥah, not ḍammah"
+        },
+        {
+          "en": "ؤ is at the beginning of the word"
+        }
+      ],
+      "correct": 2,
+      "explanation": "By the basic rule ؤ needs ḍammah before it, but in رَؤُوفٌ the letter before has fatḥah.",
+      "source": "p. 102"
+    },
+    {
+      "id": "ch04-q022",
+      "prompt": {
+        "en": "Exercise 1: which of these is NOT circled as a special character?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "ـؤ"
+        },
+        {
+          "ar": "أ"
+        },
+        {
+          "ar": "ـئـ"
+        },
+        {
+          "ar": "ة"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The key circles ء ؤ ئ ة ـئـ ـؤ. أ is alif with hamzah, a regular alphabet letter.",
+      "source": "p. 105"
+    },
+    {
+      "id": "ch04-q023",
+      "prompt": {
+        "en": "Choose the correct spelling of fu ʔaad:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "فُئَادْ"
+        },
+        {
+          "ar": "فُؤَادْ"
+        },
+        {
+          "ar": "فُأَادْ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ف has ḍammah, so the hamzah sits on waaw.",
+      "source": "p. 105"
+    },
+    {
+      "id": "ch04-q024",
+      "prompt": {
+        "en": "Choose the correct spelling of ru ʔuus:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "رُئُوس"
+        },
+        {
+          "ar": "رُأُوس"
+        },
+        {
+          "ar": "رُؤُوس"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ر has ḍammah, so the hamzah sits on waaw.",
+      "source": "p. 105"
+    },
+    {
+      "id": "ch04-q025",
+      "prompt": {
+        "en": "Choose the correct spelling of milʔ:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مِلْء"
+        },
+        {
+          "ar": "مِلْئ"
+        },
+        {
+          "ar": "مِلْأ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Hamzah is the last letter and ل has sukuun: free hamzah ء.",
+      "source": "p. 105"
+    },
+    {
+      "id": "ch04-q026",
+      "prompt": {
+        "en": "Choose the correct spelling of suuʔ:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "سُوئ"
+        },
+        {
+          "ar": "سُوء"
+        },
+        {
+          "ar": "سُوأ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Hamzah is last and the waaw before it has no vowel (sukuun state): free hamzah ء.",
+      "source": "p. 105"
+    },
+    {
+      "id": "ch04-q027",
+      "prompt": {
+        "en": "Add tanween fatḥah to مَلْجَأ:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مَلْجَأًا"
+        },
+        {
+          "ar": "مَلْجَئًا"
+        },
+        {
+          "ar": "مَلْجَأً"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The word ends in hamzah, so no extra alif: mal ja ʔan.",
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-q028",
+      "prompt": {
+        "en": "Add tanween fatḥah to بَادِئ:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "بَادِئًا"
+        },
+        {
+          "ar": "بَادِئً"
+        },
+        {
+          "ar": "بَادِءًا"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Hamzah on yaaʔ takes the alif: baa di ʔan.",
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-q029",
+      "prompt": {
+        "en": "Add tanween fatḥah to وَجْه:",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "وَجْهَةً"
+        },
+        {
+          "ar": "وَجْهًا"
+        },
+        {
+          "ar": "وَجْهً"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ه is a regular letter (not ة), so the alif is added: waj han.",
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-q030",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "بُؤْسٌ"
+      },
+      "options": [
+        {
+          "en": "buu sun"
+        },
+        {
+          "en": "buʔ sun"
+        },
+        {
+          "en": "buw sun"
+        },
+        {
+          "en": "bu ʔu sun"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ؤ has sukuun and is read /ʔ/; the seat adds no w: buʔ sun.",
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-q031",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "أَمَامِي"
+      },
+      "options": [
+        {
+          "en": "ʔa maa mii"
+        },
+        {
+          "en": "ʔa maa maa"
+        },
+        {
+          "en": "ʔa ma mii"
+        },
+        {
+          "en": "ʔa maa mi"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The final ي has dots and follows kasrah: long ii, not alif maqṣuurah.",
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-q032",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "اَلْقُصْوَى"
+      },
+      "options": [
+        {
+          "en": "ʔal quṣ wii"
+        },
+        {
+          "en": "ʔal qus waa"
+        },
+        {
+          "en": "ʔal quṣ wa"
+        },
+        {
+          "en": "ʔal quṣ waa"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ص is emphatic ṣ, and final ى after fatḥah is long aa: ʔal quṣ waa.",
+      "source": "p. 106"
+    },
+    {
+      "id": "ch04-q033",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "يُؤْمِنُونَ"
+      },
+      "options": [
+        {
+          "en": "yu ʔu mi nuu na"
+        },
+        {
+          "en": "yuʔ mi nu na"
+        },
+        {
+          "en": "yuʔ mi nuu na"
+        },
+        {
+          "en": "yuw mi nuu na"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ؤ with sukuun is /ʔ/ closing the first syllable; نُو is long uu.",
+      "source": "p. 107"
+    },
+    {
+      "id": "ch04-q034",
+      "prompt": {
+        "en": "Write in Arabic: mub ta di ʔiin",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مُبْتَدِئِين"
+        },
+        {
+          "ar": "مُبْتَدِؤِين"
+        },
+        {
+          "ar": "مُبْتَدِءِين"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The letter before the hamzah (د) has kasrah, and the hamzah is in the middle: ئ.",
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-q035",
+      "prompt": {
+        "en": "Write in Arabic: wi ʔaam",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "وِأَام"
+        },
+        {
+          "ar": "وِئَام"
+        },
+        {
+          "ar": "وِؤَام"
+        }
+      ],
+      "correct": 1,
+      "explanation": "و has kasrah, so the hamzah sits on yaaʔ: ئ.",
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-q036",
+      "prompt": {
+        "en": "Write in Arabic: mad ra sa tun",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مَدْرَسَتٌ"
+        },
+        {
+          "ar": "مَدْرَسَهٌ"
+        },
+        {
+          "ar": "مَدْرَسَةٌ"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The feminine ending is written with taaʔ marbuuṭah ة, not ت or ه.",
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-q037",
+      "prompt": {
+        "en": "Write in Arabic: muʔ ta ma nan",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مُؤْتَمَنًا"
+        },
+        {
+          "ar": "مُئْتَمَنًا"
+        },
+        {
+          "ar": "مُؤْتَمَنً"
+        }
+      ],
+      "correct": 0,
+      "explanation": "م has ḍammah -> ؤ; the regular ending takes tanween fatḥah plus alif.",
+      "source": "p. 108"
+    },
+    {
+      "id": "ch04-q038",
+      "prompt": {
+        "en": "How many dots are under the seat of hamzah on yaaʔ ئ?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "One"
+        },
+        {
+          "en": "None"
+        },
+        {
+          "en": "Two"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The book notes that we do not put the two dots below the yaaʔ when it carries hamzah.",
+      "source": "p. 101"
+    }
+  ]
+}

@@ -1,0 +1,4589 @@
+{
+  "chapter": 1,
+  "title": "Arabic Alphabet",
+  "bookPages": "1-72",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 01",
+    "title": "The Arabic alphabet, made simple.",
+    "subtitle": "28 letters · 4 positional forms · dots · non-connectors · Book pp. 1-72",
+    "coreIdeaLabel": "THE CORE IDEA",
+    "coreIdea": "Letters join **right -> left** in up to **4 forms**, but **6 letters never join the next one**.",
+    "coreIdeaNote": "Forms: Beginning, Middle, End, Free. Same body + different dots = a different letter. Learn the sound first, the name later (p. 4).",
+    "sections": [
+      {
+        "heading": "1. All 28 letters in their 4 forms",
+        "bookPages": "3-64",
+        "note": "Forms read right -> left: Beginning, Middle, End · **bold** = non-connector",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Free · name · End Mid. Begin.",
+              "Free · name · End Mid. Begin.",
+              "Free · name · End Mid. Begin.",
+              "Free · name · End Mid. Begin."
+            ],
+            "rows": [
+              [
+                "أ **Alif** ʔ · أ ـأ ـأ",
+                "د **Daal** d · د ـد ـد",
+                "ض Ḍaad ḍ · ضـ ـضـ ـض",
+                "ك Kaaf k · كـ ـكـ ـك"
+              ],
+              [
+                "ب Baaʔ b · بـ ـبـ ـب",
+                "ذ **Dhaal** dh · ذ ـذ ـذ",
+                "ط Ṭaaʔ ṭ · طـ ـطـ ـط",
+                "ل Laam l · لـ ـلـ ـل"
+              ],
+              [
+                "ت Taaʔ t · تـ ـتـ ـت",
+                "ر **Raaʔ** r · ر ـر ـر",
+                "ظ Ẓaaʔ ẓ · ظـ ـظـ ـظ",
+                "م Miim m · مـ ـمـ ـم"
+              ],
+              [
+                "ث Thaaʔ th · ثـ ـثـ ـث",
+                "ز **Zaay** z · ز ـز ـز",
+                "ع ʿayn ʿ · عـ ـعـ ـع",
+                "ن Nuun n · نـ ـنـ ـن"
+              ],
+              [
+                "ج Jiim j · جـ ـجـ ـج",
+                "س Siin s · سـ ـسـ ـس",
+                "غ Ghayn gh · غـ ـغـ ـغ",
+                "ه Haaʔ h · هـ ـهـ ـه"
+              ],
+              [
+                "ح Ḥaaʔ ḥ · حـ ـحـ ـح",
+                "ش Shiin sh · شـ ـشـ ـش",
+                "ف Faaʔ f · فـ ـفـ ـف",
+                "و **Waaw** w · و ـو ـو"
+              ],
+              [
+                "خ Khaaʔ kh · خـ ـخـ ـخ",
+                "ص Ṣaad ṣ · صـ ـصـ ـص",
+                "ق Qaaf q · قـ ـقـ ـق",
+                "ي Yaaʔ y · يـ ـيـ ـي"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "2. Six non-connectors: ا د ذ ر ز و",
+        "bookPages": "3-4, 12, 66-67",
+        "note": "They join the letter before them, never the one after: the next letter restarts",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 3,
+            "items": [
+              {
+                "title": "Free baa after alif",
+                "ar": "بَابٌ",
+                "translit": "baa bun",
+                "caption": "The last ب stands **Free**"
+              },
+              {
+                "title": "Dhaal at the start",
+                "ar": "ذَهَبَ",
+                "translit": "dha ha ba",
+                "caption": "ه restarts: **Beginning** form"
+              },
+              {
+                "title": "Alif in the middle",
+                "ar": "كِتَابٌ",
+                "translit": "ki taa bun",
+                "caption": "One word, two pieces"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "3. Dot families and look-alikes",
+        "bookPages": "11-64",
+        "note": "Count the dots and check above or below",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Family",
+              "How the dots split it"
+            ],
+            "rows": [
+              [
+                "ب ت ث ن ي · one tooth",
+                "ب 1 below · ت 2 above · ث 3 above · ن 1 above · ي 2 below"
+              ],
+              [
+                "ج ح خ · ف ق",
+                "ج 1 below · ح none · خ 1 above · ف 1 above · ق 2 above"
+              ],
+              [
+                "د ذ · ر ز · س ش · ص ض · ط ظ · ع غ",
+                "Plain letter + **dots above** = its twin (ش 3, the rest 1)"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warn",
+            "title": "No dots to help:",
+            "text": "Daal د is angled and sits on the line; Raaʔ ر curves below it (same for ذ and ز). Laam ل is a tall stroke with a round bowl; Kaaf ك has a flat base and a small inner mark."
+          }
+        ]
+      },
+      {
+        "heading": "4. Sounds with no English twin",
+        "bookPages": "5-6",
+        "note": "Book tip: don't chase the exact sound yet -- link each sound to its shape",
+        "blocks": [
+          {
+            "type": "table",
+            "compact": true,
+            "columns": [
+              "Letters · symbol",
+              "How the book marks them"
+            ],
+            "rows": [
+              [
+                "ح ḥ · ص ṣ · ض ḍ · ط ṭ · ظ ẓ",
+                "Closest English letter **+ a dot under it**: not ه س د ت ز"
+              ],
+              [
+                "ع ʿ",
+                "Special symbol, no English match: **listen and imitate** (not alif's ʔ)"
+              ],
+              [
+                "خ kh · غ gh · ق q",
+                "One Arabic sound each; keep ق (q) apart from ك (k)"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "exercisePages": "65-72",
+    "exerciseTitle": "Use it on the exercises.",
+    "exerciseIntro": "Three exercise types: find a missing letter, join letters into words, split words into letters. All are unvowelled -- you work with shapes only.",
+    "exerciseTips": [
+      {
+        "title": "Start at the right",
+        "text": "Every word begins at its right edge."
+      },
+      {
+        "title": "Spot the six",
+        "text": "ا د ذ ر ز و end a joined piece."
+      },
+      {
+        "title": "Count the dots",
+        "text": "Same body, different dots = different letter."
+      }
+    ],
+    "exerciseGuide": [
+      {
+        "exercise": 1,
+        "pages": "65-66",
+        "task": "Choose the letter NOT found in the word, then write the remaining letters",
+        "method": "Read the word right to left and tick off each bracketed letter you find in it. The one with no match is the answer. Watch dot twins such as ص and ض, or ت and ث, or س and ش.",
+        "example": {
+          "ar": "ش",
+          "translit": "sh",
+          "note": "Key 1: missing from استمرارية"
+        },
+        "contrast": {
+          "ar": "ض",
+          "translit": "ḍ",
+          "note": "Key 13: اتصالات has ص but not its twin ض"
+        }
+      },
+      {
+        "exercise": "2A",
+        "pages": "66-67",
+        "task": "Join three letters into one word",
+        "method": "Write right to left: first letter in its **Beginning** form, the middle one in its **Middle** form, the last in its **End** form. After ا د ذ ر ز و the next letter restarts (Beginning, or Free if last).",
+        "example": {
+          "ar": "كَتَبَ",
+          "translit": "ka ta ba",
+          "note": "Key 2: كتب"
+        },
+        "contrast": {
+          "ar": "ذَهَبَ",
+          "translit": "dha ha ba",
+          "note": "Key 8 is ذهب: since ذ can't join, ه starts fresh"
+        }
+      },
+      {
+        "exercise": "2B",
+        "pages": "67-68",
+        "task": "Join four letters into one word",
+        "method": "Same method; check each letter: does it join to the left? A non-connector inside the word leaves a small gap, not a new word. ة and ى (Chapter 4) only come last.",
+        "example": {
+          "ar": "كِتَابٌ",
+          "translit": "ki taa bun",
+          "note": "Key 2 is كتاب: the last ب stands Free"
+        },
+        "contrast": {
+          "ar": "مَسْبَحٌ",
+          "translit": "mas ba ḥun",
+          "note": "Key 1 is مسبح: one unbroken piece"
+        }
+      },
+      {
+        "exercise": "2C-2D",
+        "pages": "68-70",
+        "task": "Join five or six letters into one word",
+        "method": "Mark every non-connector first; each one splits the word into pieces. Then write piece by piece: Beginning -> Middle -> End inside each piece, Free for a lone letter.",
+        "example": {
+          "ar": "مَسْتُورٌ",
+          "translit": "mas tuu run",
+          "note": "Key C20 is مستور: ر after و stands Free"
+        },
+        "contrast": {
+          "ar": "اِسْتَخْرَجَ",
+          "translit": "is takh ra ja",
+          "note": "Key D1 is استخرج: breaks after ا and after ر"
+        }
+      },
+      {
+        "exercise": 3,
+        "pages": "71-72",
+        "task": "Break each word down into its letters",
+        "method": "Go right to left and split at every joint and every gap. Write each letter in its Free form, e.g. a Middle ـمـ is written as م. Words starting with ال: count ا and ل as two letters.",
+        "example": {
+          "ar": "اِسْتَسْلَمَ",
+          "translit": "is tas la ma",
+          "note": "Key 30: ا س ت س ل م"
+        },
+        "contrast": {
+          "ar": "ظ",
+          "translit": "ẓ",
+          "note": "Key 7: ظلال starts with ظ, but the key prints ض (misprint)"
+        }
+      }
+    ],
+    "exerciseFooter": "The exercise words are unvowelled on purpose: Chapter 1 is about letter shapes and joining. The vowelled forms on this page are only for reading practice."
+  },
+  "cards": [
+    {
+      "id": "ch01-c001",
+      "front": {
+        "ar": "أ",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "أَلِف",
+        "en": "Alif · sound /ʔ/ · the book shows it carrying hamzah (أ) · non-connector"
+      },
+      "translit": "alif",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 9"
+    },
+    {
+      "id": "ch01-c002",
+      "front": {
+        "ar": "ب",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "بَاء",
+        "en": "Baaʔ · sound /b/"
+      },
+      "translit": "baaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 11"
+    },
+    {
+      "id": "ch01-c003",
+      "front": {
+        "ar": "ت",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "تَاء",
+        "en": "Taaʔ · sound /t/"
+      },
+      "translit": "taaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 13"
+    },
+    {
+      "id": "ch01-c004",
+      "front": {
+        "ar": "ث",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "ثَاء",
+        "en": "Thaaʔ · sound /th/"
+      },
+      "translit": "thaaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 15"
+    },
+    {
+      "id": "ch01-c005",
+      "front": {
+        "ar": "ج",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "جِيم",
+        "en": "Jiim · sound /j/"
+      },
+      "translit": "jiim",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 17"
+    },
+    {
+      "id": "ch01-c006",
+      "front": {
+        "ar": "ح",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "حَاء",
+        "en": "Ḥaaʔ · sound /ḥ/"
+      },
+      "translit": "ḥaaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 19"
+    },
+    {
+      "id": "ch01-c007",
+      "front": {
+        "ar": "خ",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "خَاء",
+        "en": "Khaaʔ · sound /kh/"
+      },
+      "translit": "khaaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 21"
+    },
+    {
+      "id": "ch01-c008",
+      "front": {
+        "ar": "د",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "دَال",
+        "en": "Daal · sound /d/ · non-connector"
+      },
+      "translit": "daal",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 23"
+    },
+    {
+      "id": "ch01-c009",
+      "front": {
+        "ar": "ذ",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "ذَال",
+        "en": "Dhaal · sound /dh/ · non-connector"
+      },
+      "translit": "dhaal",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 25"
+    },
+    {
+      "id": "ch01-c010",
+      "front": {
+        "ar": "ر",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "رَاء",
+        "en": "Raaʔ · sound /r/ · non-connector"
+      },
+      "translit": "raaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 27"
+    },
+    {
+      "id": "ch01-c011",
+      "front": {
+        "ar": "ز",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "زَاي",
+        "en": "Zaay · sound /z/ · non-connector"
+      },
+      "translit": "zaay",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 29"
+    },
+    {
+      "id": "ch01-c012",
+      "front": {
+        "ar": "س",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "سِين",
+        "en": "Siin · sound /s/"
+      },
+      "translit": "siin",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 31"
+    },
+    {
+      "id": "ch01-c013",
+      "front": {
+        "ar": "ش",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "شِين",
+        "en": "Shiin · sound /sh/"
+      },
+      "translit": "shiin",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 33"
+    },
+    {
+      "id": "ch01-c014",
+      "front": {
+        "ar": "ص",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "صَاد",
+        "en": "Ṣaad · sound /ṣ/"
+      },
+      "translit": "ṣaad",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 35"
+    },
+    {
+      "id": "ch01-c015",
+      "front": {
+        "ar": "ض",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "ضَاد",
+        "en": "Ḍaad · sound /ḍ/"
+      },
+      "translit": "ḍaad",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 37"
+    },
+    {
+      "id": "ch01-c016",
+      "front": {
+        "ar": "ط",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "طَاء",
+        "en": "Ṭaaʔ · sound /ṭ/"
+      },
+      "translit": "ṭaaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 39"
+    },
+    {
+      "id": "ch01-c017",
+      "front": {
+        "ar": "ظ",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "ظَاء",
+        "en": "Ẓaaʔ · sound /ẓ/"
+      },
+      "translit": "ẓaaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-c018",
+      "front": {
+        "ar": "ع",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "عَين",
+        "en": "ʿayn · sound /ʿ/"
+      },
+      "translit": "ʿayn",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-c019",
+      "front": {
+        "ar": "غ",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "غَين",
+        "en": "Ghayn · sound /gh/"
+      },
+      "translit": "ghayn",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-c020",
+      "front": {
+        "ar": "ف",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "فَاء",
+        "en": "Faaʔ · sound /f/"
+      },
+      "translit": "faaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 47"
+    },
+    {
+      "id": "ch01-c021",
+      "front": {
+        "ar": "ق",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "قَاف",
+        "en": "Qaaf · sound /q/"
+      },
+      "translit": "qaaf",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-c022",
+      "front": {
+        "ar": "ك",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "كَاف",
+        "en": "Kaaf · sound /k/"
+      },
+      "translit": "kaaf",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 51"
+    },
+    {
+      "id": "ch01-c023",
+      "front": {
+        "ar": "ل",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "لَام",
+        "en": "Laam · sound /l/"
+      },
+      "translit": "laam",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 53"
+    },
+    {
+      "id": "ch01-c024",
+      "front": {
+        "ar": "م",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "مِيم",
+        "en": "Miim · sound /m/"
+      },
+      "translit": "miim",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 55"
+    },
+    {
+      "id": "ch01-c025",
+      "front": {
+        "ar": "ن",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "نُون",
+        "en": "Nuun · sound /n/"
+      },
+      "translit": "nuun",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-c026",
+      "front": {
+        "ar": "ه",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "هَاء",
+        "en": "Haaʔ · sound /h/"
+      },
+      "translit": "haaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-c027",
+      "front": {
+        "ar": "و",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "وَاو",
+        "en": "Waaw · sound /w/ · non-connector"
+      },
+      "translit": "waaw",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 61"
+    },
+    {
+      "id": "ch01-c028",
+      "front": {
+        "ar": "ي",
+        "en": "Name and sound?"
+      },
+      "back": {
+        "ar": "يَاء",
+        "en": "Yaaʔ · sound /y/"
+      },
+      "translit": "yaaʔ",
+      "tags": [
+        "letters",
+        "name-sound"
+      ],
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-c029",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /ʔ/?"
+      },
+      "back": {
+        "ar": "أ",
+        "en": "Alif (أ) · the book's symbol ʔ; not ع (ʿ)"
+      },
+      "translit": "alif",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 9"
+    },
+    {
+      "id": "ch01-c030",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /b/?"
+      },
+      "back": {
+        "ar": "ب",
+        "en": "Baaʔ · 1 dot below"
+      },
+      "translit": "baaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 11"
+    },
+    {
+      "id": "ch01-c031",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /t/?"
+      },
+      "back": {
+        "ar": "ت",
+        "en": "Taaʔ · 2 dots above; not ط (ṭ)"
+      },
+      "translit": "taaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 13"
+    },
+    {
+      "id": "ch01-c032",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /th/?"
+      },
+      "back": {
+        "ar": "ث",
+        "en": "Thaaʔ · 3 dots above; not ت (t) or ذ (dh)"
+      },
+      "translit": "thaaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 15"
+    },
+    {
+      "id": "ch01-c033",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /j/?"
+      },
+      "back": {
+        "ar": "ج",
+        "en": "Jiim · 1 dot below the bowl"
+      },
+      "translit": "jiim",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 17"
+    },
+    {
+      "id": "ch01-c034",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /ḥ/?"
+      },
+      "back": {
+        "ar": "ح",
+        "en": "Ḥaaʔ · the dotted h; not ه (h) or خ (kh)"
+      },
+      "translit": "ḥaaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 19"
+    },
+    {
+      "id": "ch01-c035",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /kh/?"
+      },
+      "back": {
+        "ar": "خ",
+        "en": "Khaaʔ · 1 dot above; not ح (ḥ)"
+      },
+      "translit": "khaaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 21"
+    },
+    {
+      "id": "ch01-c036",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /d/?"
+      },
+      "back": {
+        "ar": "د",
+        "en": "Daal · non-connector; not ض (ḍ)"
+      },
+      "translit": "daal",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 23"
+    },
+    {
+      "id": "ch01-c037",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /dh/?"
+      },
+      "back": {
+        "ar": "ذ",
+        "en": "Dhaal · 1 dot above; not ز (z) or ظ (ẓ)"
+      },
+      "translit": "dhaal",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 25"
+    },
+    {
+      "id": "ch01-c038",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /r/?"
+      },
+      "back": {
+        "ar": "ر",
+        "en": "Raaʔ · curves below the line; not د (d)"
+      },
+      "translit": "raaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 27"
+    },
+    {
+      "id": "ch01-c039",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /z/?"
+      },
+      "back": {
+        "ar": "ز",
+        "en": "Zaay · Raaʔ + 1 dot; not ذ (dh)"
+      },
+      "translit": "zaay",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 29"
+    },
+    {
+      "id": "ch01-c040",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /s/?"
+      },
+      "back": {
+        "ar": "س",
+        "en": "Siin · three teeth, no dots; not ص (ṣ)"
+      },
+      "translit": "siin",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 31"
+    },
+    {
+      "id": "ch01-c041",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /sh/?"
+      },
+      "back": {
+        "ar": "ش",
+        "en": "Shiin · three teeth + 3 dots above"
+      },
+      "translit": "shiin",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 33"
+    },
+    {
+      "id": "ch01-c042",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /ṣ/?"
+      },
+      "back": {
+        "ar": "ص",
+        "en": "Ṣaad · the dotted s; not س (s)"
+      },
+      "translit": "ṣaad",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 35"
+    },
+    {
+      "id": "ch01-c043",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /ḍ/?"
+      },
+      "back": {
+        "ar": "ض",
+        "en": "Ḍaad · the dotted d; not د (d)"
+      },
+      "translit": "ḍaad",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 37"
+    },
+    {
+      "id": "ch01-c044",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /ṭ/?"
+      },
+      "back": {
+        "ar": "ط",
+        "en": "Ṭaaʔ · the dotted t; not ت (t)"
+      },
+      "translit": "ṭaaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 39"
+    },
+    {
+      "id": "ch01-c045",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /ẓ/?"
+      },
+      "back": {
+        "ar": "ظ",
+        "en": "Ẓaaʔ · the dotted z; not ز (z) or ذ (dh)"
+      },
+      "translit": "ẓaaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-c046",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /ʿ/?"
+      },
+      "back": {
+        "ar": "ع",
+        "en": "ʿayn · special symbol, no English sound; not أ (ʔ)"
+      },
+      "translit": "ʿayn",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-c047",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /gh/?"
+      },
+      "back": {
+        "ar": "غ",
+        "en": "Ghayn · ع + 1 dot above"
+      },
+      "translit": "ghayn",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-c048",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /f/?"
+      },
+      "back": {
+        "ar": "ف",
+        "en": "Faaʔ · 1 dot above"
+      },
+      "translit": "faaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 47"
+    },
+    {
+      "id": "ch01-c049",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /q/?"
+      },
+      "back": {
+        "ar": "ق",
+        "en": "Qaaf · 2 dots above; not ك (k)"
+      },
+      "translit": "qaaf",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-c050",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /k/?"
+      },
+      "back": {
+        "ar": "ك",
+        "en": "Kaaf · not ق (q)"
+      },
+      "translit": "kaaf",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 51"
+    },
+    {
+      "id": "ch01-c051",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /l/?"
+      },
+      "back": {
+        "ar": "ل",
+        "en": "Laam · tall stroke with a round bowl"
+      },
+      "translit": "laam",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 53"
+    },
+    {
+      "id": "ch01-c052",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /m/?"
+      },
+      "back": {
+        "ar": "م",
+        "en": "Miim · small round head"
+      },
+      "translit": "miim",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 55"
+    },
+    {
+      "id": "ch01-c053",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /n/?"
+      },
+      "back": {
+        "ar": "ن",
+        "en": "Nuun · 1 dot above"
+      },
+      "translit": "nuun",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-c054",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /h/?"
+      },
+      "back": {
+        "ar": "ه",
+        "en": "Haaʔ · plain h; not ح (ḥ)"
+      },
+      "translit": "haaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-c055",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /w/?"
+      },
+      "back": {
+        "ar": "و",
+        "en": "Waaw · non-connector"
+      },
+      "translit": "waaw",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 61"
+    },
+    {
+      "id": "ch01-c056",
+      "front": {
+        "ar": "",
+        "en": "Which letter has the sound /y/?"
+      },
+      "back": {
+        "ar": "ي",
+        "en": "Yaaʔ · 2 dots below"
+      },
+      "translit": "yaaʔ",
+      "tags": [
+        "letters",
+        "sound-shape"
+      ],
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-c057",
+      "front": {
+        "ar": "هـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ه",
+        "en": "Haaʔ · Beginning form (joined on its left only)"
+      },
+      "translit": "haaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-c058",
+      "front": {
+        "ar": "ـهـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ه",
+        "en": "Haaʔ · Middle form (joined on both sides)"
+      },
+      "translit": "haaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-c059",
+      "front": {
+        "ar": "ـه",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ه",
+        "en": "Haaʔ · End form (joined on its right only)"
+      },
+      "translit": "haaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-c060",
+      "front": {
+        "ar": "عـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ع",
+        "en": "ʿayn · Beginning form (joined on its left only)"
+      },
+      "translit": "ʿayn",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-c061",
+      "front": {
+        "ar": "ـعـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ع",
+        "en": "ʿayn · Middle form (joined on both sides)"
+      },
+      "translit": "ʿayn",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-c062",
+      "front": {
+        "ar": "ـع",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ع",
+        "en": "ʿayn · End form (joined on its right only)"
+      },
+      "translit": "ʿayn",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-c063",
+      "front": {
+        "ar": "ـغـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "غ",
+        "en": "Ghayn · Middle form (joined on both sides)"
+      },
+      "translit": "ghayn",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-c064",
+      "front": {
+        "ar": "ـغ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "غ",
+        "en": "Ghayn · End form (joined on its right only)"
+      },
+      "translit": "ghayn",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-c065",
+      "front": {
+        "ar": "كـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ك",
+        "en": "Kaaf · Beginning form (joined on its left only)"
+      },
+      "translit": "kaaf",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 51"
+    },
+    {
+      "id": "ch01-c066",
+      "front": {
+        "ar": "ـكـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ك",
+        "en": "Kaaf · Middle form (joined on both sides)"
+      },
+      "translit": "kaaf",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 51"
+    },
+    {
+      "id": "ch01-c067",
+      "front": {
+        "ar": "ـك",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ك",
+        "en": "Kaaf · End form (joined on its right only)"
+      },
+      "translit": "kaaf",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 51"
+    },
+    {
+      "id": "ch01-c068",
+      "front": {
+        "ar": "يـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ي",
+        "en": "Yaaʔ · Beginning form (joined on its left only)"
+      },
+      "translit": "yaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-c069",
+      "front": {
+        "ar": "ـيـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ي",
+        "en": "Yaaʔ · Middle form (joined on both sides)"
+      },
+      "translit": "yaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-c070",
+      "front": {
+        "ar": "ـي",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ي",
+        "en": "Yaaʔ · End form (joined on its right only)"
+      },
+      "translit": "yaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-c071",
+      "front": {
+        "ar": "نـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ن",
+        "en": "Nuun · Beginning form (joined on its left only)"
+      },
+      "translit": "nuun",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-c072",
+      "front": {
+        "ar": "ـن",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ن",
+        "en": "Nuun · End form (joined on its right only)"
+      },
+      "translit": "nuun",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-c073",
+      "front": {
+        "ar": "ـبـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ب",
+        "en": "Baaʔ · Middle form (joined on both sides)"
+      },
+      "translit": "baaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 11"
+    },
+    {
+      "id": "ch01-c074",
+      "front": {
+        "ar": "ـثـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ث",
+        "en": "Thaaʔ · Middle form (joined on both sides)"
+      },
+      "translit": "thaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 15"
+    },
+    {
+      "id": "ch01-c075",
+      "front": {
+        "ar": "جـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ج",
+        "en": "Jiim · Beginning form (joined on its left only)"
+      },
+      "translit": "jiim",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 17"
+    },
+    {
+      "id": "ch01-c076",
+      "front": {
+        "ar": "ـج",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ج",
+        "en": "Jiim · End form (joined on its right only)"
+      },
+      "translit": "jiim",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 17"
+    },
+    {
+      "id": "ch01-c077",
+      "front": {
+        "ar": "ـحـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ح",
+        "en": "Ḥaaʔ · Middle form (joined on both sides)"
+      },
+      "translit": "ḥaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 19"
+    },
+    {
+      "id": "ch01-c078",
+      "front": {
+        "ar": "خـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "خ",
+        "en": "Khaaʔ · Beginning form (joined on its left only)"
+      },
+      "translit": "khaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 21"
+    },
+    {
+      "id": "ch01-c079",
+      "front": {
+        "ar": "مـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "م",
+        "en": "Miim · Beginning form (joined on its left only)"
+      },
+      "translit": "miim",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 55"
+    },
+    {
+      "id": "ch01-c080",
+      "front": {
+        "ar": "ـمـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "م",
+        "en": "Miim · Middle form (joined on both sides)"
+      },
+      "translit": "miim",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 55"
+    },
+    {
+      "id": "ch01-c081",
+      "front": {
+        "ar": "ـم",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "م",
+        "en": "Miim · End form (joined on its right only)"
+      },
+      "translit": "miim",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 55"
+    },
+    {
+      "id": "ch01-c082",
+      "front": {
+        "ar": "صـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ص",
+        "en": "Ṣaad · Beginning form (joined on its left only)"
+      },
+      "translit": "ṣaad",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 35"
+    },
+    {
+      "id": "ch01-c083",
+      "front": {
+        "ar": "ـص",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ص",
+        "en": "Ṣaad · End form (joined on its right only)"
+      },
+      "translit": "ṣaad",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 35"
+    },
+    {
+      "id": "ch01-c084",
+      "front": {
+        "ar": "ـضـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ض",
+        "en": "Ḍaad · Middle form (joined on both sides)"
+      },
+      "translit": "ḍaad",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 37"
+    },
+    {
+      "id": "ch01-c085",
+      "front": {
+        "ar": "ـفـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ف",
+        "en": "Faaʔ · Middle form (joined on both sides)"
+      },
+      "translit": "faaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 47"
+    },
+    {
+      "id": "ch01-c086",
+      "front": {
+        "ar": "ـف",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ف",
+        "en": "Faaʔ · End form (joined on its right only)"
+      },
+      "translit": "faaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 47"
+    },
+    {
+      "id": "ch01-c087",
+      "front": {
+        "ar": "ـق",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ق",
+        "en": "Qaaf · End form (joined on its right only)"
+      },
+      "translit": "qaaf",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-c088",
+      "front": {
+        "ar": "ـلـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ل",
+        "en": "Laam · Middle form (joined on both sides)"
+      },
+      "translit": "laam",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 53"
+    },
+    {
+      "id": "ch01-c089",
+      "front": {
+        "ar": "ـسـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "س",
+        "en": "Siin · Middle form (joined on both sides)"
+      },
+      "translit": "siin",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 31"
+    },
+    {
+      "id": "ch01-c090",
+      "front": {
+        "ar": "شـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ش",
+        "en": "Shiin · Beginning form (joined on its left only)"
+      },
+      "translit": "shiin",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 33"
+    },
+    {
+      "id": "ch01-c091",
+      "front": {
+        "ar": "ـط",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ط",
+        "en": "Ṭaaʔ · End form (joined on its right only)"
+      },
+      "translit": "ṭaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 39"
+    },
+    {
+      "id": "ch01-c092",
+      "front": {
+        "ar": "ظـ",
+        "en": "Which letter, which form?"
+      },
+      "back": {
+        "ar": "ظ",
+        "en": "Ẓaaʔ · Beginning form (joined on its left only)"
+      },
+      "translit": "ẓaaʔ",
+      "tags": [
+        "forms"
+      ],
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-c093",
+      "front": {
+        "ar": "ا",
+        "en": "Can it join the NEXT letter (on its left)?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No · Alif links only from the right (red broken link on the left). The next letter restarts with its Beginning form (or Free if it is the last letter)."
+      },
+      "translit": "alif",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 9"
+    },
+    {
+      "id": "ch01-c094",
+      "front": {
+        "ar": "د",
+        "en": "Can it join the NEXT letter (on its left)?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No · Daal links only from the right (red broken link on the left). The next letter restarts with its Beginning form (or Free if it is the last letter)."
+      },
+      "translit": "daal",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 23"
+    },
+    {
+      "id": "ch01-c095",
+      "front": {
+        "ar": "ذ",
+        "en": "Can it join the NEXT letter (on its left)?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No · Dhaal links only from the right (red broken link on the left). The next letter restarts with its Beginning form (or Free if it is the last letter)."
+      },
+      "translit": "dhaal",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 25"
+    },
+    {
+      "id": "ch01-c096",
+      "front": {
+        "ar": "ر",
+        "en": "Can it join the NEXT letter (on its left)?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No · Raaʔ links only from the right (red broken link on the left). The next letter restarts with its Beginning form (or Free if it is the last letter)."
+      },
+      "translit": "raaʔ",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 27"
+    },
+    {
+      "id": "ch01-c097",
+      "front": {
+        "ar": "ز",
+        "en": "Can it join the NEXT letter (on its left)?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No · Zaay links only from the right (red broken link on the left). The next letter restarts with its Beginning form (or Free if it is the last letter)."
+      },
+      "translit": "zaay",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 29"
+    },
+    {
+      "id": "ch01-c098",
+      "front": {
+        "ar": "و",
+        "en": "Can it join the NEXT letter (on its left)?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No · Waaw links only from the right (red broken link on the left). The next letter restarts with its Beginning form (or Free if it is the last letter)."
+      },
+      "translit": "waaw",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 61"
+    },
+    {
+      "id": "ch01-c099",
+      "front": {
+        "ar": "",
+        "en": "Which 6 letters never join to the next letter?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ا د ذ ر ز و · Alif, Daal, Dhaal, Raaʔ, Zaay, Waaw"
+      },
+      "translit": "",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "pp. 3-63"
+    },
+    {
+      "id": "ch01-c100",
+      "front": {
+        "ar": "",
+        "en": "What form does a letter take right after ا د ذ ر ز و?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Its Beginning form, or its Free form if it is the last letter: nothing can attach to it from the right."
+      },
+      "translit": "",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 3"
+    },
+    {
+      "id": "ch01-c101",
+      "front": {
+        "ar": "",
+        "en": "Why do د and similar letters show only 2 different shapes for 4 positions?"
+      },
+      "back": {
+        "ar": "",
+        "en": "They cannot connect on the left, so Beginning looks like Free (د) and Middle looks like End (ـد)."
+      },
+      "translit": "",
+      "tags": [
+        "non-connector",
+        "forms"
+      ],
+      "source": "p. 3"
+    },
+    {
+      "id": "ch01-c102",
+      "front": {
+        "ar": "بَابٌ",
+        "en": "Why is the last ب written in its Free form?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ا cannot join to the left, so the ب after it stands alone: بـا + ب."
+      },
+      "translit": "baa bun",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 12"
+    },
+    {
+      "id": "ch01-c103",
+      "front": {
+        "ar": "ذَهَبَ",
+        "en": "Why does ه take its Beginning form here?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ذ is a non-connector, so ه starts a new piece: ذ + هـب."
+      },
+      "translit": "dha ha ba",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 66"
+    },
+    {
+      "id": "ch01-c104",
+      "front": {
+        "ar": "كِتَابٌ",
+        "en": "Which letter splits this word into two pieces?"
+      },
+      "back": {
+        "ar": "ا",
+        "en": "Alif: كتا + ب. A gap after a non-connector is not a new word."
+      },
+      "translit": "ki taa bun",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 67"
+    },
+    {
+      "id": "ch01-c105",
+      "front": {
+        "ar": "مَسْتُورٌ",
+        "en": "Which letter splits this word into two pieces?"
+      },
+      "back": {
+        "ar": "و",
+        "en": "Waaw: مستو + ر, so ر stands in its Free form."
+      },
+      "translit": "mas tuu run",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "p. 69"
+    },
+    {
+      "id": "ch01-c106",
+      "front": {
+        "ar": "",
+        "en": "Green link vs red broken link: what do they mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Green link = the letter can join on that side. Red broken link = it cannot join on that side."
+      },
+      "translit": "",
+      "tags": [
+        "non-connector"
+      ],
+      "source": "pp. 3-4"
+    },
+    {
+      "id": "ch01-c107",
+      "front": {
+        "ar": "ب",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot below · Baaʔ /b/ · same tooth as ت ث ن ي"
+      },
+      "translit": "baaʔ",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 11"
+    },
+    {
+      "id": "ch01-c108",
+      "front": {
+        "ar": "ت",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "2 dots above · Taaʔ /t/ · same tooth as ب ث ن ي"
+      },
+      "translit": "taaʔ",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 13"
+    },
+    {
+      "id": "ch01-c109",
+      "front": {
+        "ar": "ث",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "3 dots above · Thaaʔ /th/ · same tooth as ب ت ن ي"
+      },
+      "translit": "thaaʔ",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 15"
+    },
+    {
+      "id": "ch01-c110",
+      "front": {
+        "ar": "ج",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot below the bowl · Jiim /j/ · ح has none, خ has 1 above"
+      },
+      "translit": "jiim",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 17"
+    },
+    {
+      "id": "ch01-c111",
+      "front": {
+        "ar": "خ",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Khaaʔ /kh/ · ح has none, ج has 1 below"
+      },
+      "translit": "khaaʔ",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 21"
+    },
+    {
+      "id": "ch01-c112",
+      "front": {
+        "ar": "ذ",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Dhaal /dh/ · plain twin: د"
+      },
+      "translit": "dhaal",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 25"
+    },
+    {
+      "id": "ch01-c113",
+      "front": {
+        "ar": "ز",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Zaay /z/ · plain twin: ر"
+      },
+      "translit": "zaay",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 29"
+    },
+    {
+      "id": "ch01-c114",
+      "front": {
+        "ar": "ش",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "3 dots above · Shiin /sh/ · plain twin: س"
+      },
+      "translit": "shiin",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 33"
+    },
+    {
+      "id": "ch01-c115",
+      "front": {
+        "ar": "ض",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Ḍaad /ḍ/ · plain twin: ص"
+      },
+      "translit": "ḍaad",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 37"
+    },
+    {
+      "id": "ch01-c116",
+      "front": {
+        "ar": "ظ",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Ẓaaʔ /ẓ/ · plain twin: ط"
+      },
+      "translit": "ẓaaʔ",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-c117",
+      "front": {
+        "ar": "غ",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Ghayn /gh/ · plain twin: ع"
+      },
+      "translit": "ghayn",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-c118",
+      "front": {
+        "ar": "ف",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Faaʔ /f/ · ق has 2 dots"
+      },
+      "translit": "faaʔ",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 47"
+    },
+    {
+      "id": "ch01-c119",
+      "front": {
+        "ar": "ق",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "2 dots above · Qaaf /q/ · ف has 1 dot"
+      },
+      "translit": "qaaf",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-c120",
+      "front": {
+        "ar": "ن",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "1 dot above · Nuun /n/ · ب has 1 dot below"
+      },
+      "translit": "nuun",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-c121",
+      "front": {
+        "ar": "ي",
+        "en": "Dots: how many, and where?"
+      },
+      "back": {
+        "ar": "",
+        "en": "2 dots below · Yaaʔ /y/ · ت has 2 dots above"
+      },
+      "translit": "yaaʔ",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-c122",
+      "front": {
+        "ar": "",
+        "en": "Which letters of the alphabet have no dots at all?"
+      },
+      "back": {
+        "ar": "",
+        "en": "أ ح د ر س ص ط ع ك ل م ه و (13 letters)"
+      },
+      "translit": "",
+      "tags": [
+        "dots"
+      ],
+      "source": "p. 7"
+    },
+    {
+      "id": "ch01-c123",
+      "front": {
+        "ar": "ـبـ",
+        "en": "This tooth could be 5 letters. Which?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ب ت ث ن ي -- only the dots tell them apart in the Beginning and Middle forms."
+      },
+      "translit": "",
+      "tags": [
+        "dots",
+        "look-alike"
+      ],
+      "source": "pp. 11-63"
+    },
+    {
+      "id": "ch01-c124",
+      "front": {
+        "ar": "",
+        "en": "د or ر: how do you tell them apart?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Daal (د) is angled and sits on the line; Raaʔ (ر) curves down below the line."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "pp. 23-28"
+    },
+    {
+      "id": "ch01-c125",
+      "front": {
+        "ar": "",
+        "en": "ذ or ز: how do you tell them apart?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Both have 1 dot above. Dhaal (ذ) is the angled د shape; Zaay (ز) is the curved ر shape."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "pp. 25-30"
+    },
+    {
+      "id": "ch01-c126",
+      "front": {
+        "ar": "",
+        "en": "Final ـن or final ـب?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ـن is a deep round bowl with 1 dot above; ـب is flat with 1 dot below."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-c127",
+      "front": {
+        "ar": "",
+        "en": "Final ـف or final ـق?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ـف: flat tail, 1 dot. ـق: deep round bowl, 2 dots."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "pp. 47-49"
+    },
+    {
+      "id": "ch01-c128",
+      "front": {
+        "ar": "",
+        "en": "ل or ك?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Laam (ل) is a tall stroke ending in a round bowl. Kaaf (ك) has a flat base and a small mark inside."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "pp. 51-53"
+    },
+    {
+      "id": "ch01-c129",
+      "front": {
+        "ar": "",
+        "en": "ـحـ ـجـ ـخـ: which is which?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Look for the dot: none = ح (ḥ), below = ج (j), above = خ (kh)."
+      },
+      "translit": "",
+      "tags": [
+        "look-alike"
+      ],
+      "source": "pp. 17-22"
+    },
+    {
+      "id": "ch01-c130",
+      "front": {
+        "ar": "",
+        "en": "ح vs ه: same sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. ه is English h. ح is ḥ -- the dot under h marks a sound English does not have."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "pp. 5-59"
+    },
+    {
+      "id": "ch01-c131",
+      "front": {
+        "ar": "",
+        "en": "س vs ص: same sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. س is English s. ص is ṣ, a sound without an English equivalent (dotted s)."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "pp. 5-6"
+    },
+    {
+      "id": "ch01-c132",
+      "front": {
+        "ar": "",
+        "en": "د vs ض: same sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. د is English d. ض is ḍ, a sound without an English equivalent (dotted d)."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "pp. 5-6"
+    },
+    {
+      "id": "ch01-c133",
+      "front": {
+        "ar": "",
+        "en": "ت vs ط: same sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. ت is English t. ط is ṭ (dotted t)."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "p. 39"
+    },
+    {
+      "id": "ch01-c134",
+      "front": {
+        "ar": "",
+        "en": "ذ / ز vs ظ: same sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. ذ is dh, ز is z. ظ is ẓ (dotted z)."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-c135",
+      "front": {
+        "ar": "",
+        "en": "ك vs ق: same sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. ك is k. ق is q, its own sound."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "pp. 49-51"
+    },
+    {
+      "id": "ch01-c136",
+      "front": {
+        "ar": "",
+        "en": "ع vs أ: what is the difference in the book's symbols?"
+      },
+      "back": {
+        "ar": "",
+        "en": "ع = ʿ, a special symbol for a sound with no English equivalent. أ = ʔ. Two different sounds."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "p. 6"
+    },
+    {
+      "id": "ch01-c137",
+      "front": {
+        "ar": "",
+        "en": "What does a dot under a transliteration letter (ḥ ṣ ḍ ṭ ẓ) mean?"
+      },
+      "back": {
+        "ar": "",
+        "en": "The Arabic sound does not exist in English; the dotted letter is the closest English counterpart."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "pp. 5-6"
+    },
+    {
+      "id": "ch01-c138",
+      "front": {
+        "ar": "",
+        "en": "How should a beginner treat the hard Arabic sounds?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Don't worry about the exact sound yet. Listen, imitate, and link each sound to its shape."
+      },
+      "translit": "",
+      "tags": [
+        "hard-sound"
+      ],
+      "source": "p. 6"
+    },
+    {
+      "id": "ch01-c139",
+      "front": {
+        "ar": "",
+        "en": "How many letters does Arabic have?"
+      },
+      "back": {
+        "ar": "",
+        "en": "28 letters"
+      },
+      "translit": "",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 1"
+    },
+    {
+      "id": "ch01-c140",
+      "front": {
+        "ar": "",
+        "en": "In Arabic, how are the short vowels written?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Not with letters: you write the consonants and show vowels with diacritics above or below each letter."
+      },
+      "translit": "",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 1"
+    },
+    {
+      "id": "ch01-c141",
+      "front": {
+        "ar": "عِقْدٌ",
+        "en": "What does this word mean? (compare عَقْدٌ)"
+      },
+      "back": {
+        "ar": "",
+        "en": "Necklace. Kasrah under ع. With fatḥah, عَقْدٌ = contract: one mark changes the meaning."
+      },
+      "translit": "ʿiq dun",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 1"
+    },
+    {
+      "id": "ch01-c142",
+      "front": {
+        "ar": "عَقْدٌ",
+        "en": "What does this word mean? (compare عِقْدٌ)"
+      },
+      "back": {
+        "ar": "",
+        "en": "Contract. Fatḥah on ع. With kasrah, عِقْدٌ = necklace."
+      },
+      "translit": "ʿaq dun",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 1"
+    },
+    {
+      "id": "ch01-c143",
+      "front": {
+        "ar": "مُحَمَّدٌ رَسُولُ اللَّه",
+        "en": "Where do you start reading?"
+      },
+      "back": {
+        "ar": "",
+        "en": "At the right edge, moving left. An Arabic book also opens from the right."
+      },
+      "translit": "",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 2"
+    },
+    {
+      "id": "ch01-c144",
+      "front": {
+        "ar": "",
+        "en": "What are the 4 positions (variations) of every letter?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Beginning, Middle, End, and Free (on its own)."
+      },
+      "translit": "",
+      "tags": [
+        "intro",
+        "forms"
+      ],
+      "source": "p. 3"
+    },
+    {
+      "id": "ch01-c145",
+      "front": {
+        "ar": "",
+        "en": "Which matters more right now: a letter's name or its sound?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Its sound -- that is what you use to read words. Names are good to know but not strictly necessary yet."
+      },
+      "translit": "",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 4"
+    },
+    {
+      "id": "ch01-c146",
+      "front": {
+        "ar": "",
+        "en": "Which direction do you draw an Arabic letter?"
+      },
+      "back": {
+        "ar": "",
+        "en": "From right to left, following the red numbered writing guide around each letter."
+      },
+      "translit": "",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 4"
+    },
+    {
+      "id": "ch01-c147",
+      "front": {
+        "ar": "",
+        "en": "Pen and paper or keyboard for learning?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Pen and paper: writing and linking letters by hand speeds up learning."
+      },
+      "translit": "",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 5"
+    },
+    {
+      "id": "ch01-c148",
+      "front": {
+        "ar": "حَكِيمًا",
+        "en": "The book shows this word in two calligraphy styles. Same word?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Yes. Calligraphy can make the same letter look slightly different, especially in the Quran."
+      },
+      "translit": "ḥa kii man",
+      "tags": [
+        "intro"
+      ],
+      "source": "p. 5"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch01-q001",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ث"
+      },
+      "options": [
+        {
+          "en": "Taaʔ"
+        },
+        {
+          "en": "Thaaʔ"
+        },
+        {
+          "en": "Baaʔ"
+        },
+        {
+          "en": "Nuun"
+        }
+      ],
+      "correct": 1,
+      "explanation": "3 dots above = Thaaʔ (th). Taaʔ has 2, Nuun 1 above, Baaʔ 1 below.",
+      "source": "p. 15"
+    },
+    {
+      "id": "ch01-q002",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "خ"
+      },
+      "options": [
+        {
+          "en": "Ḥaaʔ"
+        },
+        {
+          "en": "Jiim"
+        },
+        {
+          "en": "Khaaʔ"
+        },
+        {
+          "en": "Ghayn"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Dot above the bowl = Khaaʔ (kh). Ḥaaʔ has no dot, Jiim has it below.",
+      "source": "p. 21"
+    },
+    {
+      "id": "ch01-q003",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ذ"
+      },
+      "options": [
+        {
+          "en": "Dhaal"
+        },
+        {
+          "en": "Daal"
+        },
+        {
+          "en": "Zaay"
+        },
+        {
+          "en": "Raaʔ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Angled د shape + 1 dot = Dhaal (dh). Zaay is the curved ر shape with a dot.",
+      "source": "p. 25"
+    },
+    {
+      "id": "ch01-q004",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ز"
+      },
+      "options": [
+        {
+          "en": "Raaʔ"
+        },
+        {
+          "en": "Dhaal"
+        },
+        {
+          "en": "Zaay"
+        },
+        {
+          "en": "Nuun"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Curved ر shape + 1 dot = Zaay (z).",
+      "source": "p. 29"
+    },
+    {
+      "id": "ch01-q005",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ش"
+      },
+      "options": [
+        {
+          "en": "Siin"
+        },
+        {
+          "en": "Shiin"
+        },
+        {
+          "en": "Thaaʔ"
+        },
+        {
+          "en": "Ṣaad"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Three teeth + 3 dots = Shiin (sh). Siin has no dots.",
+      "source": "p. 33"
+    },
+    {
+      "id": "ch01-q006",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ض"
+      },
+      "options": [
+        {
+          "en": "Ṣaad"
+        },
+        {
+          "en": "Ḍaad"
+        },
+        {
+          "en": "Ẓaaʔ"
+        },
+        {
+          "en": "Faaʔ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ص shape + 1 dot = Ḍaad (ḍ).",
+      "source": "p. 37"
+    },
+    {
+      "id": "ch01-q007",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ظ"
+      },
+      "options": [
+        {
+          "en": "Ṭaaʔ"
+        },
+        {
+          "en": "Ḍaad"
+        },
+        {
+          "en": "Ẓaaʔ"
+        },
+        {
+          "en": "Kaaf"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ط shape + 1 dot = Ẓaaʔ (ẓ).",
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-q008",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "غ"
+      },
+      "options": [
+        {
+          "en": "ʿayn"
+        },
+        {
+          "en": "Ghayn"
+        },
+        {
+          "en": "Faaʔ"
+        },
+        {
+          "en": "Khaaʔ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ع shape + 1 dot = Ghayn (gh).",
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-q009",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ق"
+      },
+      "options": [
+        {
+          "en": "Faaʔ"
+        },
+        {
+          "en": "Kaaf"
+        },
+        {
+          "en": "Qaaf"
+        },
+        {
+          "en": "Waaw"
+        }
+      ],
+      "correct": 2,
+      "explanation": "2 dots and a deep bowl = Qaaf (q). Faaʔ has 1 dot.",
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-q010",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ن"
+      },
+      "options": [
+        {
+          "en": "Baaʔ"
+        },
+        {
+          "en": "Nuun"
+        },
+        {
+          "en": "Taaʔ"
+        },
+        {
+          "en": "Yaaʔ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Round bowl with 1 dot above = Nuun (n).",
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-q011",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ي"
+      },
+      "options": [
+        {
+          "en": "Taaʔ"
+        },
+        {
+          "en": "Yaaʔ"
+        },
+        {
+          "en": "Nuun"
+        },
+        {
+          "en": "Baaʔ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "2 dots below = Yaaʔ (y). Taaʔ's 2 dots are above.",
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-q012",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ه"
+      },
+      "options": [
+        {
+          "en": "Ḥaaʔ"
+        },
+        {
+          "en": "Haaʔ"
+        },
+        {
+          "en": "Miim"
+        },
+        {
+          "en": "Waaw"
+        }
+      ],
+      "correct": 1,
+      "explanation": "This round shape is Haaʔ (h). Ḥaaʔ is ح.",
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-q013",
+      "prompt": {
+        "en": "What is this letter called?",
+        "ar": "ع"
+      },
+      "options": [
+        {
+          "en": "ʿayn"
+        },
+        {
+          "en": "Ghayn"
+        },
+        {
+          "en": "Ḥaaʔ"
+        },
+        {
+          "en": "Alif"
+        }
+      ],
+      "correct": 0,
+      "explanation": "No dot = ʿayn (ʿ). With a dot it would be Ghayn.",
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-q014",
+      "prompt": {
+        "en": "Which letter makes the sound /ḥ/?"
+      },
+      "options": [
+        {
+          "ar": "ه"
+        },
+        {
+          "ar": "ح"
+        },
+        {
+          "ar": "خ"
+        },
+        {
+          "ar": "ج"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ḥ (dotted h) = ح. ه is plain h, خ is kh.",
+      "source": "p. 19"
+    },
+    {
+      "id": "ch01-q015",
+      "prompt": {
+        "en": "Which letter makes the sound /ṣ/?"
+      },
+      "options": [
+        {
+          "ar": "س"
+        },
+        {
+          "ar": "ض"
+        },
+        {
+          "ar": "ص"
+        },
+        {
+          "ar": "ش"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ṣ (dotted s) = ص. س is plain s, ض is ḍ.",
+      "source": "p. 35"
+    },
+    {
+      "id": "ch01-q016",
+      "prompt": {
+        "en": "Which letter makes the sound /q/?"
+      },
+      "options": [
+        {
+          "ar": "ك"
+        },
+        {
+          "ar": "ق"
+        },
+        {
+          "ar": "ف"
+        },
+        {
+          "ar": "غ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "q = ق (2 dots). ك is k, ف is f.",
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-q017",
+      "prompt": {
+        "en": "Which letter makes the sound /ʿ/?"
+      },
+      "options": [
+        {
+          "ar": "أ"
+        },
+        {
+          "ar": "غ"
+        },
+        {
+          "ar": "ه"
+        },
+        {
+          "ar": "ع"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ʿ = ع, the book's special symbol. أ is ʔ, غ is gh.",
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-q018",
+      "prompt": {
+        "en": "Which letter makes the sound /ẓ/?"
+      },
+      "options": [
+        {
+          "ar": "ظ"
+        },
+        {
+          "ar": "ط"
+        },
+        {
+          "ar": "ز"
+        },
+        {
+          "ar": "ذ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ẓ (dotted z) = ظ. ز is plain z, ذ is dh.",
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-q019",
+      "prompt": {
+        "en": "Which letter makes the sound /ḍ/?"
+      },
+      "options": [
+        {
+          "ar": "د"
+        },
+        {
+          "ar": "ض"
+        },
+        {
+          "ar": "ص"
+        },
+        {
+          "ar": "ذ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ḍ (dotted d) = ض. د is plain d.",
+      "source": "p. 37"
+    },
+    {
+      "id": "ch01-q020",
+      "prompt": {
+        "en": "Which letter makes the sound /ṭ/?"
+      },
+      "options": [
+        {
+          "ar": "ت"
+        },
+        {
+          "ar": "ظ"
+        },
+        {
+          "ar": "ط"
+        },
+        {
+          "ar": "ث"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ṭ (dotted t) = ط. ت is plain t.",
+      "source": "p. 39"
+    },
+    {
+      "id": "ch01-q021",
+      "prompt": {
+        "en": "Which letter makes the sound /dh/?"
+      },
+      "options": [
+        {
+          "ar": "ز"
+        },
+        {
+          "ar": "د"
+        },
+        {
+          "ar": "ظ"
+        },
+        {
+          "ar": "ذ"
+        }
+      ],
+      "correct": 3,
+      "explanation": "dh = ذ (Dhaal). ز is z, ظ is ẓ.",
+      "source": "p. 25"
+    },
+    {
+      "id": "ch01-q022",
+      "prompt": {
+        "en": "Which letter makes the sound /th/?"
+      },
+      "options": [
+        {
+          "ar": "ت"
+        },
+        {
+          "ar": "ث"
+        },
+        {
+          "ar": "س"
+        },
+        {
+          "ar": "ذ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "th = ث (3 dots). ذ is dh.",
+      "source": "p. 15"
+    },
+    {
+      "id": "ch01-q023",
+      "prompt": {
+        "en": "Which letter makes the sound /gh/?"
+      },
+      "options": [
+        {
+          "ar": "ع"
+        },
+        {
+          "ar": "غ"
+        },
+        {
+          "ar": "خ"
+        },
+        {
+          "ar": "ق"
+        }
+      ],
+      "correct": 1,
+      "explanation": "gh = غ (ع + 1 dot). خ is kh.",
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-q024",
+      "prompt": {
+        "en": "Which letter makes the sound /kh/?"
+      },
+      "options": [
+        {
+          "ar": "ح"
+        },
+        {
+          "ar": "ج"
+        },
+        {
+          "ar": "خ"
+        },
+        {
+          "ar": "ك"
+        }
+      ],
+      "correct": 2,
+      "explanation": "kh = خ (dot above). ح is ḥ.",
+      "source": "p. 21"
+    },
+    {
+      "id": "ch01-q025",
+      "prompt": {
+        "en": "Which letter makes the sound /h/?"
+      },
+      "options": [
+        {
+          "ar": "ح"
+        },
+        {
+          "ar": "ه"
+        },
+        {
+          "ar": "خ"
+        },
+        {
+          "ar": "ع"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Plain h = ه (Haaʔ). ح is the dotted ḥ.",
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-q026",
+      "prompt": {
+        "en": "Which form of Haaʔ is this?",
+        "ar": "ـهـ"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Middle form: joined on both sides. The tatweel line shows where it joins.",
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-q027",
+      "prompt": {
+        "en": "Which form of Haaʔ is this?",
+        "ar": "هـ"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Beginning form: joined on its left only. The tatweel line shows where it joins.",
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-q028",
+      "prompt": {
+        "en": "Which form of Haaʔ is this?",
+        "ar": "ـه"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 3,
+      "explanation": "End form: joined on its right only. The tatweel line shows where it joins.",
+      "source": "p. 59"
+    },
+    {
+      "id": "ch01-q029",
+      "prompt": {
+        "en": "Which form of ʿayn is this?",
+        "ar": "عـ"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Beginning form: joined on its left only. The tatweel line shows where it joins.",
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-q030",
+      "prompt": {
+        "en": "Which form of ʿayn is this?",
+        "ar": "ـعـ"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Middle form: joined on both sides. The tatweel line shows where it joins.",
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-q031",
+      "prompt": {
+        "en": "Which form of ʿayn is this?",
+        "ar": "ـع"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 3,
+      "explanation": "End form: joined on its right only. The tatweel line shows where it joins.",
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-q032",
+      "prompt": {
+        "en": "Which form of Kaaf is this?",
+        "ar": "ـك"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 3,
+      "explanation": "End form: joined on its right only. The tatweel line shows where it joins.",
+      "source": "p. 51"
+    },
+    {
+      "id": "ch01-q033",
+      "prompt": {
+        "en": "Which form of Yaaʔ is this?",
+        "ar": "ـي"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 3,
+      "explanation": "End form: joined on its right only. The tatweel line shows where it joins.",
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-q034",
+      "prompt": {
+        "en": "Which form of Miim is this?",
+        "ar": "مـ"
+      },
+      "options": [
+        {
+          "en": "Free"
+        },
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Beginning form: joined on its left only. The tatweel line shows where it joins.",
+      "source": "p. 55"
+    },
+    {
+      "id": "ch01-q035",
+      "prompt": {
+        "en": "Which letter is this form?",
+        "ar": "ـغـ"
+      },
+      "options": [
+        {
+          "ar": "ع"
+        },
+        {
+          "ar": "غ"
+        },
+        {
+          "ar": "ف"
+        },
+        {
+          "ar": "ق"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Middle form with a dot above the closed head = غ (Ghayn). ـفـ and ـقـ have round heads.",
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-q036",
+      "prompt": {
+        "en": "Which letter is this form?",
+        "ar": "ـنـ"
+      },
+      "options": [
+        {
+          "ar": "ب"
+        },
+        {
+          "ar": "ت"
+        },
+        {
+          "ar": "ن"
+        },
+        {
+          "ar": "ي"
+        }
+      ],
+      "correct": 2,
+      "explanation": "One dot above a tooth = ن (Nuun). ب has its dot below.",
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-q037",
+      "prompt": {
+        "en": "Which letter is this form?",
+        "ar": "ـقـ"
+      },
+      "options": [
+        {
+          "ar": "ف"
+        },
+        {
+          "ar": "ق"
+        },
+        {
+          "ar": "غ"
+        },
+        {
+          "ar": "و"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Round head with 2 dots = ق (Qaaf).",
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-q038",
+      "prompt": {
+        "en": "Which letter is this form?",
+        "ar": "ـطـ"
+      },
+      "options": [
+        {
+          "ar": "ظ"
+        },
+        {
+          "ar": "ك"
+        },
+        {
+          "ar": "ط"
+        },
+        {
+          "ar": "ل"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Tall stroke on a loop, no dot = ط (Ṭaaʔ).",
+      "source": "p. 39"
+    },
+    {
+      "id": "ch01-q039",
+      "prompt": {
+        "en": "Which letter does NOT join the letter after it?"
+      },
+      "options": [
+        {
+          "ar": "ب"
+        },
+        {
+          "ar": "ر"
+        },
+        {
+          "ar": "م"
+        },
+        {
+          "ar": "ل"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ر (Raaʔ) is one of the six non-connectors: ا د ذ ر ز و.",
+      "source": "p. 27"
+    },
+    {
+      "id": "ch01-q040",
+      "prompt": {
+        "en": "Which letter does NOT join the letter after it?"
+      },
+      "options": [
+        {
+          "ar": "ن"
+        },
+        {
+          "ar": "ي"
+        },
+        {
+          "ar": "و"
+        },
+        {
+          "ar": "ه"
+        }
+      ],
+      "correct": 2,
+      "explanation": "و (Waaw) has a red broken link on the left.",
+      "source": "p. 61"
+    },
+    {
+      "id": "ch01-q041",
+      "prompt": {
+        "en": "Which letter CAN join the letter after it?"
+      },
+      "options": [
+        {
+          "ar": "د"
+        },
+        {
+          "ar": "ز"
+        },
+        {
+          "ar": "ذ"
+        },
+        {
+          "ar": "ك"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ك joins on both sides; د ز ذ are non-connectors.",
+      "source": "p. 51"
+    },
+    {
+      "id": "ch01-q042",
+      "prompt": {
+        "en": "How many Arabic letters cannot join to the next letter?"
+      },
+      "options": [
+        {
+          "en": "4"
+        },
+        {
+          "en": "6"
+        },
+        {
+          "en": "8"
+        },
+        {
+          "en": "10"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Six: ا د ذ ر ز و.",
+      "source": "pp. 3-63"
+    },
+    {
+      "id": "ch01-q043",
+      "prompt": {
+        "en": "After ر, the next letter in the word takes which form?"
+      },
+      "options": [
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        },
+        {
+          "en": "Beginning (or Free if last)"
+        },
+        {
+          "en": "It joins ر as usual"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ر cannot connect on the left, so the next letter starts fresh.",
+      "source": "p. 3"
+    },
+    {
+      "id": "ch01-q044",
+      "prompt": {
+        "en": "Which letter splits this word into two pieces?",
+        "ar": "كِتَابٌ"
+      },
+      "options": [
+        {
+          "ar": "ك"
+        },
+        {
+          "ar": "ت"
+        },
+        {
+          "ar": "ا"
+        },
+        {
+          "ar": "ب"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ا (Alif) cannot join to the left: كتا + ب.",
+      "source": "p. 67"
+    },
+    {
+      "id": "ch01-q045",
+      "prompt": {
+        "en": "Why does ه start a new piece in this word?",
+        "ar": "ذَهَبَ"
+      },
+      "options": [
+        {
+          "en": "ذ is a non-connector"
+        },
+        {
+          "en": "ه never joins on the right"
+        },
+        {
+          "en": "ب is a non-connector"
+        },
+        {
+          "en": "It is a mistake"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ذ (Dhaal) cannot join to the left, so ه takes its Beginning form.",
+      "source": "p. 66"
+    },
+    {
+      "id": "ch01-q046",
+      "prompt": {
+        "en": "In this word, which form is the final ب?",
+        "ar": "بَابٌ"
+      },
+      "options": [
+        {
+          "en": "Beginning"
+        },
+        {
+          "en": "Middle"
+        },
+        {
+          "en": "End"
+        },
+        {
+          "en": "Free"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ا before it cannot join to the left, so ب stands alone in its Free form.",
+      "source": "p. 12"
+    },
+    {
+      "id": "ch01-q047",
+      "prompt": {
+        "en": "For د, which two positions look the same?"
+      },
+      "options": [
+        {
+          "en": "Beginning = Middle"
+        },
+        {
+          "en": "Beginning = Free, Middle = End"
+        },
+        {
+          "en": "All four differ"
+        },
+        {
+          "en": "End = Free"
+        }
+      ],
+      "correct": 1,
+      "explanation": "د cannot join to the left, so Beginning looks like Free and Middle like End.",
+      "source": "p. 3"
+    },
+    {
+      "id": "ch01-q048",
+      "prompt": {
+        "en": "A red broken link on a letter's left side means..."
+      },
+      "options": [
+        {
+          "en": "It cannot join the next letter"
+        },
+        {
+          "en": "It cannot join the previous letter"
+        },
+        {
+          "en": "It has no dots"
+        },
+        {
+          "en": "It is silent"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Red broken link = no connection on that side; green link = it can connect.",
+      "source": "pp. 3-4"
+    },
+    {
+      "id": "ch01-q049",
+      "prompt": {
+        "en": "How many dots, and where?",
+        "ar": "ت"
+      },
+      "options": [
+        {
+          "en": "1 below"
+        },
+        {
+          "en": "2 above"
+        },
+        {
+          "en": "2 below"
+        },
+        {
+          "en": "3 above"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ت: 2 dots above. 2 below would be ي.",
+      "source": "p. 13"
+    },
+    {
+      "id": "ch01-q050",
+      "prompt": {
+        "en": "How many dots, and where?",
+        "ar": "ي"
+      },
+      "options": [
+        {
+          "en": "2 above"
+        },
+        {
+          "en": "1 below"
+        },
+        {
+          "en": "2 below"
+        },
+        {
+          "en": "1 above"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ي: 2 dots below.",
+      "source": "p. 63"
+    },
+    {
+      "id": "ch01-q051",
+      "prompt": {
+        "en": "How many dots, and where?",
+        "ar": "ج"
+      },
+      "options": [
+        {
+          "en": "1 above"
+        },
+        {
+          "en": "none"
+        },
+        {
+          "en": "2 below"
+        },
+        {
+          "en": "1 below"
+        }
+      ],
+      "correct": 3,
+      "explanation": "ج: 1 dot below/inside the bowl. Above = خ, none = ح.",
+      "source": "p. 17"
+    },
+    {
+      "id": "ch01-q052",
+      "prompt": {
+        "en": "How many dots, and where?",
+        "ar": "ن"
+      },
+      "options": [
+        {
+          "en": "1 above"
+        },
+        {
+          "en": "1 below"
+        },
+        {
+          "en": "2 above"
+        },
+        {
+          "en": "none"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ن: 1 dot above. 1 below = ب.",
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-q053",
+      "prompt": {
+        "en": "How many dots, and where?",
+        "ar": "ق"
+      },
+      "options": [
+        {
+          "en": "1 above"
+        },
+        {
+          "en": "2 above"
+        },
+        {
+          "en": "3 above"
+        },
+        {
+          "en": "2 below"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ق: 2 dots above. ف has 1.",
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-q054",
+      "prompt": {
+        "en": "How many dots, and where?",
+        "ar": "ش"
+      },
+      "options": [
+        {
+          "en": "2 above"
+        },
+        {
+          "en": "none"
+        },
+        {
+          "en": "3 above"
+        },
+        {
+          "en": "1 above"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ش: 3 dots above. No dots = س.",
+      "source": "p. 33"
+    },
+    {
+      "id": "ch01-q055",
+      "prompt": {
+        "en": "Which letter has 3 dots above?"
+      },
+      "options": [
+        {
+          "ar": "ت"
+        },
+        {
+          "ar": "ث"
+        },
+        {
+          "ar": "ق"
+        },
+        {
+          "ar": "ي"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ث has 3 dots above; ت and ق have 2, ي has 2 below.",
+      "source": "p. 15"
+    },
+    {
+      "id": "ch01-q056",
+      "prompt": {
+        "en": "Which letter has NO dots?"
+      },
+      "options": [
+        {
+          "ar": "خ"
+        },
+        {
+          "ar": "ح"
+        },
+        {
+          "ar": "ج"
+        },
+        {
+          "ar": "غ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ح has no dot; ج below, خ above, غ above.",
+      "source": "p. 19"
+    },
+    {
+      "id": "ch01-q057",
+      "prompt": {
+        "en": "Adding one dot above ص gives which letter?"
+      },
+      "options": [
+        {
+          "ar": "ض"
+        },
+        {
+          "ar": "ظ"
+        },
+        {
+          "ar": "ش"
+        },
+        {
+          "ar": "ذ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ص + 1 dot = ض (Ḍaad). ط + 1 dot = ظ.",
+      "source": "p. 37"
+    },
+    {
+      "id": "ch01-q058",
+      "prompt": {
+        "en": "Adding one dot above ع gives which letter?"
+      },
+      "options": [
+        {
+          "ar": "خ"
+        },
+        {
+          "ar": "ف"
+        },
+        {
+          "ar": "غ"
+        },
+        {
+          "ar": "ق"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ع + 1 dot = غ (Ghayn).",
+      "source": "p. 45"
+    },
+    {
+      "id": "ch01-q059",
+      "prompt": {
+        "en": "Which letter curves down below the line?"
+      },
+      "options": [
+        {
+          "ar": "د"
+        },
+        {
+          "ar": "ر"
+        },
+        {
+          "ar": "ذ"
+        },
+        {
+          "ar": "ط"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ر curves below the line; د is angled and sits on it.",
+      "source": "p. 27"
+    },
+    {
+      "id": "ch01-q060",
+      "prompt": {
+        "en": "Which letter is this final form?",
+        "ar": "ـن"
+      },
+      "options": [
+        {
+          "ar": "ب"
+        },
+        {
+          "ar": "ن"
+        },
+        {
+          "ar": "ي"
+        },
+        {
+          "ar": "ت"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Deep round bowl + 1 dot above = final ن. Final ب is flat with a dot below.",
+      "source": "p. 57"
+    },
+    {
+      "id": "ch01-q061",
+      "prompt": {
+        "en": "Which letter is this final form?",
+        "ar": "ـق"
+      },
+      "options": [
+        {
+          "ar": "ف"
+        },
+        {
+          "ar": "ق"
+        },
+        {
+          "ar": "و"
+        },
+        {
+          "ar": "غ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Deep round bowl + 2 dots = final ق. Final ف is flat with 1 dot.",
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-q062",
+      "prompt": {
+        "en": "Which letter is this final form?",
+        "ar": "ـل"
+      },
+      "options": [
+        {
+          "ar": "ك"
+        },
+        {
+          "ar": "ا"
+        },
+        {
+          "ar": "ل"
+        },
+        {
+          "ar": "ط"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Tall stroke ending in a round bowl = final ل. Final ك has a flat base and an inner mark.",
+      "source": "p. 53"
+    },
+    {
+      "id": "ch01-q063",
+      "prompt": {
+        "en": "Which letter is NOT in this word? (Exercise 1 style)",
+        "ar": "اِسْتَمَعَ"
+      },
+      "options": [
+        {
+          "ar": "ش"
+        },
+        {
+          "ar": "س"
+        },
+        {
+          "ar": "ت"
+        },
+        {
+          "ar": "م"
+        }
+      ],
+      "correct": 0,
+      "explanation": "اِسْتَمَعَ = ا س ت م ع. ش looks like س but has 3 dots, so it is not there.",
+      "source": "p. 68"
+    },
+    {
+      "id": "ch01-q064",
+      "prompt": {
+        "en": "Which letter is NOT in this word? (Exercise 1 style)",
+        "ar": "كِتَابٌ"
+      },
+      "options": [
+        {
+          "ar": "ك"
+        },
+        {
+          "ar": "ث"
+        },
+        {
+          "ar": "ا"
+        },
+        {
+          "ar": "ب"
+        }
+      ],
+      "correct": 1,
+      "explanation": "كِتَابٌ = ك ت ا ب. ث (3 dots) is a look-alike of ت (2 dots).",
+      "source": "p. 67"
+    },
+    {
+      "id": "ch01-q065",
+      "prompt": {
+        "en": "What does the dot under ḥ, ṣ, ḍ, ṭ, ẓ tell you?"
+      },
+      "options": [
+        {
+          "en": "The sound does not exist in English; this is the closest English letter"
+        },
+        {
+          "en": "The letter has a dot under it in Arabic"
+        },
+        {
+          "en": "The sound is long"
+        },
+        {
+          "en": "The letter is silent"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The book marks sounds English lacks with a dotted version of the closest English letter.",
+      "source": "pp. 5-6"
+    },
+    {
+      "id": "ch01-q066",
+      "prompt": {
+        "en": "Which pair uses the book's special symbols (sounds not close to any English sound)?"
+      },
+      "options": [
+        {
+          "en": "ʿayn (ʿ) and Alif (ʔ)"
+        },
+        {
+          "en": "Ṣaad (ṣ) and Ḍaad (ḍ)"
+        },
+        {
+          "en": "Siin (s) and Shiin (sh)"
+        },
+        {
+          "en": "Khaaʔ (kh) and Ghayn (gh)"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ع and أ get the special symbols ʿ and ʔ; ṣ and ḍ are dotted English letters.",
+      "source": "p. 6"
+    },
+    {
+      "id": "ch01-q067",
+      "prompt": {
+        "en": "How is this letter transliterated?",
+        "ar": "ح"
+      },
+      "options": [
+        {
+          "en": "h"
+        },
+        {
+          "en": "ḥ"
+        },
+        {
+          "en": "kh"
+        },
+        {
+          "en": "j"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ح = ḥ (dotted h). Plain h is ه.",
+      "source": "p. 19"
+    },
+    {
+      "id": "ch01-q068",
+      "prompt": {
+        "en": "How is this letter transliterated?",
+        "ar": "ق"
+      },
+      "options": [
+        {
+          "en": "k"
+        },
+        {
+          "en": "q"
+        },
+        {
+          "en": "gh"
+        },
+        {
+          "en": "f"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ق = q. ك = k.",
+      "source": "p. 49"
+    },
+    {
+      "id": "ch01-q069",
+      "prompt": {
+        "en": "How is this letter transliterated?",
+        "ar": "ع"
+      },
+      "options": [
+        {
+          "en": "ʔ"
+        },
+        {
+          "en": "gh"
+        },
+        {
+          "en": "ʿ"
+        },
+        {
+          "en": "h"
+        }
+      ],
+      "correct": 2,
+      "explanation": "ع = ʿ, the book's special symbol. ʔ is alif.",
+      "source": "p. 43"
+    },
+    {
+      "id": "ch01-q070",
+      "prompt": {
+        "en": "How is this letter transliterated?",
+        "ar": "ظ"
+      },
+      "options": [
+        {
+          "en": "ẓ"
+        },
+        {
+          "en": "ṭ"
+        },
+        {
+          "en": "z"
+        },
+        {
+          "en": "dh"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ظ = ẓ (dotted z). ط = ṭ, ز = z, ذ = dh.",
+      "source": "p. 41"
+    },
+    {
+      "id": "ch01-q071",
+      "prompt": {
+        "en": "What is the book's advice on the special Arabic sounds for a beginner?"
+      },
+      "options": [
+        {
+          "en": "Master the exact sound before moving on"
+        },
+        {
+          "en": "Don't worry about the exact sound yet; link each sound to its shape"
+        },
+        {
+          "en": "Replace them with English sounds"
+        },
+        {
+          "en": "Skip those letters"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The book says not to worry about exact pronunciation at this stage; listen, imitate, and link sound to shape.",
+      "source": "p. 6"
+    },
+    {
+      "id": "ch01-q072",
+      "prompt": {
+        "en": "How many letters are in the Arabic alphabet?"
+      },
+      "options": [
+        {
+          "en": "26"
+        },
+        {
+          "en": "28"
+        },
+        {
+          "en": "29"
+        },
+        {
+          "en": "30"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Arabic has 28 letters.",
+      "source": "p. 1"
+    },
+    {
+      "id": "ch01-q073",
+      "prompt": {
+        "en": "Which word means 'necklace'?"
+      },
+      "options": [
+        {
+          "ar": "عِقْدٌ"
+        },
+        {
+          "ar": "عَقْدٌ"
+        },
+        {
+          "ar": "عُقْدٌ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "عِقْدٌ (kasrah under ع) = necklace; عَقْدٌ (fatḥah) = contract.",
+      "source": "p. 1"
+    },
+    {
+      "id": "ch01-q074",
+      "prompt": {
+        "en": "How are vowels shown in written Arabic?"
+      },
+      "options": [
+        {
+          "en": "With extra letters, as in English"
+        },
+        {
+          "en": "With diacritics above or below the letters"
+        },
+        {
+          "en": "They are never shown"
+        },
+        {
+          "en": "With dots above or below the letters"
+        }
+      ],
+      "correct": 1,
+      "explanation": "You write the consonants; vowels are indicated by diacritics.",
+      "source": "p. 1"
+    },
+    {
+      "id": "ch01-q075",
+      "prompt": {
+        "en": "Which direction is Arabic written?"
+      },
+      "options": [
+        {
+          "en": "Left to right"
+        },
+        {
+          "en": "Right to left"
+        },
+        {
+          "en": "Right to left, but each word left to right"
+        },
+        {
+          "en": "Either way"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Arabic is written and read from right to left.",
+      "source": "p. 2"
+    },
+    {
+      "id": "ch01-q076",
+      "prompt": {
+        "en": "Which are the 4 positions of a letter in the book?"
+      },
+      "options": [
+        {
+          "en": "Beginning, Middle, End, Free"
+        },
+        {
+          "en": "Beginning, Middle, End, Joined"
+        },
+        {
+          "en": "Short, long, doubled, silent"
+        },
+        {
+          "en": "Free, Joined, Broken, End"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Every letter has a Beginning, Middle, End and Free (alone) variation.",
+      "source": "p. 3"
+    },
+    {
+      "id": "ch01-q077",
+      "prompt": {
+        "en": "What should you learn first about each letter?"
+      },
+      "options": [
+        {
+          "en": "Its name"
+        },
+        {
+          "en": "Its sound"
+        },
+        {
+          "en": "Its calligraphy style"
+        },
+        {
+          "en": "Its number value"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The sound is what you use to read; the name can come later.",
+      "source": "p. 4"
+    },
+    {
+      "id": "ch01-q078",
+      "prompt": {
+        "en": "Join these letters (Exercise 2): which word do they make?",
+        "ar": "س - ر - ق"
+      },
+      "options": [
+        {
+          "ar": "سرق"
+        },
+        {
+          "ar": "شرق"
+        },
+        {
+          "ar": "سرف"
+        },
+        {
+          "ar": "صرق"
+        }
+      ],
+      "correct": 0,
+      "explanation": "س + ر + ق = سرق. ر cannot join left, so ق stands Free. Shown unvowelled, as in the exercise.",
+      "source": "p. 66",
+      "plain": true
+    },
+    {
+      "id": "ch01-q079",
+      "prompt": {
+        "en": "Break this word into letters (Exercise 3 style; word from Exercise 2C.20).",
+        "ar": "مستور"
+      },
+      "options": [
+        {
+          "ar": "م + س + ت + و + ر"
+        },
+        {
+          "ar": "م + س + ب + و + ر"
+        },
+        {
+          "ar": "م + ش + ت + و + ر"
+        },
+        {
+          "ar": "م + س + ت + د + ر"
+        }
+      ],
+      "correct": 0,
+      "explanation": "م + س + ت + و + ر: the dots on ت are above (not ب), the teeth have no dots (س, not ش). Shown unvowelled, as in the exercise.",
+      "source": "p. 69",
+      "plain": true
+    },
+    {
+      "id": "ch01-q080",
+      "prompt": {
+        "en": "Break this word into letters (Exercise 3).",
+        "ar": "ظلال"
+      },
+      "options": [
+        {
+          "ar": "ض + ل + ا + ل"
+        },
+        {
+          "ar": "ظ + ل + ا + ل"
+        },
+        {
+          "ar": "ط + ل + ا + ل"
+        },
+        {
+          "ar": "ظ + ك + ا + ل"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ظ (tall stroke + dot) + ل + ا + ل. The book's key prints ض here, a misprint. Shown unvowelled, as in the exercise.",
+      "source": "p. 71",
+      "plain": true
+    }
+  ]
+}

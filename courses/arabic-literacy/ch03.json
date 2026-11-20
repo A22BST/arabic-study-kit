@@ -1,0 +1,2175 @@
+{
+  "chapter": 3,
+  "title": "Long Vowels",
+  "bookPages": "87-98",
+  "sheet": {
+    "kicker": "ARABIC101 / CHAPTER 03",
+    "title": "Long vowels, made simple.",
+    "subtitle": "A visual guide to recognizing, reading and writing Arabic long vowels · Book pp. 87-92",
+    "coreIdeaLabel": "THE ONE RULE TO REMEMBER",
+    "coreIdea": "Match the **short vowel** to the next **long-vowel letter**. Extend the sound to about **two beats**.",
+    "coreIdeaNote": "The long-vowel letter is not pronounced as an additional consonant or syllable.",
+    "sections": [
+      {
+        "heading": "Three vowel pairs",
+        "bookPages": "87",
+        "note": "Look at the sign on the previous letter",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 3,
+            "items": [
+              {
+                "title": "FATḤAH + ALIF",
+                "kicker": "a -> aa",
+                "arFrom": "بَ",
+                "ar": "بَا",
+                "caption": "ba · 1 beat  ->  **baa · 2 beats**",
+                "note": "The alif ا has no vowel mark of its own."
+              },
+              {
+                "title": "ḌAMMAH + WAAW",
+                "kicker": "u -> uu",
+                "arFrom": "بُ",
+                "ar": "بُو",
+                "caption": "bu · 1 beat  ->  **buu · 2 beats**",
+                "note": "The waaw و has no vowel mark of its own."
+              },
+              {
+                "title": "KASRAH + YAAʔ",
+                "kicker": "i -> ii",
+                "arFrom": "بِ",
+                "ar": "بِي",
+                "caption": "bi · 1 beat  ->  **bii · 2 beats**",
+                "note": "The yaaʔ ي has no vowel mark of its own."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Is it really a long vowel?",
+        "bookPages": "87",
+        "note": "Use this quick three-step test",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              {
+                "title": "Find",
+                "text": "ا / و / ي in the word (never as its first letter)."
+              },
+              {
+                "title": "Look right in Arabic",
+                "text": "Does the letter before it carry the matching mark: fatḥah before ا, ḍammah before و, kasrah before ي?"
+              },
+              {
+                "title": "Check the letter",
+                "text": "It has no mark of its own -> extend the earlier vowel."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Waaw and yaaʔ can also be consonants",
+        "bookPages": "91-92",
+        "note": "They do NOT always mean uu / ii",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "Waaw و · /uu/ or /w/ ?",
+                "rows": [
+                  {
+                    "label": "Long vowel -- preceding ḍammah",
+                    "ar": "رُوحُ",
+                    "translit": "ruu ḥu"
+                  },
+                  {
+                    "label": "Consonant -- its own fatḥah",
+                    "ar": "وَلَدْ",
+                    "translit": "wa lad"
+                  }
+                ],
+                "note": "A fatḥah + وْ makes **aw** (as in مَوْلِدَ /maw li da/) -- not long uu."
+              },
+              {
+                "title": "Yaaʔ ي · /ii/ or /y/ ?",
+                "rows": [
+                  {
+                    "label": "Long vowel -- preceding kasrah",
+                    "ar": "فِيلُ",
+                    "translit": "fii lu"
+                  },
+                  {
+                    "label": "Consonant -- its own fatḥah",
+                    "ar": "يَأْكُلُ",
+                    "translit": "yaʔ ku lu"
+                  }
+                ],
+                "note": "A fatḥah + يْ makes **ay** (as in بَيْعُ /bay ʿu/) -- not long ii."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Two easy-to-miss distinctions",
+        "bookPages": "89-90",
+        "note": "From book pp. 89-90",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "Alif ا versus alif with hamzah أ",
+                "caption": "قَالَ = **qaa la** (long vowel); ثَأْرَ = **thaʔ ra** (hamzah sound ʔ).",
+                "note": "Don't treat أ as an ordinary long alif: ثَارَ /thaa ra/ (to rebel) is a different word from ثَأْرَ (revenge)."
+              },
+              {
+                "title": "End-of-word alif maqsuurah ى",
+                "caption": "هُدَى is **hu daa**, not \"hu day\". The undotted ى is a long aa here; it is not the same as dotted ي.",
+                "note": "Same sound as ا, but these words are always spelled with ى: عَلَى, أَذَى, هُدَى."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Hear the length, not an extra syllable",
+        "bookPages": "88",
+        "blocks": [
+          {
+            "type": "cards",
+            "columns": 2,
+            "items": [
+              {
+                "title": "SHORT",
+                "ar": "بَ",
+                "translit": "ba",
+                "caption": "**1 beat** · short a"
+              },
+              {
+                "title": "LONG",
+                "ar": "بَا",
+                "translit": "baa",
+                "caption": "**2 beats** · one syllable · long aa"
+              }
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Avoid this mistake:",
+            "text": "بَا is **baa** -- not **ba + ʔa**. The long vowel extends the existing sound; it is not a second spoken letter."
+          }
+        ]
+      }
+    ],
+    "exercisePages": "93-97",
+    "exerciseTitle": "Use it on the exercises.",
+    "exerciseIntro": "Six exercise types, six practical methods. The book uses **aa / uu / ii** to show long vowels in its Latin transcription.",
+    "exerciseTips": [
+      {
+        "title": "Read the task",
+        "text": "Are you spotting, adding marks, writing or transcribing?"
+      },
+      {
+        "title": "Match the pair",
+        "text": "fatḥah + ا · ḍammah + و · kasrah + ي"
+      },
+      {
+        "title": "Read smoothly",
+        "text": "Long vowel = one held sound, about two beats."
+      }
+    ],
+    "exerciseGuide": [
+      {
+        "exercise": 1,
+        "pages": "93",
+        "task": "Circle every word containing a long vowel",
+        "method": "Scan for one of the three **matching pairs**. A word still qualifies if it has at least one long vowel. Fatḥah + وْ / يْ (قَوْلَ, شَيْءُ) is aw / ay, not long.",
+        "example": {
+          "ar": "كِتَابْ",
+          "translit": "ki taab",
+          "note": "YES · contains تَا"
+        },
+        "contrast": {
+          "ar": "دَرَسَ",
+          "translit": "da ra sa",
+          "note": "NO · only short a sounds"
+        }
+      },
+      {
+        "exercise": 2,
+        "pages": "93-94",
+        "task": "Add diacritics from the transcription, then circle long, short or both",
+        "method": "The transcription tells you where the marks go. Circle **long** for aa / uu / ii and **short** for a short syllable; most words get **both**, like the book's example سَمِيعْ /sa miiʿ/.",
+        "example": {
+          "ar": "يَكْتُبُونْ",
+          "translit": "yak tu buun",
+          "note": "LONG + SHORT · both circled"
+        },
+        "contrast": {
+          "ar": "يَسْمَعُ",
+          "translit": "yas ma ʿu",
+          "note": "SHORT only · no aa / uu / ii"
+        }
+      },
+      {
+        "exercise": 3,
+        "pages": "95",
+        "task": "Add the marks to an already written word",
+        "method": "Keep the given letters. Use Latin **aa, uu, ii** to locate a long vowel, then put its matching mark on the letter before it. Fill in all other short vowels, sukuun and tanwiin too.",
+        "example": {
+          "ar": "كِتَابٌ",
+          "translit": "ki taa bun",
+          "note": "Book example · taa = تَا; -bun = بٌ"
+        },
+        "contrast": {
+          "ar": "جَامِعَةٌ",
+          "translit": "jaa mi ʿa tun",
+          "note": "Item 4 · fatḥah on ج before ا"
+        }
+      },
+      {
+        "exercise": 4,
+        "pages": "96",
+        "task": "Write the Arabic word from Latin sounds",
+        "method": "Write **both letters and vowel marks**, one syllable at a time. Long aa / uu / ii = the long-vowel letter, not a repeated short mark; a doubled consonant takes shaddah.",
+        "example": {
+          "ar": "مَكْتُوبٌ",
+          "translit": "mak tuu bun",
+          "note": "Item 9 · تُو = long uu"
+        },
+        "contrast": {
+          "ar": "دَرَّسَ",
+          "translit": "dar ra sa",
+          "note": "Item 8 · rr = shaddah, no long vowel"
+        }
+      },
+      {
+        "exercise": 5,
+        "pages": "97",
+        "task": "Transcribe Arabic into Latin sounds",
+        "method": "Read the visible marks and find the long vowel. Write **aa / uu / ii** as one prolonged sound; keep short vowels short. Shaddah splits across two syllables (naj jaa run).",
+        "example": {
+          "ar": "بُيُوتٍ",
+          "translit": "bu yuu tin",
+          "note": "Item 6 · يُو = consonant y + long uu"
+        },
+        "contrast": {
+          "ar": "حَمَّامِي",
+          "translit": "ḥam maa mii",
+          "note": "Item 3 · long aa and final ii"
+        }
+      },
+      {
+        "exercise": 6,
+        "pages": "97",
+        "task": "Match each Arabic word to its transcription",
+        "method": "Eliminate answers that have the wrong **vowel length**. Then compare consonants and endings to choose the correct lettered option.",
+        "example": {
+          "ar": "زَارِعُونَ",
+          "translit": "zaa ri ʿuu na",
+          "note": "Item 5 -> g · aa + uu long"
+        },
+        "contrast": {
+          "ar": "زُرَّاعْ",
+          "translit": "zur raaʿ",
+          "note": "Item 2 -> f, not c (iz raʿ)"
+        }
+      }
+    ],
+    "exerciseFooter": "**Long, short or both (Exercise 2)?** The answer key circles **long** for any aa / uu / ii and **short** for any short syllable, so most words get both (سَمِيعْ). Only all-short words like يَسْمَعُ get short alone."
+  },
+  "cards": [
+    {
+      "id": "ch03-c001",
+      "front": {
+        "ar": "",
+        "en": "Long vowel aa: which letter, and which short vowel must come before it?"
+      },
+      "back": {
+        "ar": "بَا",
+        "en": "Alif ا, preceded by fatḥah: baa"
+      },
+      "translit": "baa",
+      "tags": [
+        "rule",
+        "long-aa"
+      ],
+      "source": "pp. 87-88"
+    },
+    {
+      "id": "ch03-c002",
+      "front": {
+        "ar": "",
+        "en": "Long vowel uu: which letter, and which short vowel must come before it?"
+      },
+      "back": {
+        "ar": "رُوحُ",
+        "en": "Waaw و, preceded by ḍammah: ruu ḥu"
+      },
+      "translit": "ruu ḥu",
+      "tags": [
+        "rule",
+        "long-uu"
+      ],
+      "source": "pp. 87-91"
+    },
+    {
+      "id": "ch03-c003",
+      "front": {
+        "ar": "",
+        "en": "Long vowel ii: which letter, and which short vowel must come before it?"
+      },
+      "back": {
+        "ar": "فِيلُ",
+        "en": "Yaaʔ ي, preceded by kasrah: fii lu"
+      },
+      "translit": "fii lu",
+      "tags": [
+        "rule",
+        "long-ii"
+      ],
+      "source": "pp. 87-92"
+    },
+    {
+      "id": "ch03-c004",
+      "front": {
+        "ar": "",
+        "en": "Does a long-vowel letter (ا و ي) carry its own diacritic?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. The letter before it carries the matching short vowel; the long-vowel letter itself stays bare."
+      },
+      "translit": "",
+      "tags": [
+        "rule"
+      ],
+      "source": "p. 87"
+    },
+    {
+      "id": "ch03-c005",
+      "front": {
+        "ar": "",
+        "en": "Can a long vowel be the first letter of a word?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No. It must follow a consonant that carries the matching short vowel."
+      },
+      "translit": "",
+      "tags": [
+        "rule"
+      ],
+      "source": "p. 87"
+    },
+    {
+      "id": "ch03-c006",
+      "front": {
+        "ar": "",
+        "en": "How long is a long vowel?"
+      },
+      "back": {
+        "ar": "",
+        "en": "About twice a short vowel: fatḥah = 1 beat, long alif = 2 beats. Like bit vs beet: subtle, not exaggerated."
+      },
+      "translit": "",
+      "tags": [
+        "rule"
+      ],
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-c007",
+      "front": {
+        "ar": "بَا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "baa -- one syllable of 2 beats, not ba ʔa"
+      },
+      "translit": "baa",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-c008",
+      "front": {
+        "ar": "كِتَابُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ki taa bu -- three syllables; only taa is long"
+      },
+      "translit": "ki taa bu",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-c009",
+      "front": {
+        "ar": "فَاتِحَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "faa ti ḥa -- long aa (compare فَتَحَ fa ta ḥa)"
+      },
+      "translit": "faa ti ḥa",
+      "tags": [
+        "long-aa",
+        "contrast"
+      ],
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-c010",
+      "front": {
+        "ar": "فَتَحَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fa ta ḥa -- all short (compare فَاتِحَ faa ti ḥa)"
+      },
+      "translit": "fa ta ḥa",
+      "tags": [
+        "short",
+        "contrast"
+      ],
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-c011",
+      "front": {
+        "ar": "كَبِيرْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ka biir -- long ii (compare كَبِرْ ka bir)"
+      },
+      "translit": "ka biir",
+      "tags": [
+        "long-ii",
+        "contrast"
+      ],
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-c012",
+      "front": {
+        "ar": "كَبِرْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ka bir -- short i, no yaaʔ (compare كَبِيرْ ka biir)"
+      },
+      "translit": "ka bir",
+      "tags": [
+        "short",
+        "contrast"
+      ],
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-c013",
+      "front": {
+        "ar": "",
+        "en": "Which alif can be a long vowel: ا or أ?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Only alif without hamzah ا (/aa/). Alif with hamzah أ is a consonant with the sound /ʔ/."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "hamzah"
+      ],
+      "source": "p. 89"
+    },
+    {
+      "id": "ch03-c014",
+      "front": {
+        "ar": "ثَارَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "thaa ra -- to rebel (long aa, alif without hamzah)"
+      },
+      "translit": "thaa ra",
+      "tags": [
+        "long-aa",
+        "hamzah"
+      ],
+      "source": "p. 89"
+    },
+    {
+      "id": "ch03-c015",
+      "front": {
+        "ar": "ثَأْرَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "thaʔ ra -- revenge (hamzah with sukuun, no long vowel)"
+      },
+      "translit": "thaʔ ra",
+      "tags": [
+        "hamzah",
+        "contrast"
+      ],
+      "source": "p. 89"
+    },
+    {
+      "id": "ch03-c016",
+      "front": {
+        "ar": "بَاتَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "baa ta -- long alif in the middle"
+      },
+      "translit": "baa ta",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c017",
+      "front": {
+        "ar": "قَالَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "qaa la -- long alif in the middle"
+      },
+      "translit": "qaa la",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c018",
+      "front": {
+        "ar": "حَاقَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ḥaa qa -- long alif in the middle"
+      },
+      "translit": "ḥaa qa",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c019",
+      "front": {
+        "ar": "نَجَا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "na jaa -- long alif at the end"
+      },
+      "translit": "na jaa",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c020",
+      "front": {
+        "ar": "دَعَا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "da ʿaa -- long alif at the end"
+      },
+      "translit": "da ʿaa",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c021",
+      "front": {
+        "ar": "عَصَا",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʿa ṣaa -- long alif at the end"
+      },
+      "translit": "ʿa ṣaa",
+      "tags": [
+        "long-aa"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c022",
+      "front": {
+        "ar": "",
+        "en": "At the end of a word, long aa is sometimes written in a different shape. Which?"
+      },
+      "back": {
+        "ar": "ى",
+        "en": "ى -- like yaaʔ but without the two dots. Same sound as ا, but these words must always be spelled with ى."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "alif-maqsuurah"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c023",
+      "front": {
+        "ar": "هُدَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "hu daa -- final ى = long aa, not \"day\""
+      },
+      "translit": "hu daa",
+      "tags": [
+        "long-aa",
+        "alif-maqsuurah"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c024",
+      "front": {
+        "ar": "عَلَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʿa laa -- final ى = long aa (compare عَلِي ʿa lii)"
+      },
+      "translit": "ʿa laa",
+      "tags": [
+        "long-aa",
+        "alif-maqsuurah",
+        "contrast"
+      ],
+      "source": "pp. 90-92"
+    },
+    {
+      "id": "ch03-c025",
+      "front": {
+        "ar": "أَذَى",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʔa dhaa -- starts with hamzah, ends in long aa written ى"
+      },
+      "translit": "ʔa dhaa",
+      "tags": [
+        "long-aa",
+        "alif-maqsuurah",
+        "hamzah"
+      ],
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-c026",
+      "front": {
+        "ar": "رُوحُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ruu ḥu -- long waaw in the middle"
+      },
+      "translit": "ruu ḥu",
+      "tags": [
+        "long-uu"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c027",
+      "front": {
+        "ar": "ثَمُودَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tha muu da -- long waaw in the middle"
+      },
+      "translit": "tha muu da",
+      "tags": [
+        "long-uu"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c028",
+      "front": {
+        "ar": "قُبُورِ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "qu buu ri -- hear short qu vs long buu"
+      },
+      "translit": "qu buu ri",
+      "tags": [
+        "long-uu"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c029",
+      "front": {
+        "ar": "هُو",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "huu -- long waaw at the end"
+      },
+      "translit": "huu",
+      "tags": [
+        "long-uu"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c030",
+      "front": {
+        "ar": "يَدْعُو",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yad ʿuu -- long waaw at the end"
+      },
+      "translit": "yad ʿuu",
+      "tags": [
+        "long-uu"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c031",
+      "front": {
+        "ar": "يَنْجُو",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yan juu -- long waaw at the end"
+      },
+      "translit": "yan juu",
+      "tags": [
+        "long-uu"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c032",
+      "front": {
+        "ar": "",
+        "en": "When is و a consonant /w/ instead of long uu?"
+      },
+      "back": {
+        "ar": "",
+        "en": "When it has its own diacritic, or the letter before it has no ḍammah: وَلَدْ wa lad, مَوْلِدَ maw li da, وِرْدَ wir da."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "consonant"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c033",
+      "front": {
+        "ar": "وَلَدْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "wa lad -- و has its own fatḥah: consonant w"
+      },
+      "translit": "wa lad",
+      "tags": [
+        "consonant"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c034",
+      "front": {
+        "ar": "مَوْلِدَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "maw li da -- fatḥah + وْ = aw, not long uu. The book's Latin caption omits the final fatḥah."
+      },
+      "translit": "maw li da",
+      "tags": [
+        "consonant"
+      ],
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-c035",
+      "front": {
+        "ar": "فِيلُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "fii lu -- long yaaʔ in the middle"
+      },
+      "translit": "fii lu",
+      "tags": [
+        "long-ii"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c036",
+      "front": {
+        "ar": "حَكِيمُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ḥa kii mu -- long yaaʔ in the middle"
+      },
+      "translit": "ḥa kii mu",
+      "tags": [
+        "long-ii"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c037",
+      "front": {
+        "ar": "تِينُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "tii nu -- long yaaʔ in the middle"
+      },
+      "translit": "tii nu",
+      "tags": [
+        "long-ii"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c038",
+      "front": {
+        "ar": "هِي",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "hii -- long yaaʔ at the end"
+      },
+      "translit": "hii",
+      "tags": [
+        "long-ii"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c039",
+      "front": {
+        "ar": "رَضِي",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ra ḍii -- long yaaʔ at the end"
+      },
+      "translit": "ra ḍii",
+      "tags": [
+        "long-ii"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c040",
+      "front": {
+        "ar": "عَلِي",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ʿa lii -- dotted ي after kasrah = long ii (compare عَلَى ʿa laa)"
+      },
+      "translit": "ʿa lii",
+      "tags": [
+        "long-ii",
+        "contrast"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c041",
+      "front": {
+        "ar": "",
+        "en": "When is ي a consonant /y/ instead of long ii?"
+      },
+      "back": {
+        "ar": "",
+        "en": "When it has its own diacritic, or the letter before it has no kasrah: يَأْكُلُ yaʔ ku lu, بَيْعُ bay ʿu, يُنْظَرُ yun ẓa ru."
+      },
+      "translit": "",
+      "tags": [
+        "rule",
+        "consonant"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c042",
+      "front": {
+        "ar": "يَأْكُلُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yaʔ ku lu -- ي has its own fatḥah: consonant y"
+      },
+      "translit": "yaʔ ku lu",
+      "tags": [
+        "consonant",
+        "hamzah"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c043",
+      "front": {
+        "ar": "بَيْعُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "bay ʿu -- fatḥah + يْ = ay, not long ii"
+      },
+      "translit": "bay ʿu",
+      "tags": [
+        "consonant"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c044",
+      "front": {
+        "ar": "يُنْظَرُ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "yun ẓa ru -- ي has its own ḍammah: consonant y"
+      },
+      "translit": "yun ẓa ru",
+      "tags": [
+        "consonant"
+      ],
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-c045",
+      "front": {
+        "ar": "قَوْلَ",
+        "en": "Long vowel or not?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No long vowel: qaw la -- fatḥah + وْ = aw (Exercise 1, not circled)"
+      },
+      "translit": "qaw la",
+      "tags": [
+        "exercise",
+        "consonant"
+      ],
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-c046",
+      "front": {
+        "ar": "شَيْءُ",
+        "en": "Long vowel or not?"
+      },
+      "back": {
+        "ar": "",
+        "en": "No long vowel: shay ʔu -- fatḥah + يْ = ay (Exercise 1, not circled)"
+      },
+      "translit": "shay ʔu",
+      "tags": [
+        "exercise",
+        "consonant"
+      ],
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-c047",
+      "front": {
+        "ar": "سُوقِ",
+        "en": "Long vowel or not?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Yes, long uu: suu qi (Exercise 1, circled)"
+      },
+      "translit": "suu qi",
+      "tags": [
+        "exercise",
+        "long-uu"
+      ],
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-c048",
+      "front": {
+        "ar": "طِينْ",
+        "en": "Long vowel or not?"
+      },
+      "back": {
+        "ar": "",
+        "en": "Yes, long ii: ṭiin (Exercise 1, circled)"
+      },
+      "translit": "ṭiin",
+      "tags": [
+        "exercise",
+        "long-ii"
+      ],
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-c049",
+      "front": {
+        "ar": "سَمِيعْ",
+        "en": "Long, short or both?"
+      },
+      "back": {
+        "ar": "",
+        "en": "sa miiʿ -- both: short sa + long miiʿ. The book's Exercise 2 example circles long and short."
+      },
+      "translit": "sa miiʿ",
+      "tags": [
+        "exercise",
+        "long-ii"
+      ],
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-c050",
+      "front": {
+        "ar": "مَدْرَسَةْ",
+        "en": "Long, short or both?"
+      },
+      "back": {
+        "ar": "",
+        "en": "mad ra sah -- short only (Exercise 2, item 2)"
+      },
+      "translit": "mad ra sah",
+      "tags": [
+        "exercise",
+        "short"
+      ],
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-c051",
+      "front": {
+        "ar": "سِيَادَةْ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "si yaa dah -- ي has its own fatḥah (consonant y); the long vowel is aa"
+      },
+      "translit": "si yaa dah",
+      "tags": [
+        "exercise",
+        "consonant",
+        "long-aa"
+      ],
+      "source": "p. 94"
+    },
+    {
+      "id": "ch03-c052",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: ki taa bun"
+      },
+      "back": {
+        "ar": "كِتَابٌ",
+        "en": "Fatḥah on ت before ا; tanwiin ḍammah on ب"
+      },
+      "translit": "ki taa bun",
+      "tags": [
+        "exercise",
+        "writing"
+      ],
+      "source": "p. 95"
+    },
+    {
+      "id": "ch03-c053",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: jaa mi ʿa tun"
+      },
+      "back": {
+        "ar": "جَامِعَةٌ",
+        "en": "Fatḥah on ج before ا, then mi, ʿa, tun"
+      },
+      "translit": "jaa mi ʿa tun",
+      "tags": [
+        "exercise",
+        "writing"
+      ],
+      "source": "p. 95"
+    },
+    {
+      "id": "ch03-c054",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: ja miil"
+      },
+      "back": {
+        "ar": "جَمِيلْ",
+        "en": "Kasrah on م before ي = long ii"
+      },
+      "translit": "ja miil",
+      "tags": [
+        "exercise",
+        "writing"
+      ],
+      "source": "p. 96"
+    },
+    {
+      "id": "ch03-c055",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: mak tuu bun"
+      },
+      "back": {
+        "ar": "مَكْتُوبٌ",
+        "en": "Ḍammah on ت before و = long uu"
+      },
+      "translit": "mak tuu bun",
+      "tags": [
+        "exercise",
+        "writing"
+      ],
+      "source": "p. 96"
+    },
+    {
+      "id": "ch03-c056",
+      "front": {
+        "ar": "",
+        "en": "Write in Arabic: khay yaa ṭuun"
+      },
+      "back": {
+        "ar": "خَيَّاطُونْ",
+        "en": "yy = shaddah on ي; aa and uu are long-vowel letters"
+      },
+      "translit": "khay yaa ṭuun",
+      "tags": [
+        "exercise",
+        "writing"
+      ],
+      "source": "p. 96"
+    },
+    {
+      "id": "ch03-c057",
+      "front": {
+        "ar": "بُيُوتٍ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "bu yuu tin -- ي is a consonant with ḍammah, then long uu"
+      },
+      "translit": "bu yuu tin",
+      "tags": [
+        "exercise",
+        "long-uu"
+      ],
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-c058",
+      "front": {
+        "ar": "كِتَابِي",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "ki taa bii -- long aa, then long ii at the end"
+      },
+      "translit": "ki taa bii",
+      "tags": [
+        "exercise",
+        "long-aa",
+        "long-ii"
+      ],
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-c059",
+      "front": {
+        "ar": "سَيَّارَةٌ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "say yaa ra tun -- shaddah on ي (yy), then long aa"
+      },
+      "translit": "say yaa ra tun",
+      "tags": [
+        "exercise",
+        "long-aa"
+      ],
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-c060",
+      "front": {
+        "ar": "زَارِعُونَ",
+        "en": ""
+      },
+      "back": {
+        "ar": "",
+        "en": "zaa ri ʿuu na -- two long vowels: aa and uu (Exercise 6: 5 -> g)"
+      },
+      "translit": "zaa ri ʿuu na",
+      "tags": [
+        "exercise",
+        "long-aa",
+        "long-uu"
+      ],
+      "source": "p. 97"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch03-q001",
+      "prompt": {
+        "en": "Which short vowel must come right before a long-vowel alif ا?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "ḍammah"
+        },
+        {
+          "en": "kasrah"
+        },
+        {
+          "en": "sukuun"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Alif corresponds to fatḥah, waaw to ḍammah, yaaʔ to kasrah.",
+      "source": "p. 87"
+    },
+    {
+      "id": "ch03-q002",
+      "prompt": {
+        "en": "Which short vowel must come right before a long-vowel yaaʔ ي?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "fatḥah"
+        },
+        {
+          "en": "ḍammah"
+        },
+        {
+          "en": "kasrah"
+        },
+        {
+          "en": "shaddah"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Yaaʔ corresponds to kasrah. Fatḥah + يْ gives ay instead (بَيْعُ bay ʿu).",
+      "source": "pp. 87-92"
+    },
+    {
+      "id": "ch03-q003",
+      "prompt": {
+        "en": "Can a long vowel be the first letter of a word?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Yes, but only alif"
+        },
+        {
+          "en": "No -- a consonant with the matching short vowel must come before it"
+        },
+        {
+          "en": "Yes, all three can"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Long vowels must always be preceded by a consonant carrying the corresponding diacritic.",
+      "source": "p. 87"
+    },
+    {
+      "id": "ch03-q004",
+      "prompt": {
+        "en": "If fatḥah = 1 beat, how long is a long alif?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "1 beat"
+        },
+        {
+          "en": "2 beats"
+        },
+        {
+          "en": "3 beats"
+        },
+        {
+          "en": "4 beats"
+        }
+      ],
+      "correct": 1,
+      "explanation": "A long vowel is about twice as long as a short vowel, like bit vs beet.",
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-q005",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "بَا"
+      },
+      "options": [
+        {
+          "en": "baa"
+        },
+        {
+          "en": "ba ʔa"
+        },
+        {
+          "en": "ba"
+        },
+        {
+          "en": "bii"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Fatḥah + ا = one long syllable baa. Reading the alif as a separate ʔa is the mistake the book crosses out.",
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-q006",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "كِتَابُ"
+      },
+      "options": [
+        {
+          "en": "ki ta bu"
+        },
+        {
+          "en": "ki taa bu"
+        },
+        {
+          "en": "ki ta ʔa bu"
+        },
+        {
+          "en": "kii taa bu"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Only the تَا before alif is long; ki and bu stay short.",
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-q007",
+      "prompt": {
+        "en": "Which word has a long vowel?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "فَتَحَ"
+        },
+        {
+          "ar": "كَبِرْ"
+        },
+        {
+          "ar": "فَاتِحَ"
+        }
+      ],
+      "correct": 2,
+      "explanation": "فَاتِحَ = faa ti ḥa (fatḥah + ا). فَتَحَ fa ta ḥa and كَبِرْ ka bir are all short.",
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-q008",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "كَبِيرْ"
+      },
+      "options": [
+        {
+          "en": "ka bir"
+        },
+        {
+          "en": "ka biir"
+        },
+        {
+          "en": "kaa bir"
+        },
+        {
+          "en": "ka bayr"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Kasrah on ب + ي = long ii: ka biir. Without the ي it is كَبِرْ ka bir.",
+      "source": "p. 88"
+    },
+    {
+      "id": "ch03-q009",
+      "prompt": {
+        "en": "Which alif can work as a long vowel /aa/?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "en": "Alif without hamzah ا"
+        },
+        {
+          "en": "Alif with hamzah أ"
+        },
+        {
+          "en": "Both -- they sound the same"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Alif with hamzah is a consonant (/ʔ/); only plain alif is the long vowel.",
+      "source": "p. 89"
+    },
+    {
+      "id": "ch03-q010",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "ثَأْرَ"
+      },
+      "options": [
+        {
+          "en": "thaa ra"
+        },
+        {
+          "en": "thaʔ ra"
+        },
+        {
+          "en": "tha ʔa ra"
+        },
+        {
+          "en": "tha ra"
+        }
+      ],
+      "correct": 1,
+      "explanation": "أ has sukuun: the consonant ʔ closes the syllable (revenge). ثَارَ thaa ra (to rebel) has the long alif.",
+      "source": "p. 89"
+    },
+    {
+      "id": "ch03-q011",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "قَالَ"
+      },
+      "options": [
+        {
+          "en": "qa la"
+        },
+        {
+          "en": "qaa la"
+        },
+        {
+          "en": "qaa"
+        },
+        {
+          "en": "qal la"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Fatḥah on ق + ا = long qaa; ل carries its own fatḥah = la.",
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-q012",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "هُدَى"
+      },
+      "options": [
+        {
+          "en": "hu day"
+        },
+        {
+          "en": "hu dii"
+        },
+        {
+          "en": "hu daa"
+        },
+        {
+          "en": "hu da"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The undotted ى at the end is long alif: hu daa.",
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-q013",
+      "prompt": {
+        "en": "Which spelling matches the book's /ʿa laa/ example with final alif maqsuurah?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "عَلَى"
+        },
+        {
+          "ar": "عَلَا"
+        },
+        {
+          "ar": "عَلِي"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The book crosses out عَلَا: this word is always written with ى. عَلِي is a different word (ʿa lii).",
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-q014",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "عَلِي"
+      },
+      "options": [
+        {
+          "en": "ʿa laa"
+        },
+        {
+          "en": "ʿa lii"
+        },
+        {
+          "en": "ʿa li"
+        },
+        {
+          "en": "ʿa lay"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Kasrah on ل + dotted ي = long ii. Compare عَلَى ʿa laa with undotted ى.",
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-q015",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "نَجَا"
+      },
+      "options": [
+        {
+          "en": "na jaa"
+        },
+        {
+          "en": "naa ja"
+        },
+        {
+          "en": "na ja"
+        },
+        {
+          "en": "naj aa"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The alif follows the fatḥah on ج, so the final syllable is long: na jaa.",
+      "source": "p. 90"
+    },
+    {
+      "id": "ch03-q016",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "رُوحُ"
+      },
+      "options": [
+        {
+          "en": "ru ḥu"
+        },
+        {
+          "en": "raw ḥu"
+        },
+        {
+          "en": "ruu ḥu"
+        },
+        {
+          "en": "ru wa ḥu"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Ḍammah on ر + bare و = long uu.",
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-q017",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "قُبُورِ"
+      },
+      "options": [
+        {
+          "en": "qu buu ri"
+        },
+        {
+          "en": "quu buu ri"
+        },
+        {
+          "en": "qu bu ri"
+        },
+        {
+          "en": "qu baw ri"
+        }
+      ],
+      "correct": 0,
+      "explanation": "Only بُو is long; qu stays short.",
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-q018",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "هُو"
+      },
+      "options": [
+        {
+          "en": "hu"
+        },
+        {
+          "en": "huu"
+        },
+        {
+          "en": "hu wa"
+        },
+        {
+          "en": "haw"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Ḍammah + bare و at the end = long uu. The و has no mark, so it is not wa.",
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-q019",
+      "prompt": {
+        "en": "In this word, what is the و?",
+        "ar": "وَلَدْ"
+      },
+      "options": [
+        {
+          "en": "A long uu"
+        },
+        {
+          "en": "A consonant w -- it has its own fatḥah"
+        },
+        {
+          "en": "Part of the sound aw"
+        }
+      ],
+      "correct": 1,
+      "explanation": "A waaw with its own diacritic is a consonant: wa lad.",
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-q020",
+      "prompt": {
+        "en": "Why is the و here not a long uu?",
+        "ar": "مَوْلِدَ"
+      },
+      "options": [
+        {
+          "en": "It is preceded by ḍammah"
+        },
+        {
+          "en": "It is the last letter"
+        },
+        {
+          "en": "It has sukuun after a fatḥah, giving aw"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Long uu needs a ḍammah before a bare و. Here م has fatḥah and و has sukuun: maw li da. The book's Latin caption omits the final fatḥah.",
+      "source": "p. 91"
+    },
+    {
+      "id": "ch03-q021",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "حَكِيمُ"
+      },
+      "options": [
+        {
+          "en": "ḥa ki mu"
+        },
+        {
+          "en": "ḥaa kii mu"
+        },
+        {
+          "en": "ḥa kay mu"
+        },
+        {
+          "en": "ḥa kii mu"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Kasrah on ك + bare ي = long ii; ḥa stays short.",
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-q022",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "يَأْكُلُ"
+      },
+      "options": [
+        {
+          "en": "yaa ku lu"
+        },
+        {
+          "en": "yaʔ ku lu"
+        },
+        {
+          "en": "yii ku lu"
+        },
+        {
+          "en": "ya ku lu"
+        }
+      ],
+      "correct": 1,
+      "explanation": "ي has its own fatḥah (consonant y) and أ is a hamzah with sukuun: yaʔ ku lu. No long vowel.",
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-q023",
+      "prompt": {
+        "en": "How is this read?",
+        "ar": "بَيْعُ"
+      },
+      "options": [
+        {
+          "en": "bii ʿu"
+        },
+        {
+          "en": "baa ʿu"
+        },
+        {
+          "en": "bay ʿu"
+        },
+        {
+          "en": "bi ʿu"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Fatḥah + يْ (sukuun) = ay, not long ii.",
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-q024",
+      "prompt": {
+        "en": "Why is the ي in this word a consonant?",
+        "ar": "يُنْظَرُ"
+      },
+      "options": [
+        {
+          "en": "It follows a kasrah"
+        },
+        {
+          "en": "It has its own ḍammah"
+        },
+        {
+          "en": "It is undotted"
+        }
+      ],
+      "correct": 1,
+      "explanation": "A yaaʔ with its own diacritic is the consonant y: yun ẓa ru.",
+      "source": "p. 92"
+    },
+    {
+      "id": "ch03-q025",
+      "prompt": {
+        "en": "Exercise 1: which word contains a long vowel?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "قَوْلَ"
+        },
+        {
+          "ar": "صَوْتٌ"
+        },
+        {
+          "ar": "سُوقِ"
+        },
+        {
+          "ar": "حَوْلَ"
+        }
+      ],
+      "correct": 2,
+      "explanation": "سُوقِ has ḍammah + bare و = suu qi. The others have fatḥah + وْ = aw (answer key: not circled).",
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-q026",
+      "prompt": {
+        "en": "Exercise 1: which word has NO long vowel?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "طِينْ"
+        },
+        {
+          "ar": "شَيْءُ"
+        },
+        {
+          "ar": "دِينٌ"
+        },
+        {
+          "ar": "نُورٌ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "شَيْءُ = shay ʔu: fatḥah + يْ = ay. طِينْ, دِينٌ and نُورٌ all have a long vowel.",
+      "source": "p. 93"
+    },
+    {
+      "id": "ch03-q027",
+      "prompt": {
+        "en": "Exercise 2: what do you circle for yad khul?",
+        "ar": "يَدْخُلْ"
+      },
+      "options": [
+        {
+          "en": "long only"
+        },
+        {
+          "en": "short only"
+        },
+        {
+          "en": "both long and short"
+        }
+      ],
+      "correct": 1,
+      "explanation": "No aa / uu / ii, so the answer key circles short only.",
+      "source": "p. 94"
+    },
+    {
+      "id": "ch03-q028",
+      "prompt": {
+        "en": "Exercise 2: what do you circle for ma kaan?",
+        "ar": "مَكَانْ"
+      },
+      "options": [
+        {
+          "en": "long only"
+        },
+        {
+          "en": "short only"
+        },
+        {
+          "en": "both long and short"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Short ma + long kaan: the answer key circles both, like the book's example سَمِيعْ.",
+      "source": "p. 94"
+    },
+    {
+      "id": "ch03-q029",
+      "prompt": {
+        "en": "In si yaa dah, what is the ي?",
+        "ar": "سِيَادَةْ"
+      },
+      "options": [
+        {
+          "en": "A long ii after kasrah"
+        },
+        {
+          "en": "Part of the sound ay"
+        },
+        {
+          "en": "A consonant y with its own fatḥah"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The ي carries fatḥah, so it is y; the long vowel is the aa that follows.",
+      "source": "p. 94"
+    },
+    {
+      "id": "ch03-q030",
+      "prompt": {
+        "en": "Exercise 3: which marking fits /jaa mi ʿa tun/?",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "جَامَعَةٌ"
+        },
+        {
+          "ar": "جَامِعَةٌ"
+        },
+        {
+          "ar": "جَامِعَةً"
+        },
+        {
+          "ar": "جُامِعَةٌ"
+        }
+      ],
+      "correct": 1,
+      "explanation": "jaa = fatḥah on ج before ا, mi = kasrah, ʿa = fatḥah, tun = tanwiin ḍammah on ة.",
+      "source": "p. 95"
+    },
+    {
+      "id": "ch03-q031",
+      "prompt": {
+        "en": "Exercise 4: write /ja miil/",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "جَمِلْ"
+        },
+        {
+          "ar": "جَمَيْلْ"
+        },
+        {
+          "ar": "جَامِيلْ"
+        },
+        {
+          "ar": "جَمِيلْ"
+        }
+      ],
+      "correct": 3,
+      "explanation": "miil = kasrah on م + ي. جَمَيْلْ would be ja mayl; جَامِيلْ adds a long aa.",
+      "source": "p. 96"
+    },
+    {
+      "id": "ch03-q032",
+      "prompt": {
+        "en": "Exercise 4: write /mak tuu bun/",
+        "ar": ""
+      },
+      "options": [
+        {
+          "ar": "مَكْتُوبٌ"
+        },
+        {
+          "ar": "مَكْتُبٌ"
+        },
+        {
+          "ar": "مَكْتَوْبٌ"
+        },
+        {
+          "ar": "مُكْتُوبٌ"
+        }
+      ],
+      "correct": 0,
+      "explanation": "tuu = ḍammah on ت + و. مَكْتَوْبٌ would be mak taw bun; مَكْتُبٌ has no long vowel.",
+      "source": "p. 96"
+    },
+    {
+      "id": "ch03-q033",
+      "prompt": {
+        "en": "Exercise 5: transcribe",
+        "ar": "بُيُوتٍ"
+      },
+      "options": [
+        {
+          "en": "bu yuu tin"
+        },
+        {
+          "en": "buu yuu tin"
+        },
+        {
+          "en": "bu yu tin"
+        },
+        {
+          "en": "bay yuu tin"
+        }
+      ],
+      "correct": 0,
+      "explanation": "ب has only ḍammah (short bu); ي is a consonant with ḍammah followed by bare و = yuu.",
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-q034",
+      "prompt": {
+        "en": "Exercise 5: transcribe",
+        "ar": "حَمَّامِي"
+      },
+      "options": [
+        {
+          "en": "ḥa maa mii"
+        },
+        {
+          "en": "ḥam ma mii"
+        },
+        {
+          "en": "ḥam maa mi"
+        },
+        {
+          "en": "ḥam maa mii"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Shaddah on م gives ḥam ma..., then two long vowels: maa and final mii.",
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-q035",
+      "prompt": {
+        "en": "Exercise 5: transcribe",
+        "ar": "سَيَّارَةٌ"
+      },
+      "options": [
+        {
+          "en": "sa yaa ra tun"
+        },
+        {
+          "en": "say yaa ra tun"
+        },
+        {
+          "en": "say ya ra tun"
+        },
+        {
+          "en": "sii yaa ra tun"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Shaddah on ي splits into say + ya, and the alif makes it yaa.",
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-q036",
+      "prompt": {
+        "en": "Exercise 6: match the transcription",
+        "ar": "زَارِعُونَ"
+      },
+      "options": [
+        {
+          "en": "mu zaa ri ʿaa tun"
+        },
+        {
+          "en": "zur raaʿ"
+        },
+        {
+          "en": "maz ra ʿaa tin"
+        },
+        {
+          "en": "zaa ri ʿuu na"
+        }
+      ],
+      "correct": 3,
+      "explanation": "Answer key 5 -> g: long aa after ز and long uu after ع.",
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-q037",
+      "prompt": {
+        "en": "Exercise 6: match the transcription",
+        "ar": "مَزْرَعَاتٍ"
+      },
+      "options": [
+        {
+          "en": "maz ra ʿa tun"
+        },
+        {
+          "en": "maz ra ʿaa tin"
+        },
+        {
+          "en": "mu zaa ri ʿaa tun"
+        },
+        {
+          "en": "zar ʿan"
+        }
+      ],
+      "correct": 1,
+      "explanation": "Answer key 3 -> e: long aa before ت, and tanwiin kasrah gives -tin.",
+      "source": "p. 97"
+    },
+    {
+      "id": "ch03-q038",
+      "prompt": {
+        "en": "Exercise 6: match the transcription",
+        "ar": "زُرَّاعْ"
+      },
+      "options": [
+        {
+          "en": "iz raʿ"
+        },
+        {
+          "en": "zar ʿan"
+        },
+        {
+          "en": "zur raaʿ"
+        },
+        {
+          "en": "zaa ri ʿuu na"
+        }
+      ],
+      "correct": 2,
+      "explanation": "Answer key 2 -> f: shaddah on ر, then long aa.",
+      "source": "p. 97"
+    }
+  ]
+}
