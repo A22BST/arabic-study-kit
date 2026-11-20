@@ -5,6 +5,8 @@ const write = (key, value) => { try { localStorage.setItem(key, JSON.stringify(v
 const root = new URL(new URLSearchParams(location.search).get('root') || '../courses', location.href);
 root.pathname = root.pathname.replace(/\/?$/, '/');
 if (root.origin !== location.origin) throw new Error('Content root must be on this site.');
+const outRoot = new URL('../out/', root);
+let sheetChapter;
 let course, chapters = [], progress = emptyProgress(), mode = 'cards', queue = [], pos = 0, flipped = false, answered = false, score = 0, missed = [], voice;
 let prefs = read('ask:selection') || {}, loadGeneration = 0;
 const key = () => `ask:v1:${course.id}`;
@@ -58,6 +60,7 @@ function updateScope(changed) {
 }
 function start() {
   if (!course) return;
+  sheetChapter = Number($('scope').value === 'range' ? $('from').value : $('chapter').value);
   queue = mode === 'quiz' ? [] : orderCards(pool('cards'), progress);
   if (mode === 'mistakes') queue = orderCards([...pool('cards'), ...pool('quiz')].filter(x => x.id in progress.mistakes), progress);
   pos = 0; flipped = false; answered = false; score = 0; missed = []; render();
@@ -66,6 +69,7 @@ function advance() { pos++; flipped = false; answered = false; render(); }
 function render() {
   const area = $('study'); area.replaceChildren(); stats();
   document.querySelectorAll('[data-mode]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.mode === mode)));
+  if (mode === 'sheet') { renderSheet(area); return; }
   if (mode === 'quiz' && !queue.length) {
     area.append(el('h2', 'Test your recall')); textBlock(area, `${pool('quiz').length} questions in this scope.`, 'subtle');
     const label = el('label', 'Questions'); const select = el('select'); select.id = 'quiz-size';
@@ -95,6 +99,45 @@ function render() {
   area.append(face); textBlock(area, flipped ? item.source : 'Tap the card or press Space to reveal.', 'meta');
   if (flipped) { const actions = el('div', undefined, 'actions'); for (const [name,correct] of [['Again',false],['Good',true]]) actions.append(button(name, () => { record(progress,item.id,correct,true); save(); advance(); }, correct ? 'good' : 'again')); area.append(actions); }
 }
+function openSheet(image) {
+  const dialog = el('dialog', undefined, 'sheet-overlay');
+  dialog.setAttribute('aria-label', image.alt);
+  const close = button('Close', () => dialog.close(), 'sheet-close');
+  const scroller = el('div', undefined, 'sheet-scroll'); scroller.tabIndex = 0;
+  scroller.setAttribute('aria-label', 'Scroll or pinch to zoom the cheat sheet');
+  const full = el('img'); full.src = image.src; full.alt = image.alt;
+  scroller.append(full); dialog.append(close, scroller); document.body.append(dialog);
+  dialog.addEventListener('close', () => { dialog.remove(); image.closest('button')?.focus(); }, { once: true });
+  dialog.showModal(); close.focus();
+}
+function renderSheet(area) {
+  if ($('scope').value === 'range') {
+    const row = el('div', undefined, 'sheet-chapters'); row.setAttribute('role', 'group'); row.setAttribute('aria-label', 'Sheet chapter');
+    for (const ch of course.chapters.filter(c => c.n >= Number($('from').value) && c.n <= Number($('chapter').value))) {
+      const b = button(String(ch.n), () => { sheetChapter = ch.n; render(); });
+      b.setAttribute('aria-label', `Chapter ${ch.n}`); b.setAttribute('aria-pressed', String(ch.n === sheetChapter)); row.append(b);
+    }
+    area.append(row);
+  }
+  area.append(el('h2', `Chapter ${sheetChapter} cheat sheet`));
+  const prefix = new URL(`${course.id}/ch${String(sheetChapter).padStart(2,'0')}`, outRoot);
+  const pages = el('div', undefined, 'sheet-pages');
+  const unavailable = () => {
+    const message = el('p', navigator.onLine ? 'Cheat sheet not available for this chapter' : 'Cheat sheet not available offline');
+    message.setAttribute('role', 'status'); pages.replaceChildren(message);
+  };
+  for (const n of [1, 2]) {
+    const image = el('img'); image.alt = `Chapter ${sheetChapter} cheat sheet, page ${n}`;
+    if (n === 2) image.loading = 'lazy';
+    image.onerror = unavailable;
+    image.src = new URL(`${course.id}/web/ch${String(sheetChapter).padStart(2,'0')}-p${n}.webp`, outRoot);
+    const zoom = button('', () => openSheet(image), 'sheet-page');
+    zoom.setAttribute('aria-label', `Enlarge ${image.alt}`); zoom.append(image); pages.append(zoom);
+  }
+  const pdf = el('a', 'Open PDF'); pdf.href = `${prefix}.pdf`; pdf.target = '_blank'; pdf.rel = 'noopener'; pdf.hidden = !navigator.onLine;
+  area.append(pages, pdf);
+}
+for (const event of ['online', 'offline']) window.addEventListener(event, () => { if (course && mode === 'sheet') render(); });
 function prepareQuiz(item) { return { ...item, optionsShuffled: shuffle(item.options.map((value,index) => ({ value, correct: index === item.correct }))) }; }
 function prepareQuizInPlace(item) { item.optionsShuffled = prepareQuiz(item).optionsShuffled; return item; }
 function renderQuiz(area,item) {
