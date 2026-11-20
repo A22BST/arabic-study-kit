@@ -1,4 +1,4 @@
-const CACHE = 'ask-v1-20261119-1';
+const CACHE = 'ask-v1-20261120-1';
 const SHELL = ['./','index.html','style.css','js/app.js','js/logic.js','manifest.webmanifest','fonts/NotoNaskhArabic.ttf','fonts/OFL.txt','icons/icon-192.png','icons/icon-512.png','icons/apple-touch-icon.png'];
 const base = new URL('./',self.location);
 async function cacheContent(root) {
@@ -21,7 +21,7 @@ async function cacheContent(root) {
 }
 self.addEventListener('install',event => event.waitUntil((async () => {
   const cache = await caches.open(CACHE);
-  await cache.addAll(SHELL.map(p => new URL(p,base).href));
+  await cache.addAll(SHELL.map(p => new Request(new URL(p,base).href,{cache:'reload'})));
   // Missing chapters are reported by the app, but do not prevent shell installation.
   await cacheContent(new URL('../courses/',base)); await self.skipWaiting();
 })()));

@@ -1,6 +1,7 @@
 export const emptyProgress = () => ({ boxes: {}, mistakes: {}, history: [] });
-export function inScope(chapters, n, cumulative) {
-  return chapters.filter(c => cumulative ? c.chapter <= n : c.chapter === n);
+export function inScope(chapters, { mode, from = 1, to }) {
+  const start = Math.min(from, to), end = Math.max(from, to);
+  return chapters.filter(c => mode === 'range' ? start <= c.chapter && c.chapter <= end : c.chapter === to);
 }
 export function shuffle(items, random = Math.random) {
   const result = [...items];

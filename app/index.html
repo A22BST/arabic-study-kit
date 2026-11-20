@@ -16,7 +16,7 @@
 <main class="wrap">
   <section class="settings" aria-label="Study selection">
     <label id="course-label">Course<select id="course"></select></label>
-    <div class="scope"><label>Scope<select id="scope"><option value="single">Only chapter</option><option value="cumulative">Chapters 1–N</option></select></label><label>Chapter<select id="chapter"></select></label></div>
+    <div class="scope"><label>Scope<select id="scope"><option value="single">Only chapter</option><option value="range">Chapter range</option></select></label><div class="chapter-selects"><label id="from-label" hidden><span id="from-text">From</span><select id="from" aria-labelledby="from-text"></select></label><label><span id="chapter-label">Chapter</span><select id="chapter" aria-labelledby="chapter-label"></select></label></div></div>
   </section>
   <p id="loading" role="status">Loading your course…</p><div id="errors" role="status"></div>
   <nav aria-label="Study modes"><button data-mode="cards" aria-pressed="true">Flashcards</button><button data-mode="quiz" aria-pressed="false">Quiz</button><button data-mode="mistakes" aria-pressed="false">Mistakes <span id="mistake-count">0</span></button></nav>

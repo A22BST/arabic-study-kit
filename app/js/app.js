@@ -8,7 +8,8 @@ if (root.origin !== location.origin) throw new Error('Content root must be on th
 let course, chapters = [], progress = emptyProgress(), mode = 'cards', queue = [], pos = 0, flipped = false, answered = false, score = 0, missed = [], voice;
 let prefs = read('ask:selection') || {}, loadGeneration = 0;
 const key = () => `ask:v1:${course.id}`;
-const scope = () => inScope(chapters, Number($('chapter').value), $('scope').value === 'cumulative');
+const selection = () => ({ mode: $('scope').value, from: Number($('from').value), to: Number($('chapter').value) });
+const scope = () => inScope(chapters, selection());
 const pool = type => scope().flatMap(c => c[type]);
 function el(tag, text, cls) { const e = document.createElement(tag); if (text !== undefined) e.textContent = text; if (cls) e.className = cls; return e; }
 function button(text, action, cls) { const b = el('button', text, cls); b.type = 'button'; b.onclick = action; return b; }
@@ -45,7 +46,16 @@ function stats() {
   $('mistake-count').textContent = Object.keys(progress.mistakes).length;
   $('history').textContent = progress.history.length ? 'Recent quiz scores: ' + progress.history.slice(-5).map(h => `${h.score}/${h.total}`).join(' · ') : 'Your study progress is saved on this device.';
 }
-function remember() { prefs = { course: course.id, chapter: $('chapter').value, scope: $('scope').value }; write('ask:selection', prefs); }
+function remember() { prefs = { course: course.id, ...selection() }; write('ask:selection', prefs); }
+function updateScope(changed) {
+  if (Number($('from').value) > Number($('chapter').value)) {
+    if (changed === 'from') $('chapter').value = $('from').value;
+    else $('from').value = $('chapter').value;
+  }
+  const range = $('scope').value === 'range';
+  $('from-label').hidden = !range;
+  $('chapter-label').textContent = range ? 'To' : 'Chapter';
+}
 function start() {
   if (!course) return;
   queue = mode === 'quiz' ? [] : orderCards(pool('cards'), progress);
@@ -120,10 +130,15 @@ async function loadCourse(id) {
       try { const data = await json(new URL(file,root)); if (!validChapter(data,c.n)) throw new Error('Invalid chapter data'); return data; } catch(e) { if (generation === loadGeneration) error(file,e); return null; }
     }));
     if (generation !== loadGeneration) return;
-    chapters = results.filter(Boolean); $('chapter').replaceChildren();
-    for (const c of course.chapters) { const o = el('option',`${c.n}. ${c.title}`); o.value = c.n; $('chapter').append(o); }
-    if ([...$('chapter').options].some(o => o.value === String(prefs.chapter))) $('chapter').value = prefs.chapter;
-    $('scope').value = prefs.scope === 'cumulative' ? 'cumulative' : 'single';
+    chapters = results.filter(Boolean);
+    for (const id of ['from', 'chapter']) {
+      $(id).replaceChildren();
+      for (const c of course.chapters) { const o = el('option',`${c.n}. ${c.title}`); o.value = c.n; $(id).append(o); }
+      const saved = id === 'from' ? (prefs.from ?? 1) : (prefs.to ?? prefs.chapter);
+      if ([...$(id).options].some(o => o.value === String(saved))) $(id).value = saved;
+    }
+    $('scope').value = prefs.mode === 'range' || prefs.scope === 'cumulative' ? 'range' : 'single';
+    updateScope();
     $('course-title').replaceChildren(); rich($('course-title'),course.title); $('loading').textContent = ''; remember(); start();
   } catch(e) { if (generation === loadGeneration) { error(`${id}/course.json`,e); $('loading').textContent = 'Choose an available course to continue.'; } }
 }
@@ -134,7 +149,7 @@ function validChapter(data,n) {
     && data.cards.every(x => item(x,'c') && bilingual(x.front) && bilingual(x.back))
     && data.quiz.every(x => item(x,'q') && bilingual(x.prompt) && Array.isArray(x.options) && x.options.length >= 3 && x.options.every(bilingual) && Number.isInteger(x.correct) && x.correct >= 0 && x.correct < x.options.length && typeof x.explanation === 'string');
 }
-$('scope').onchange = $('chapter').onchange = () => { remember(); start(); };
+for (const id of ['scope', 'from', 'chapter']) $(id).onchange = () => { updateScope(id); remember(); start(); };
 $('course').onchange = () => loadCourse($('course').value);
 document.querySelectorAll('[data-mode]').forEach(b => b.onclick = () => { mode = b.dataset.mode; start(); });
 function theme(value) { if (value) document.documentElement.dataset.theme = value; const dark = value ? value === 'dark' : matchMedia('(prefers-color-scheme:dark)').matches; $('theme').textContent = dark ? 'Light mode' : 'Dark mode'; $('theme').setAttribute('aria-pressed',String(dark)); }
@@ -161,6 +176,12 @@ $('import').onchange = async () => {
 async function offline() {
   if (!('serviceWorker' in navigator)) { $('offline-status').textContent = 'Offline installation is unavailable in this browser.'; return; }
   try {
+    // Refresh an already controlled page once when a new cache-first shell takes over.
+    const controlled = Boolean(navigator.serviceWorker.controller);
+    let reloading = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (controlled && !reloading) { reloading = true; location.reload(); }
+    });
     await navigator.serviceWorker.register('sw.js');
     const registration = await navigator.serviceWorker.ready;
     const worker = registration.active;
